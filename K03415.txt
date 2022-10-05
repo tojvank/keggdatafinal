@@ -1,0 +1,1779 @@
+ENTRY       K03415                      KO
+SYMBOL      cheV
+NAME        two-component system, chemotaxis family, chemotaxis protein CheV
+PATHWAY     map02020  Two-component system
+            map02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K03415  cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                K03415  cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K03415  cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+               02035 Bacterial motility proteins
+                K03415  cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+            Two-component system [BR:ko02022]
+             CheA family
+              CheA-CheYBV (chemotaxis)
+               K03415  cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+            Bacterial motility proteins [BR:ko02035]
+             Flagellar system
+              Chemotaxis proteins
+               Two component system proteins
+                K03415  cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+DBLINKS     COG: COG0784 COG0835
+GENES       EFE: EFER_0899
+            STY: STY2545
+            STT: t0549
+            SEX: STBHUCCB_5900
+            SENT: TY21A_02795
+            STM: STM2314
+            SEO: STM14_2852
+            SEV: STMMW_23371
+            SEY: SL1344_2283
+            SEM: STMDT12_C23350
+            SEJ: STMUK_2344
+            SEB: STM474_2410
+            SEF: UMN798_2496
+            SETU: STU288_07945
+            SETC: CFSAN001921_05225
+            SENR: STMDT2_22831
+            SEND: DT104_23711
+            SENI: CY43_12395
+            SEEN: SE451236_17765
+            SPT: SPA0549
+            SEK: SSPA0513
+            SPQ: SPAB_00667
+            SEI: SPC_1397
+            SEC: SCH_2314(cheV)
+            SEH: SeHA_C2554
+            SHB: SU5_02909
+            SENH: CFSAN002069_20275
+            SEEH: SEEH1578_20850
+            SEE: SNSL254_A2499
+            SENN: SN31241_34190
+            SEW: SeSA_A2543
+            SEA: SeAg_B2450
+            SENS: Q786_11410
+            SED: SeD_A2658
+            SEG: SG2343
+            SEL: SPUL_0576
+            SEGA: SPUCDC_0576
+            SET: SEN2296
+            SENA: AU38_11605
+            SENO: AU37_11615
+            SENV: AU39_11615
+            SENQ: AU40_12995
+            SENL: IY59_11930
+            SENJ: CFSAN001992_22005
+            SEEC: CFSAN002050_18495
+            SEEB: SEEB0189_008000
+            SEEP: I137_02655
+            SENB: BN855_23950(cheV)
+            SENE: IA1_11525
+            SENC: SEET0819_18660
+            SES: SARI_00584
+            SBG: SBG_2102
+            SBZ: A464_2429
+            SBV: N643_10285
+            SALZ: EOS98_07475
+            ENC: ECL_03619
+            ENL: A3UG_15980
+            ECLG: EC036_31060
+            ECLE: ECNIH2_15945
+            ECLN: ECNIH4_07235
+            ECLI: ECNIH5_14890
+            ECLX: LI66_15290
+            ECLY: LI62_16790
+            ECLZ: LI64_14725
+            ECLO: ENC_39360
+            EHM: AB284_10130
+            EXF: BFV63_15110
+            ECLA: ECNIH3_14985
+            ECLC: ECR091_14920
+            EAU: DI57_03795
+            EKB: BFV64_15625
+            ENO: ECENHK_15415
+            EEC: EcWSU1_03147(cheV)
+            ELG: BH714_11785
+            ECAN: CWI88_06840
+            ERN: BFV67_15280
+            ECLS: LI67_016535
+            ECHG: FY206_17095
+            ESH: C1N69_15790
+            ENT: Ent638_2819
+            EAS: Entas_2991
+            ENR: H650_07245
+            ENX: NI40_015520
+            ENF: AKI40_1586
+            LNI: CWR52_19610
+            EBG: FAI37_13685
+            END: A4308_20085
+            ENZ: G0034_16030
+            ENS: HWQ15_00800
+            ENK: LOC22_03415
+            EHU: D5067_0007340
+            EMOR: L6Y89_15110
+            ENB: ELK40_15805
+            ESA: ESA_02190
+            CSK: ES15_2336(cheV)
+            CSZ: CSSP291_10380
+            CSJ: CSK29544_03472
+            CCON: AFK62_08160
+            CDM: AFK67_08270
+            CSI: P262_03379
+            CMJ: AFK66_011420
+            CUI: AFK65_08115
+            CMW: AFK63_10325
+            CTU: CTU_17860
+            KMI: VW41_23475
+            CRO: ROD_26761
+            CKO: CKO_00521
+            CFD: CFNIH1_22915
+            CBRA: A6J81_24850
+            CWE: CO701_06545
+            CYO: CD187_07790
+            CPOT: FOB25_18915
+            CFQ: C2U38_16870
+            CSED: JY391_07485
+            CAMA: F384_12150
+            CAF: AL524_10745
+            CIF: AL515_15820
+            CFAR: CI104_17485
+            CIR: C2U53_27335
+            CIE: AN232_12445
+            CPAR: CUC49_11870
+            CTEL: GBC03_12980
+            CITZ: E4Z61_01385
+            CARS: E1B03_18305
+            CNT: JT31_12580
+            CEM: LH23_05165
+            CEN: LH86_05095
+            CLAP: NCTC11466_04648(cheV)
+            PGE: LG71_12030
+            ESC: Entcl_1454
+            KLE: AO703_14595
+            KSA: C813_23190
+            KOR: AWR26_08140
+            KRD: A3780_15845
+            KCO: BWI95_20970
+            KOT: EH164_07200
+            KPSE: IP581_15545
+            KIE: NCTC12125_00415(cheV)
+            KAS: KATP_14100
+            LAX: APT61_06895
+            LEI: C2U54_20735
+            LEH: C3F35_19035
+            LEE: DVA44_07030
+            LER: GNG29_15740
+            LEA: GNG26_15590
+            LPNU: KQ929_06080
+            LAZ: A8A57_14665
+            LEF: LJPFL01_2890
+            LEW: DAI21_11980
+            BUF: D8682_16790
+            BAGE: BADSM9389_02270
+            BFT: MNO13_01285
+            SYM: K6K13_06965
+            METY: MRY16398_16290
+            YRE: HEC60_10725
+            SGOE: A8O29_007135
+            KIN: AB182_07000
+            PDZ: HHA33_10075
+            IZH: FEM41_19405
+            PSHI: SAMEA2665130_0830(cheV)
+            EBC: C2U52_17535
+            PSTS: E05_42320
+            YEN: YE2673
+            YEP: YE105_C1615
+            YEY: Y11_15501
+            YEL: LC20_02058
+            YEW: CH47_2020
+            YET: CH48_3212
+            YEF: FORC2_2650
+            YEE: YE5303_24401
+            YFR: AW19_759
+            YIN: CH53_3399
+            YKR: CH54_903
+            YRO: CH64_108
+            YAK: ACZ76_01490
+            YMA: DA391_08300
+            YHI: D5F51_11370
+            YCA: F0T03_13820
+            YMO: HRD69_13315
+            SERA: Ser39006_017580
+            SERQ: CWC46_17580
+            RAH: Rahaq_1865
+            RACE: JHW33_03590
+            RAQ: Rahaq2_1912
+            RAA: Q7S_09145
+            ROX: BV494_03945
+            RVC: J9880_19870
+            EAME: GXP68_13255
+            ECA: ECA1568
+            PATR: EV46_07925
+            PATO: GZ59_16050
+            PCT: PC1_1449
+            PCC: PCC21_014660
+            PCV: BCS7_07235
+            PWA: Pecwa_1838
+            PPAR: A8F97_09640
+            PEC: W5S_1751
+            PWS: A7983_22340
+            PPOA: BJK05_02460
+            PBRA: B5S52_14295
+            PPUJ: E2566_07795
+            PARI: I2D83_14765
+            PAQU: DMB82_0013280
+            PVZ: OA04_28300(cheV)
+            PPAV: LOZ86_14025
+            PQU: IG609_013080
+            DDD: Dda3937_02985
+            DZE: Dd1591_2613
+            DDC: Dd586_2525
+            DZC: W909_07685
+            DSO: A4U42_17115
+            CED: LH89_04035
+            DFN: CVE23_08780
+            DDQ: DDI_1345
+            DAQ: DAQ1742_01581
+            DIC: Dpoa569_002305
+            DDA: Dd703_2470
+            BGJ: AWC36_10090
+            BRB: EH207_06660
+            BNG: EH206_07430
+            BIZ: HC231_14755
+            LBQ: CKQ53_11325
+            LPOP: I6N93_06070
+            EAM: EAMY_1515(cheV)
+            EAY: EAM_1498
+            ETA: ETA_19840
+            EPY: EpC_21080
+            EPR: EPYR_02267(cheV)
+            EBI: EbC_11920
+            ERJ: EJP617_26160
+            EGE: EM595_1494(cheV)
+            EPE: CI789_10115
+            ERWI: GN242_12390
+            ETP: LU633_08455
+            ERP: LJN55_08580
+            PAM: PANA_0916(cheV)
+            PLF: PANA5342_3392(cheV)
+            PAJ: PAJ_0248(cheV)
+            PAQ: PAGR_g3289
+            PVA: Pvag_0292(cheV)
+            PAGG: AL522_08430
+            PAO: Pat9b_0852
+            KLN: LH22_18010
+            PANT: PSNIH1_09185
+            PANP: PSNIH2_07675
+            PAGC: BEE12_11160
+            PSTW: DSJ_19830
+            PALH: B1H58_17010
+            PANS: FCN45_04355
+            PEY: EE896_15120
+            PDIS: D8B20_04100
+            PER: LAC65_03435
+            PGZ: C2E15_11175
+            PCD: C2E16_11025
+            MINT: C7M51_01402(cheV)
+            MTHI: C7M52_01346(cheV)
+            HAV: AT03_21360
+            HPAR: AL518_05410
+            OPO: DSM2777_04055
+            XCC: XCC1953(cheV)
+            XCB: XC_2233
+            XCA: xcc-b100_2251
+            XCP: XCR_2232
+            XCV: XCV2034
+            XAX: XACM_2012
+            XAC: XAC1987(cheV)
+            XCI: XCAW_01840(cheW)
+            XCT: J151_02144
+            XCJ: J158_02133
+            XCU: J159_02132
+            XCN: J169_02141
+            XCW: J162_02134
+            XCR: J163_02132
+            XCM: J164_02132
+            XCF: J172_02135
+            XAO: XAC29_10060
+            XOM: XOO2427(XOO2427)
+            XOO: XOO2568(cheV)
+            XOP: PXO_01014 PXO_06152
+            XOY: AZ54_11295
+            XOR: XOC_2387
+            XOZ: BE73_11440
+            XAL: XALC_1429
+            XSA: SB85_01920
+            XTN: FD63_10240
+            XFR: BER92_10240
+            XVE: BJD12_01360
+            XPE: BJD13_06400
+            XHR: XJ27_03360
+            XGA: BI317_12870
+            XPH: XppCFBP6546_02940(XppCFBP6546P_02940)
+            XVA: C7V42_12010
+            XAN: AC801_10515
+            XAR: XB05_05350
+            XHY: FZ025_19385
+            XCZ: EBN15_11595
+            XTH: G4Q83_04290
+            XEU: XSP_002079
+            XHD: LMG31886_23290(cheV)
+            XPR: MUG10_21995
+            SML: Smlt2318
+            SMT: Smal_1907
+            BUJ: BurJV3_1962
+            SMZ: SMD_2089(cheV)
+            SACZ: AOT14_19370
+            STEK: AXG53_08530
+            SRH: BAY15_1879
+            SLM: BIZ42_18785
+            STEN: CCR98_10180
+            STEM: CLM74_10625
+            STES: MG068_10135
+            SINC: DAIF1_20760(cheV)
+            SPAQ: STNY_R20050
+            PSU: Psesu_1522
+            PSUW: WQ53_15745
+            PMEX: H4W19_05635
+            PJP: LAG73_09030
+            PDD: MNQ95_14400
+            LYT: DWG18_02650
+            LSOL: GOY17_15375
+            LCIC: INQ41_03610
+            LLZ: LYB30171_00695(cheV)
+            LUM: CNR27_09825
+            LUS: E5843_07830
+            LUG: FPZ22_00520
+            TBV: H9L17_00595
+            FAU: Fraau_2056
+            RHD: R2APBS1_3016
+            RTH: LRK53_15180 LRK53_18880
+            DJI: CH75_15315
+            DJA: HY57_19185
+            DTX: ATSB10_00950
+            DCS: ISN74_18775
+            DTL: H8F01_05530
+            DTA: DYST_04287
+            LRZ: BJI69_02090
+            LPY: FIV34_15800
+            LANH: KR767_12585
+            VCH: VC_1602 VC_2006 VC_2202 VC_A0954
+            VCF: IR04_04185 IR04_13230 IR04_15165 IR04_16165
+            VCS: MS6_1384 MS6_1763 MS6_1950 MS6_A0990
+            VCE: Vch1786_I1101 Vch1786_I1497 Vch1786_I1695 Vch1786_II0642
+            VCQ: EN18_03040 EN18_11200 EN18_13125 EN18_14120
+            VCJ: VCD_000380 VCD_002136 VCD_002361 VCD_002774
+            VCI: O3Y_07770 O3Y_09685 O3Y_10600 O3Y_17963
+            VCO: VC0395_0285 VC0395_A1207(cheV-1) VC0395_A1592(cheV-2) VC0395_A1794(cheV-3)
+            VCR: VC395_1718(cheV-1) VC395_2121(cheV-2) VC395_2318(cheV-3) VC395_A0979
+            VCM: VCM66_1542(cheV-1) VCM66_1930(cheV-2) VCM66_2125(cheV-3) VCM66_A0914
+            VCL: VCLMA_A1393 VCLMA_A1745 VCLMA_A1927 VCLMA_B0712
+            VCX: VAA049_1203 VAA049_2038 VAA049_674 VAA049_874
+            VCZ: VAB027_1170 VAB027_2249 VAB027_2640 VAB027_2844
+            VVU: VV1_0228 VV1_2990 VV2_0068 VV2_1619
+            VVY: VV0958 VV1291 VVA0429 VVA0575
+            VVM: VVMO6_01927 VVMO6_02268 VVMO6_03386 VVMO6_03517
+            VVL: VV93_v1c08860(cheV) VV93_v1c12090 VV93_v1c34150 VV93_v1c35780
+            VPA: VP0773 VP2037 VPA0431 VPA0746
+            VPB: VPBB_0740 VPBB_1873 VPBB_A0400 VPBB_A0687
+            VPK: M636_01425 M636_03190 M636_11650 M636_17880
+            VPF: M634_05870 M634_12380 M634_21675 M634_24310
+            VPH: VPUCM_20905 VPUCM_2110 VPUCM_21202 VPUCM_2452
+            VHA: VIBHAR_01282 VIBHAR_02869 VIBHAR_05250 VIBHAR_05890
+            VCA: M892_06600 M892_16605 M892_22300 M892_25055
+            VAG: N646_1113 N646_2922 N646_3078 N646_4150
+            VEX: VEA_000281 VEA_001360 VEA_003013 VEA_004175
+            VDB: AL552_01180 AL552_06470 AL552_12270 AL552_18815
+            VHR: AL538_03820 AL538_13425 AL538_23580 AL538_26525
+            VNA: PN96_09595 PN96_23020
+            VOW: A9237_04455 A9237_13890 A9237_18695 A9237_21945
+            VRO: BSZ04_06945 BSZ04_07585 BSZ04_13290 BSZ04_19550
+            VSP: VS_0799 VS_1039 VS_II0293
+            VEJ: VEJY3_03535 VEJY3_22406
+            VFU: vfu_A01118 vfu_A01326 vfu_A02065 vfu_B00759
+            VNI: VIBNI_A1049 VIBNI_A2338 VIBNI_A2644 VIBNI_B0862
+            VAN: VAA_01256 VAA_03054 VAA_03326 VAA_03525
+            LAG: N175_04955 N175_05960 N175_07260 N175_16190
+            VAU: VANGNB10_cI1502c VANGNB10_cI1820c(cheV-1) VANGNB10_cI1999c(cheV-2) VANGNB10_cII0872
+            VCY: IX92_02845 IX92_04330 IX92_11295 IX92_21520
+            VCT: JV59_18080 JV59_27350 JV59_34415 JV59_35845
+            VTU: IX91_10120 IX91_11340 IX91_17760 IX91_21080
+            VEU: IXK98_01805 IXK98_06650 IXK98_18925 IXK98_20095
+            VSI: MTO69_03690 MTO69_04700 MTO69_06380 MTO69_06540 MTO69_15045 MTO69_17760
+            VFL: AL536_00895 AL536_09405 AL536_10565 AL536_14145
+            VMI: AL543_00685 AL543_17265 AL543_19305 AL543_20355
+            VSC: VSVS12_00971 VSVS12_01260 VSVS12_03599
+            VGA: BSQ33_02140 BSQ33_04505 BSQ33_14280 BSQ33_20930
+            VSH: BSZ05_01905 BSZ05_11745 BSZ05_20230
+            VQI: CCZ37_05510 CCZ37_08650 CCZ37_09650 CCZ37_14210
+            VTA: A1111 A1366 A1757 B1585
+            VAF: D1115_09960 D1115_11325 D1115_18280 D1115_20590
+            VNL: D3H41_03970 D3H41_11215 D3H41_19025 D3H41_24460
+            VCC: FAZ90_05210 FAZ90_11015 FAZ90_19805
+            VAS: GT360_05140 GT360_10635 GT360_16760
+            VAQ: FIV01_03200(cheV1) FIV01_03820(cheV2) FIV01_09775(cheV3) FIV01_20520(cheV4)
+            VSR: Vspart_01972(cheV_1) Vspart_02210(cheV_2) Vspart_02463(cheV_3) Vspart_04396(cheV_4)
+            VKA: BTD91_01390 BTD91_10480 BTD91_18555
+            VZI: G5S32_09780 G5S32_11000 G5S32_17930
+            VNV: IF132_02715 IF132_03490 IF132_11420 IF132_20555
+            VGI: MID13_03920 MID13_10405 MID13_17315
+            VSL: LTQ54_04800 LTQ54_13955 LTQ54_18785
+            VPL: SA104470976_00608(cheV_1) SA104470976_01330(cheV-1) SA104470976_01708(cheV_2) SA104470976_02750(cheV_3)
+            VFI: VF_1879(cheV1) VF_A0698(cheV3) VF_A0802(cheV2)
+            VFM: VFMJ11_2011 VFMJ11_A0785 VFMJ11_A0929
+            VSA: VSAL_I2340(cheV) VSAL_II0231(cheV) VSAL_II0498
+            AWD: AWOD_II_0450 AWOD_II_0902(cheV) AWOD_I_1997(cheV)
+            PPR: PBPRA0899(PP4393) PBPRA1910(CHEV-2) PBPRB0761(CHEV-3) PBPRB0762(VP0773)
+            PGB: H744_1c0732 H744_1c1216 H744_2c2933
+            PDS: CAY62_03420
+            PGH: FH974_11755 FH974_17510 FH974_19005
+            GHO: AL542_00850 AL542_00855 AL542_05545 AL542_17560
+            SALY: E8E00_02935 E8E00_15325 E8E00_15515 E8E00_15520
+            SKS: FCN78_09905 FCN78_14395 FCN78_14545 FCN78_14550
+            SCOT: HBA18_10395 HBA18_15220 HBA18_15405 HBA18_15410
+            PAE: PA3349
+            PAEV: N297_3468
+            PAEI: N296_3468
+            PAU: PA14_20750
+            PAP: PSPA7_1781
+            PAG: PLES_17151
+            PAF: PAM18_1616
+            PNC: NCGM2_4480
+            PAEB: NCGM1900_2926
+            PDK: PADK2_07525
+            PSG: G655_08015
+            PRP: M062_17885
+            PAEP: PA1S_08600
+            PAER: PA1R_gp1187
+            PAEM: U769_08100
+            PAEL: T223_08600
+            PAES: SCV20265_1697
+            PAEU: BN889_03719
+            PAEG: AI22_25285
+            PAEC: M802_3467
+            PAEO: M801_3333
+            PMY: Pmen_1572 Pmen_2185 Pmen_2852
+            PMK: MDS_1626 MDS_1815 MDS_2529
+            PRE: PCA10_21010 PCA10_40490
+            PPSE: BN5_1372(cheV1) BN5_2056(cheV3) BN5_2679(cheV5)
+            PFUW: KF707C_17450 KF707C_34600
+            PALC: A0T30_11195 A0T30_14550
+            PCQ: PcP3B5_16030(cheV_1) PcP3B5_19050(cheV_2)
+            PMUI: G4G71_20340 G4G71_23855
+            PPU: PP_0802 PP_2128 PP_4393
+            PPF: Pput_0826 Pput_1461 Pput_3612
+            PPG: PputGB1_0841 PputGB1_1670 PputGB1_3954
+            PPW: PputW619_1646 PputW619_3734 PputW619_4384
+            PPT: PPS_0860 PPS_1693 PPS_3796
+            PPB: PPUBIRD1_0848(cheV) PPUBIRD1_1449(cheV_2) PPUBIRD1_3524(cheV_3)
+            PPI: YSA_01518 YSA_06670 YSA_08016
+            PPX: T1E_0598(cheV) T1E_3276 T1E_5091
+            PPUH: B479_04510 B479_08270 B479_18865
+            PPUT: L483_04055 L483_07890 L483_24310
+            PPUN: PP4_13680 PP4_37200 PP4_44760
+            PPUD: DW66_0824 DW66_1986 DW66_4231
+            PFV: Psefu_1866 Psefu_2925 Psefu_3108
+            PMON: X969_02555 X969_06535 X969_18240
+            PMOT: X970_02530 X970_06510 X970_17875
+            PMOS: O165_004525 O165_015585 O165_028230
+            PPJ: RK21_00703 RK21_03299 RK21_04142
+            POR: APT59_08400 APT59_15130
+            PMOL: CLJ08_17375 CLJ08_20315 CLJ08_21610 CLJ08_22010
+            PST: PSPTO_1323 PSPTO_1927 PSPTO_3524
+            PSB: Psyr_1139 Psyr_3297 Psyr_3486
+            PSYR: N018_08055 N018_16545 N018_19955
+            PSP: PSPPH_1207 PSPPH_3217 PSPPH_3413
+            PSAV: PSA3335_09555 PSA3335_11710 PSA3335_12755
+            PAMG: BKM19_008565 BKM19_019300 BKM19_020405
+            PCI: PCH70_10890 PCH70_31940 PCH70_33800
+            PAVL: BKM03_07410 BKM03_11595 BKM03_19935
+            PVD: CFBP1590__1801 CFBP1590__3400 CFBP1590__4204
+            PCAB: JGS08_10415 JGS08_18140 JGS08_19145
+            PCOF: POR16_07865 POR16_15050 POR16_18560
+            PTRE: I9H09_05435 I9H09_08500 I9H09_10230
+            PSYI: MME58_05655 MME58_16895 MME58_17855
+            PFL: PFL_4203 PFL_4482 PFL_5042
+            PPRC: PFLCHA0_c42660(cheV1) PFLCHA0_c45530(cheV2) PFLCHA0_c50170(cheV3)
+            PPRO: PPC_4300 PPC_4591 PPC_5040
+            PFE: PSF113_1738(cheV) PSF113_4456(cheV2) PSF113_4839(cheV3)
+            PFN: HZ99_09480 HZ99_12020 HZ99_27620
+            PFO: Pfl01_3954 Pfl01_4253(cheV) Pfl01_4654
+            PFS: PFLU_0966 PFLU_4401 PFLU_4733 PFLU_5314
+            PFC: PflA506_0947 PflA506_3705 PflA506_4039
+            PPZ: H045_01565 H045_12925 H045_14725
+            PFB: VO64_1586 VO64_4043 VO64_5135
+            PMAN: OU5_1504 OU5_4554 OU5_5041
+            PTV: AA957_09170 AA957_21195 AA957_22815
+            PCG: AXG94_08355 AXG94_20130 AXG94_24245
+            PVR: PverR02_05100 PverR02_22400 PverR02_24050 PverR02_27265
+            PAZO: AYR47_12105 AYR47_28690 AYR47_30460
+            POI: BOP93_04610 BOP93_18060 BOP93_19680
+            PRX: HRH33_05680 HRH33_19090 HRH33_20685 HRH33_23140
+            PMED: E3Z27_04560 E3Z27_08835 E3Z27_21545
+            PFW: PF1751_v1c09240 PF1751_v1c38960 PF1751_v1c42400(cheV)
+            PFF: PFLUOLIPICF703510 PFLUOLIPICF714970 PFLUOLIPICF716720
+            PFX: A7318_04165 A7318_18730 A7318_20510
+            PEN: PSEEN0950 PSEEN3735 PSEEN3845
+            PLUL: FOB45_08020 FOB45_17625 FOB45_17845
+            PBA: PSEBR_a1655 PSEBR_a4289 PSEBR_a4677
+            PBC: CD58_04960 CD58_09200 CD58_22685
+            PPUU: PputUW4_00847(cheV1) PputUW4_01469(cheV2) PputUW4_04139(cheV3)
+            PDR: H681_08760 H681_16305
+            PSV: PVLB_07860 PVLB_17405 PVLB_20985
+            PSK: U771_05995 U771_22920 U771_24605 U771_27365
+            PKC: PKB_1634 PKB_3797(cheV)
+            PCH: EY04_21305 EY04_22730 EY04_25565
+            PCZ: PCL1606_12260 PCL1606_17000 PCL1606_19620
+            PCP: JM49_06120 JM49_08460 JM49_09900
+            PFZ: AV641_04270 AV641_07000 AV641_16910
+            PLQ: AA042_03020 AA042_05535 AA042_16770
+            PALK: PSAKL28_08340 PSAKL28_16300 PSAKL28_37880
+            PRH: LT40_02315 LT40_03345 LT40_07350
+            PSW: LK03_09640 LK03_12440 LK03_20255
+            PPV: NJ69_00765 NJ69_04670 NJ69_11120
+            PSES: PSCI_0650 PSCI_3439 PSCI_5488
+            PSEM: TO66_22095 TO66_23400 TO66_25620
+            PSEC: CCOS191_1460 CCOS191_3597 CCOS191_4469
+            PPSY: AOC04_01090 AOC04_03715 AOC04_14180
+            PSOS: POS17_2752 POS17_4291 POS17_4553 POS17_5023
+            PKR: AYO71_21585 AYO71_23285 AYO71_25160
+            PFK: PFAS1_02960 PFAS1_04145 PFAS1_16720
+            PANR: A7J50_0965 A7J50_4079 A7J50_4499
+            PPSL: BJP27_06745 BJP27_23315
+            PSET: THL1_2117 THL1_4012
+            PSIL: PMA3_04225 PMA3_05785 PMA3_07190
+            PYM: AK972_0804 AK972_1315 AK972_1684
+            PKE: DLD99_19865 DLD99_21315 DLD99_23625
+            PALL: UYA_08170 UYA_12285 UYA_15170
+            PUM: HGP31_23215 HGP31_24565 HGP31_25990
+            POJ: PtoMrB4_17180 PtoMrB4_36700
+            PGG: FX982_02418 FX982_04588 FX982_04837
+            PPSH: G5J76_07100 G5J76_10380 G5J76_20670
+            PGY: AWU82_23795 AWU82_25245 AWU82_27395
+            PLAL: FXN65_08120 FXN65_09770
+            PSEJ: HNQ25_10345 HNQ25_13010 HNQ25_16570
+            PVK: EPZ47_04855 EPZ47_08975 EPZ47_22730
+            PEZ: HWQ56_05455 HWQ56_07245 HWQ56_09975
+            PBZ: GN234_09440 GN234_23620 GN234_25560
+            PKH: JLK41_08120 JLK41_13410 JLK41_16355
+            PTY: JWV26_01205 JWV26_18525 JWV26_22090
+            PMAO: PMYSY11_2833 PMYSY11_3004
+            PATA: JWU58_05775 JWU58_07655 JWU58_09085
+            PDW: BV82_0850 BV82_3916 BV82_4745
+            PZE: HU754_021015 HU754_022450 HU754_024645
+            PMOE: HV782_020215 HV782_021705 HV782_023930
+            PCAM: HNE05_05495 HNE05_06560
+            PSEP: C4K39_3392 C4K39_4588 C4K39_6121
+            PVW: HU752_006005 HU752_010155 HU752_025905
+            PTRT: HU722_0006040 HU722_0020685 HU722_0022585
+            PXA: KSS93_11835 KSS93_21905 KSS93_25120
+            PSAM: HU731_007065 HU731_008770 HU731_020890
+            PTZ: HU718_021210 HU718_023095 HU718_025135
+            PQI: KH389_04320 KH389_08260 KH389_18595
+            PSHH: HU773_010415 HU773_020710 HU773_022955
+            PXN: HU772_008240 HU772_017330 HU772_020620
+            PHV: HU739_020420 HU739_021895 HU739_023930
+            PPRG: HU725_007590 HU725_014305 HU725_016120 HU725_018945
+            PNN: KEM63_09155 KEM63_11540
+            PANH: HU763_004225 HU763_008635 HU763_017205
+            PASG: KSS96_05585 KSS96_20335 KSS96_21915
+            PFAK: KSS94_08490 KSS94_19365 KSS94_22615
+            PMUY: KSS95_11320 KSS95_20155 KSS95_23440
+            PMAM: KSS90_07945 KSS90_17705 KSS90_21495
+            PAZE: KSS91_05075 KSS91_08275 KSS91_22275
+            PALV: KSS97_05810 KSS97_07830 KSS97_20215
+            PPHA: BVH74_10400 BVH74_12870
+            PORY: EJA05_09050 EJA05_20190 EJA05_23615
+            PWZ: J7655_08135 J7655_10815 J7655_14055
+            PTK: EXN22_09065 EXN22_18950 EXN22_23220
+            PTW: TUM18999_17940 TUM18999_39620
+            PZA: HU749_009890 HU749_022675 HU749_024600
+            PIE: HU724_019840 HU724_021280 HU724_023155
+            PWY: HU734_004925 HU734_008395 HU734_017190
+            PTAE: NCTC10697_00873(cheV_1) NCTC10697_01324(cheV_2) NCTC10697_03269(cheV_3)
+            PGF: J0G10_21240 J0G10_23435 J0G10_25505
+            PCAV: D3880_08905 D3880_14285
+            PJU: L1P09_03855 L1P09_07850 L1P09_17510
+            PSA: PST_1386(cheV-3) PST_2488(chev-2)
+            PSZ: PSTAB_1329(cheV) PSTAB_2389(chev)
+            PSR: PSTAA_1420(cheV-3) PSTAA_2596(chev-2)
+            PSC: A458_07440 A458_13220
+            PSJ: PSJM300_06330 PSJM300_08350
+            PSH: Psest_1842 Psest_2970
+            PSTU: UIB01_08765 UIB01_15115
+            PSTT: CH92_07910 CH92_09795 CH92_12700
+            PSED: DM292_06405 DM292_12505
+            PCHL: LLJ08_08215 LLJ08_14505
+            PBM: CL52_06810 CL52_07525
+            PKG: LW136_07965 LW136_13945
+            SDEG: GOM96_05555 GOM96_09955 GOM96_16815
+            PAGR: E2H98_00930
+            HPEG: EAO82_08165 EAO82_14210
+            HAES: LO767_04555 LO767_05185
+            MAQ: Maqu_1176 Maqu_3396
+            MHC: MARHY2102 MARHY3230(cheV)
+            MAD: HP15_1547 HP15_3116 HP15_p187g90
+            MBS: MRBBS_1729(cheV) MRBBS_3448(cheV)
+            MSR: AU15_13765
+            MSX: AU14_02780 AU14_04100
+            MPQ: ABA45_08265 ABA45_16200
+            MARI: ACP86_06170 ACP86_18725
+            MLQ: ASQ50_02125 ASQ50_07825
+            MSQ: BKP64_06605 BKP64_18045
+            MARA: D0851_01070 D0851_09680
+            MARJ: MARI_09300(cheV) MARI_32810
+            SON: SO_1989(cheV) SO_3123(cheV) SO_3252(cheV)
+            SDN: Sden_1301 Sden_2144 Sden_2527
+            SFR: Sfri_1159 Sfri_2316 Sfri_2708
+            SAZ: Sama_2032 Sama_2201 Sama_2320
+            SBL: Sbal_2594 Sbal_2796 Sbal_2949 Sbal_3194
+            SBM: Shew185_2633 Shew185_2816 Shew185_2964 Shew185_3188
+            SBN: Sbal195_2708 Sbal195_2936 Sbal195_3102 Sbal195_3332
+            SBP: Sbal223_1179 Sbal223_1414 Sbal223_1561 Sbal223_1752
+            SBT: Sbal678_2713 Sbal678_2946 Sbal678_3107 Sbal678_3339
+            SBS: Sbal117_2730 Sbal117_2936 Sbal117_3088 Sbal117_3330
+            SBB: Sbal175_1173 Sbal175_1407 Sbal175_1555 Sbal175_1736
+            SLO: Shew_1343 Shew_1457 Shew_2144
+            SPC: Sputcn32_2319 Sputcn32_2493 Sputcn32_2599 Sputcn32_2798
+            SHP: Sput200_2345 Sput200_2517 Sput200_2764 Sput200_2936
+            SSE: Ssed_0508 Ssed_2678 Ssed_2899 Ssed_3089
+            SPL: Spea_1338 Spea_1463 Spea_1901
+            SHE: Shewmr4_1257 Shewmr4_1372 Shewmr4_2272
+            SHM: Shewmr7_1327 Shewmr7_1437 Shewmr7_2344
+            SHN: Shewana3_1319 Shewana3_1425 Shewana3_2462
+            SHW: Sputw3181_1214 Sputw3181_1404 Sputw3181_1515 Sputw3181_1689
+            SHL: Shal_1425 Shal_1546 Shal_2398
+            SWD: Swoo_1595 Swoo_1747 Swoo_1944 Swoo_4442
+            SWP: swp_1496 swp_1668 swp_2855
+            SVO: SVI_1408(cheV-1) SVI_1548(cheV-2) SVI_2606(cheV-3) SVI_3920(cheV-4)
+            SHF: CEQ32_00135 CEQ32_01195 CEQ32_06315
+            SJA: SJ2017_2358 SJ2017_2806 SJ2017_2961
+            SPSW: Sps_01421 Sps_03198 Sps_03500 Sps_03632 Sps_03807
+            SBJ: CF168_08600 CF168_13645 CF168_14290
+            SMAV: CFF01_08535 CFF01_12085 CFF01_12790
+            SHEW: CKQ84_13875 CKQ84_15295 CKQ84_16325 CKQ84_17365
+            SALG: BS332_14300 BS332_16545 BS332_21355
+            SLJ: EGC82_07560 EGC82_09580 EGC82_15375
+            SMAI: EXU30_02945 EXU30_15935 EXU30_18740
+            SPOL: FH971_06310 FH971_11575 FH971_13890
+            SBK: SHEWBE_3075 SHEWBE_3444 SHEWBE_3606
+            SKH: STH12_01727(cheV_1) STH12_01940(cheV_2) STH12_02086(cheV_3)
+            SAES: HBH39_05170 HBH39_07920 HBH39_11610
+            SLIT: JQC75_10390 JQC75_11280 JQC75_11925
+            SDK: KHX94_00430 KHX94_02205 KHX94_03195
+            SCAA: TUM17387_13870(cheV_1) TUM17387_14720(cheV_2) TUM17387_17300(cheV_3)
+            SPSH: FM037_09625 FM037_10400 FM037_11105 FM037_17020 FM037_25730
+            SEUR: FM038_009840 FM038_015085 FM038_015950 FM038_022750
+            SYK: KDN34_05125 KDN34_06060 KDN34_07630
+            SCYP: JYB88_10300 JYB88_11370 JYB88_11990
+            SAVI: JYB87_07340 JYB87_12355 JYB87_13445
+            SSEM: JYB85_07515 JYB85_11560 JYB85_12215
+            SGLA: FJ709_05500 FJ709_09295 FJ709_13105
+            SINV: K8B83_08970 K8B83_11420 K8B83_16760
+            SXM: MKD32_06595 MKD32_07210 MKD32_12020
+            SVM: KDH10_000224 KDH10_000640 KDH10_001740
+            ILO: IL1149
+            ILI: K734_05780
+            IPI: CEW91_09205
+            IDI: CWC33_02035
+            IDT: C5610_02905
+            IAB: K5X84_03325
+            CPS: CPS_1474(cheV)
+            COM: CMT41_05575
+            COZ: A3Q34_06675
+            COLW: A3Q33_04630
+            COLA: DBO93_03375
+            COV: EKO29_16995
+            CBER: B5D82_01480
+            LSD: EMK97_05690
+            THAB: LP316_07155
+            PHA: PSHAa0766(cheV)
+            PTN: PTRA_a0871(cheV)
+            PAT: Patl_3102
+            PSM: PSM_A0148 PSM_A2296(cheV)
+            PSEO: OM33_07035
+            PIA: PI2015_0146 PI2015_2235
+            PPHE: PP2015_3060 PP2015_891
+            PBW: D172_001010 D172_013555
+            PRR: AT705_12840 AT705_17090
+            PLZ: S4054249_01140 S4054249_16680
+            PALN: B0W48_09155 B0W48_12320
+            PPIS: B1L02_00835
+            PEA: PESP_a2878(cheV)
+            PSPO: PSPO_a0872(cheV)
+            PART: PARC_a1053(cheV)
+            PTU: PTUN_a0075(cheV) PTUN_a3174(cheV)
+            PNG: PNIG_a0928(cheV)
+            PTD: PTET_a0154(cheV) PTET_a2598(cheV)
+            PSEN: PNC201_00800(cheV1) PNC201_05685(cheV2)
+            PDJ: D0907_01085 D0907_04610
+            PAGA: PAGA_a1065(cheV)
+            PCAR: PC2016_2377
+            PMAA: CPA52_11865
+            PXI: J5O05_10650
+            PVB: J5X90_06335 J5X90_10400
+            PSAZ: PA25_10470(cheV_1) PA25_30260(cheV_2)
+            PDV: FFU37_03080
+            PSYM: J1N51_04065
+            AMC: MADE_1005695 MADE_1013050
+            AMH: I633_05370 I633_14450
+            AMAA: amad1_05035 amad1_13950
+            AMAL: I607_04885 I607_13180
+            AMAE: I876_05180 I876_13565
+            AMAO: I634_05205 I634_13425
+            AMAD: I636_05040 I636_13555
+            AMAI: I635_05010 I635_13925
+            AMAG: I533_04775 I533_13160
+            AMAC: MASE_04635 MASE_13035
+            AMB: AMBAS45_04855 AMBAS45_13570
+            AMG: AMEC673_04750 AMEC673_13350
+            AMK: AMBLS11_04710 AMBLS11_13050
+            ALT: ambt_03730 ambt_13520
+            AAL: EP13_04965 EP13_13130
+            AAUS: EP12_04985
+            ASP: AOR13_2507 AOR13_750
+            ASQ: AVL57_11210 AVL57_14835
+            AAW: AVL56_10350 AVL56_13865
+            ALR: DS731_06260 DS731_14800
+            ALE: AV939_10230 AV939_13700
+            ALZ: AV940_10000 AV940_13440
+            APEL: CA267_014060
+            SALM: D0Y50_04505 D0Y50_13735
+            SALK: FBQ74_12785
+            SMAA: IT774_12570
+            GAG: Glaag_1232
+            GNI: GNIT_0426(cheV) GNIT_0937(cheV) GNIT_2421(cheV)
+            GPS: C427_3230(cheV) C427_3717 C427_4150(cheV)
+            PMES: FX988_03812
+            LAL: AT746_13050 AT746_14625
+            CATE: C2869_15460 C2869_16700
+            SALH: HMF8227_00788 HMF8227_00827
+            HMI: soil367_08295
+            PAEW: KIH87_03190 KIH87_03700
+            AGZ: M0C34_05330 M0C34_07740 M0C34_20295
+            PSY: PCNPT3_03110 PCNPT3_08940 PCNPT3_09255
+            FBL: Fbal_0104 Fbal_2667
+            FES: HER31_10410
+            MVS: MVIS_0070 MVIS_0825 MVIS_3463(cheV)
+            MYA: MORIYA_2106 MORIYA_4018
+            MMAA: FR932_01290 FR932_13685
+            CJA: CJA_1934
+            CEB: B0D95_04430 B0D95_04535 B0D95_16520
+            CELL: CBR65_05325
+            CEK: D0B88_02460 D0B88_12880 D0B88_12985
+            CEG: D0C16_03335 D0C16_04865
+            SDE: Sde_2215
+            TTU: TERTU_1220
+            SAGA: M5M_01105 M5M_02195
+            MARQ: MARGE09_P3457
+            GIL: NHM04_03185 NHM04_03890 NHM04_17210
+            OSG: BST96_02450 BST96_17085
+            MMT: Metme_1024
+            MDN: JT25_013950
+            MDH: AYM39_18185
+            MKO: MKLM6_3682
+            METL: U737_19975
+            MELL: IVG45_13680
+            MAH: MEALZ_0988
+            MBUR: EQU24_16860
+            MMAI: sS8_0642
+            MEIN: methR_P2842
+            MOZ: MoryE10_12560 MoryE10_24110
+            MISZ: MishRS11D_16620
+            TCX: Tcr_1271 Tcr_1476
+            HTR: EPV75_07010 EPV75_07920
+            HMAR: HVMH_1274 HVMH_1528
+            TAO: THIAE_04085 THIAE_07840
+            THIO: AYJ59_05990 AYJ59_06895
+            TMH: JX580_01825 JX580_04515 JX580_08120
+            MEJ: Q7A_2578 Q7A_820
+            MEC: Q7C_1023
+            MPIN: LGT42_004155 LGT42_006775
+            PSAL: PSLF89_2271 PSLF89_2348 PSLF89_2366 PSLF89_2776 PSLF89_3101 PSLF89_648
+            THIG: FE785_05840 FE785_07535
+            TXA: HQN79_06435 HQN79_08420
+            TIB: THMIRHAM_07450
+            TSE: THMIRHAS_08760 THMIRHAS_12790
+            TZO: THMIRHAT_08080 THMIRHAT_13880
+            ALV: Alvin_0663
+            ATEP: Atep_23340(cheV)
+            TVI: Thivi_0392
+            MPUR: MARPU_06365 MARPU_07115
+            TEE: Tel_03035 Tel_05420
+            RHH: E0Z06_05210 E0Z06_10475
+            TTP: E6P07_08450
+            CJAP: GWK36_08285
+            AEH: Mlg_0891
+            HHA: Hhal_0522
+            HHK: HH1059_21660
+            HHC: M911_10995 M911_14460
+            EBS: ECTOBSL9_0006 ECTOBSL9_0687 ECTOBSL9_3231
+            TGR: Tgr7_1063 Tgr7_1215
+            TKM: TK90_0924
+            TVR: TVD_07920
+            APRS: BI364_11180
+            NAX: HC341_13815
+            HNA: Hneap_1431
+            HAZ: A9404_05105
+            GHL: GM160_03355
+            TTC: FOKN1_1448
+            THIC: TspCOW1_11990
+            HCH: HCH_04719 HCH_04764
+            HAHE: ENC22_09040 ENC22_09250
+            KAK: Kalk_03150 Kalk_04125
+            MMW: Mmwyl1_1068 Mmwyl1_2213
+            MME: Marme_1034 Marme_2148
+            MPC: Mar181_1742 Mar181_2803
+            MPRI: MP3633_0749(cheV) MP3633_1992
+            MARD: IBG28_10045 IBG28_15735
+            MFOI: JSY38_00595 JSY38_13635
+            MPRF: J8N69_02290 J8N69_11670 J8N69_16045
+            TOL: TOL_1486 TOL_2596
+            TOR: R615_04730 R615_10040
+            OAI: OLEAN_C11890(cheV) OLEAN_C16760
+            MGEO: CFI10_02480
+            MSEC: LN244_14065
+            BSAN: CHH28_15680 CHH28_18985
+            NCU: F0U83_03105
+            NJP: NEJAP_0683(cheV)
+            NIK: F5I99_15325
+            BMAR: HF888_07620 HF888_12160
+            AJP: AMJAP_0542(cheV)
+            VCW: GJQ55_05895 GJQ55_09725
+            BACZ: KFF03_10590 KFF03_12035
+            GSN: YC6258_03310 YC6258_04764
+            RFO: REIFOR_02138(cheW)
+            OME: OLMES_2505 OLMES_3411
+            LLP: GH975_06310
+            AHA: AHA_0997 AHA_2844 AHA_3490 AHA_3838
+            AHY: AHML_05325 AHML_15315 AHML_18515 AHML_20345
+            AHD: AI20_01920 AI20_05120 AI20_14280 AI20_22030
+            AHR: V428_05545 V428_15840 V428_19230 V428_21210
+            AHP: V429_05550 V429_15875 V429_19260 V429_21240
+            AHJ: V469_02275 V469_04045 V469_07270 V469_17805
+            AHH: RY45_05490 RY45_14835 RY45_17945 RY45_19840
+            AHI: VU14_02510 VU14_04270 VU14_07500 VU14_17525
+            AAJ: BOQ57_04950 BOQ57_14590 BOQ57_17915 BOQ57_20030
+            ASA: ASA_0462 ASA_0827(cheV) ASA_1487(cheV) ASA_3302(cheV)
+            AEO: O23A_p0001 O23A_p0701 O23A_p2667 O23A_p3186
+            AVR: B565_0470 B565_0825 B565_0858 B565_2608
+            AVO: AMS64_03840 AMS64_05715 AMS64_05980 AMS64_15815
+            AMED: B224_0602 B224_3266 B224_4298
+            ASR: WL1483_1399 WL1483_2110 WL1483_2449 WL1483_2725
+            ADH: CK627_01430 CK627_08320 CK627_11580 CK627_21245
+            ACAV: VI35_04070 VI35_13665 VI35_16315
+            AEM: CK911_04005 CK911_12340 CK911_12775 CK911_14220
+            AEA: C2U39_04415 C2U39_14265 C2U39_17580
+            ARV: C7N77_08450 C7N77_11205 C7N77_20650
+            AES: C2U30_09805 C2U30_19720 C2U30_22385
+            AEL: NCTC12917_00849(cheV_1) NCTC12917_02779(cheV_2) NCTC12917_03376(cheV_3)
+            ASIM: FE240_01505 FE240_02765 FE240_05630 FE240_13180
+            AALL: I6G90_02260 I6G90_13350 I6G90_20665 I6G90_20845
+            AJD: I6H43_03090 I6H43_04880 I6H43_13315 I6H43_15280 I6H43_15550
+            ARIV: KYK33_04355 KYK33_05230 KYK33_13280
+            OCE: GU3_13585
+            OCM: CBP12_05985
+            OPF: CBP31_08335 CBP31_12555
+            ZDF: AN401_04330
+            SOK: D0B54_17765
+            SINI: GT972_13580
+            FCE: JN531_011270
+            SEDS: AAY24_02375 AAY24_02810 AAY24_07885
+            PSPI: PS2015_2019
+            REV: HUE57_12140 HUE57_14210
+            CDIZ: CEDIAZO_01262(cheV_1) CEDIAZO_01879(cheV_2)
+            EPS: L0Y14_09365
+            GPB: HDN1F_11400
+            ENM: EBS_0599(cheV)
+            CVI: CV_3032(cheV3) CV_3446(cheV2) CV_3447(cheV1)
+            CVC: BKX93_05885 BKX93_07965 BKX93_07970
+            CHRO: CXB49_04335 CXB49_04340 CXB49_06340
+            CHRI: DK842_02175 DK842_02180 DK842_22210
+            CHRB: DK843_04965 DK843_07655 DK843_07660
+            CRZ: D1345_04905 D1345_04910
+            CHRM: FYK34_09510 FYK34_11610 FYK34_11615
+            CHAE: CH06BL_10610 CH06BL_10620
+            IOD: EJO50_03310
+            IFL: C1H71_15435 C1H71_15440
+            LHK: LHK_00557(cheV1-1) LHK_00558(cheV2-1) LHK_01360(cheV1-2) LHK_02429(cheV2-2) LHK_02430(cheV1-3)
+            PSE: NH8B_3260(cheW) NH8B_3261(cheW)
+            JEU: BJP62_05460 BJP62_05465
+            AQL: BXU06_03275 BXU06_03280
+            AMAH: DLM_0939 DLM_0940 DLM_2895 DLM_2896
+            AQS: DKK66_00780 DKK66_00785 DKK66_12590 DKK66_12595
+            DEE: HQN60_02285 HQN60_02290
+            CHIZ: HQ393_02790 HQ393_02795
+            CFON: HZU75_01855 HZU75_01860
+            VOG: LCH97_07920 LCH97_07925
+            RSO: RSp0598
+            RSL: RPSI07_mp0478
+            RSM: CMR15_mp10547
+            RSE: F504_4628(cheV)
+            RPI: Rpic_4573
+            RPF: Rpic12D_3501
+            RPJ: N234_32660
+            RMN: TK49_17480
+            RIN: ACS15_4900
+            RPU: CDC45_20605
+            REH: H16_B2240(cheV)
+            CNC: CNE_2c22180(cheV)
+            CUH: BJN34_33670
+            REU: Reut_B4985
+            RME: Rmet_4933
+            CTI: RALTA_B2017
+            CBW: RR42_s1303
+            CGD: CR3_3408(cheV)
+            CCUP: BKK81_31800
+            CUP: BKK80_24550
+            CUU: BKK79_29825
+            CPAU: EHF44_24485
+            COX: E0W60_04685
+            CCAM: M5D45_21145
+            BGL: bglu_2g21190
+            BGU: KS03_3808
+            BUG: BC1001_1230
+            BGF: BC1003_2211
+            BGD: bgla_2g03710
+            BGO: BM43_7126
+            BYI: BYI23_B008120(cheW)
+            BUE: BRPE67_BCDS12100(cheW)
+            BUQ: AC233_05875
+            BGP: BGL_2c06740 BGL_2c27810
+            BPLA: bpln_2g07530 bpln_2g27850
+            BUM: AXG89_21440
+            BUI: AX768_23970
+            BXE: Bxe_A3018
+            BXB: DR64_695
+            BPH: Bphy_5616
+            BGE: BC1002_1048
+            BPX: BUPH_01770
+            BPY: Bphyt_1424
+            BUZ: AYM40_05850
+            BFN: OI25_308
+            BCAI: K788_0000050 K788_0004257
+            PSPW: BJG93_07445
+            PARB: CJU94_17970
+            PHS: C2L64_41385
+            PTER: C2L65_38360
+            PGP: CUJ91_06385
+            PCJ: CUJ87_10360
+            PTS: CUJ90_12025
+            PCAF: DSC91_006546
+            PTRO: G5S35_32260
+            PGIS: I6I06_06300
+            PACP: FAZ97_33215 FAZ97_33885
+            PACS: FAZ98_28910 FAZ98_32050
+            PDIO: PDMSB3_1461
+            PLG: NCTC10937_01194(cheV_1) NCTC10937_01938(cheV_2) NCTC10937_03842(cheV_3)
+            CABA: SBC2_58130(cheV_1) SBC2_80150(cheV_2)
+            BUO: BRPE64_BCDS05070
+            LIMN: HKT17_04845 HKT17_11230
+            CARI: FNU76_21135 FNU76_21140
+            CDN: BN940_08891
+            PHN: PAEH1_00280
+            PIG: EGT29_17805
+            PACR: FXN63_16325
+            RFR: Rfer_0364
+            RSB: RS694_11080 RS694_19290
+            RAC: RA876_17840
+            RHY: RD110_03890
+            RHG: EXZ61_02050 EXZ61_02165
+            RHOA: HZ993_15865
+            ACK: C380_18495
+            ACRA: BSY15_443
+            ACID: CBP33_04950
+            ACIP: CBP36_05375
+            ACIS: CBP35_13560
+            ACIO: EAG14_13460
+            ARAD: KI609_17255
+            VEI: Veis_1763
+            DAC: Daci_3759
+            DEL: DelCs14_3061
+            DHK: BO996_17075
+            COF: FOZ74_11285
+            CBX: Cenrod_1791(cheV-1) Cenrod_1856(cheV-2)
+            HYL: LPB072_17640
+            HYC: E5678_09840
+            HPSE: HPF_18565(cheV)
+            HTN: KI616_19340
+            SIMP: C6571_12705
+            CBAA: SRAA_1754
+            CBAB: SMCB_1724
+            ATER: MW290_21195
+            HAR: HEAR0155
+            JAG: GJA_1286
+            JAB: VN23_10235 VN23_10240
+            JAZ: YQ44_04900
+            JAL: BZG29_22640
+            JSV: CNX70_23085
+            JAJ: EKL02_10270
+            JAS: FJQ89_12400
+            JLV: G3257_23355
+            HSE: Hsero_1957 Hsero_3731
+            HSZ: ACP92_09755 ACP92_18605
+            HHT: F506_02710 F506_09455
+            HRB: Hrubri_1834 Hrubri_3700
+            HEE: hmeg3_05865 hmeg3_11510 hmeg3_16620
+            HHF: E2K99_09930 E2K99_18990
+            HFR: G5S34_10735 G5S34_20330
+            MNR: ACZ75_02565
+            MASW: AM586_16045
+            MASS: CR152_19830
+            MTIM: DIR46_25380
+            MASY: DPH57_03195
+            MANC: IV454_19720
+            MFY: HH212_19950
+            MASZ: C9I28_18770
+            MALI: EYF70_09020
+            MUM: FCL38_09735
+            MFLA: GO485_05305
+            MPLI: E1742_06140
+            DUG: HH213_28800
+            UPV: EJN92_16455
+            UPI: EJG51_018630
+            TIN: Tint_1171
+            THI: THI_1500
+            TTW: LCC91_10575
+            NIT: NAL212_1926
+            NII: Nit79A3_0769
+            NUR: ATY38_10500
+            SHD: SUTH_00902(cheV1) SUTH_00903(cheV2)
+            METR: BSY238_2699 BSY238_2700
+            DOE: DENOEST_3402(cheV) DENOEST_3403
+            TBD: Tbd_1598
+            SLT: Slit_0547 Slit_0548
+            GCA: Galf_0979 Galf_0980 Galf_1014 Galf_1015
+            FAM: OYT1_ch0632 OYT1_ch0633
+            NIM: W01_26420 W01_26430
+            NARC: NTG6680_0994 NTG6680_1083 NTG6680_1084
+            FKU: FGKAn22_04320 FGKAn22_04330
+            SEME: MIZ01_0436 MIZ01_0437
+            SDR: SCD_n01222(cheV1-2) SCD_n01223
+            SULF: CAP31_03235
+            SNIV: SFSGTM_19380 SFSGTM_28490
+            SLAC: SKTS_10490 SKTS_10500
+            DSU: Dsui_1717 Dsui_1718
+            ARES: IWH25_08970 IWH25_08975
+            AIQ: Azoinq_11030 Azoinq_11035
+            OTR: OTERR_08750(cheV) OTERR_08760(cheV)
+            NIV: JY500_12095 JY500_12100
+            ABRE: pbN1_07730 pbN1_07740
+            APET: ToN1_36360 ToN1_36370
+            ATW: C0099_05260 C0099_05265
+            RBH: B4966_06375 B4966_06380
+            DAR: Daro_0734 Daro_0735
+            DEY: HYN24_03355 HYN24_03360
+            DDEN: KI615_04800 KI615_04805
+            QAU: KI612_04320 KI612_04325
+            FLE: KI610_03870 KI610_03875
+            AZO: azo1458(cheV1) azo1459(cheV2)
+            AOA: dqs_1581 dqs_1582
+            AZA: AZKH_3268(cheV) AZKH_3269(cheV)
+            AZI: AzCIB_3159 AzCIB_3160
+            ACOM: CEW83_08135 CEW83_08140
+            AZD: CDA09_05725 CDA09_05730
+            AZR: CJ010_09035 CJ010_09040
+            TMZ: Tmz1t_3224 Tmz1t_3225
+            THU: AC731_007720 AC731_007725
+            THK: CCZ27_12385 CCZ27_12390
+            AZQ: G3580_11855 G3580_11860
+            ZPA: C3497_05960 C3497_05965
+            FMY: HO273_07445 HO273_07450
+            APP: CAP2UW1_3838 CAP2UW1_3839
+            DDZ: DSYM_21490 DSYM_21500
+            BEBA: BWI17_17965
+            HPY: HP_0019 HP_0393 HP_0616
+            HEO: C694_00090 C694_01995 C694_03185
+            HPJ: jhp_0017(cheV_1) jhp_0559(cheV_2) jhp_0988(cheV_3)
+            HPA: HPAG1_0019 HPAG1_0597 HPAG1_0999
+            HPS: HPSH_00100 HPSH_03790 HPSH_05440
+            HHP: HPSH112_00090 HPSH112_03945 HPSH112_05250
+            HHQ: HPSH169_00090 HPSH169_03165 HPSH169_05230
+            HHR: HPSH417_00085 HPSH417_02965 HPSH417_04995
+            HPG: HPG27_1004(cheV3) HPG27_18(cheVI) HPG27_576(cheV2)
+            HPP: HPP12_0017(cheV-1) HPP12_0625(cheV-2) HPP12_1027(cheV-3)
+            HPB: HELPY_0017(cheV1) HELPY_0756(cheV2) HELPY_1032(cheV3)
+            HPL: HPB8_1606(cheV7) HPB8_444(cheV3) HPB8_814(cheV5)
+            HPC: HPPC_00095 HPPC_03105 HPPC_05140
+            HCA: HPPC18_00085 HPPC18_02950 HPPC18_05240
+            HPM: HPSJM_00105 HPSJM_03120 HPSJM_05220
+            HPE: HPELS_00090 HPELS_01390 HPELS_03485
+            HPO: HMPREF4655_20223 HMPREF4655_20985 HMPREF4655_21251
+            HPI: hp908_0023(cheV1) hp908_0625(cheV2) hp908_1050(cheV3)
+            HPQ: hp2017_0021(cheV1) hp2017_0603(cheV2) hp2017_1013(cheV3)
+            HPW: hp2018_0023(cheV) hp2018_0604(cheV1) hp2018_1017(cheV2)
+            HPU: HPCU_00085 HPCU_03355 HPCU_05375
+            HEF: HPF16_0017(cheV) HPF16_0745(cheV_2) HPF16_1003(cheV-2)
+            HPF: HPF30_0017(cheV) HPF30_0326(cheV-2) HPF30_0713(cheV_2)
+            HEQ: HPF32_0017(cheV) HPF32_0343(cheV-2) HPF32_0590(cheV_2)
+            HEX: HPF57_0017(cheV) HPF57_0639(cheV_2) HPF57_1024(cheV-2)
+            HPT: HPSAT_00095 HPSAT_03720 HPSAT_05050
+            HPZ: HPKB_0022 HPKB_0728(pleD) HPKB_0990(cheV)
+            HPV: HPV225_0026 HPV225_0623 HPV225_1076
+            HPX: HMPREF0462_0020 HMPREF0462_0797 HMPREF0462_1075
+            HEN: HPSNT_00085 HPSNT_03170 HPSNT_05260
+            HPH: HPLT_00090 HPLT_03060 HPLT_05250
+            HEG: HPGAM_00095 HPGAM_03170 HPGAM_05450
+            HPN: HPIN_00085 HPIN_03585 HPIN_05230
+            HEP: HPPN120_00095 HPPN120_03045 HPPN120_05130
+            HEU: HPPN135_00095 HPPN135_03040 HPPN135_05380
+            HES: HPSA_00090 HPSA_02890 HPSA_05135
+            HPYS: HPSA20_0028 HPSA20_0639 HPSA20_1092
+            HCN: HPB14_00090 HPB14_03595 HPB14_04940
+            HPD: KHP_0017(cheV) KHP_0704(cheV) KHP_0963(cheV)
+            HEY: MWE_0023 MWE_0899 MWE_1235
+            HER: C695_00090 C695_01995 C695_03190
+            HEI: C730_00090 C730_01995 C730_03190
+            HPYA: HPAKL117_00085 HPAKL117_02905 HPAKL117_04955
+            HPYK: HPAKL86_00815 HPAKL86_04185 HPAKL86_05655
+            HPYO: HPOK113_0017(cheV) HPOK113_0630(cheV_2) HPOK113_1022(cheV-2)
+            HPYL: HPOK310_0017(cheV) HPOK310_0724(cheV_2) HPOK310_0959(cheV-2)
+            HPYB: HPOKI102_00120 HPOKI102_03940 HPOKI102_05570
+            HPYC: HPOKI112_00120 HPOKI112_03970 HPOKI112_05605
+            HPYD: HPOKI128_02935 HPOKI128_04990 HPOKI128_06045
+            HPYE: HPOKI154_03150 HPOKI154_05270 HPOKI154_07940
+            HPYF: HPOKI422_00125 HPOKI422_03935 HPOKI422_05595
+            HPYG: HPOKI673_03130 HPOKI673_05255 HPOKI673_07935
+            HPYH: HPOKI828_03140 HPOKI828_05260 HPOKI828_07955
+            HPYJ: HPOKI898_00120 HPOKI898_03935 HPOKI898_05580
+            HPYR: K747_05750 K747_07155 K747_08620
+            HPYI: K750_00085 K750_05375 K750_06880
+            HPYU: K751_02355 K751_03710 K751_07665
+            HPYM: K749_00440 K749_01790 K749_05755
+            HEM: K748_00285 K748_04165 K748_06990
+            HEB: U063_0022 U063_0920 U063_1373
+            HEZ: U064_0022 U064_0924 U064_1378
+            HHE: HH_0671 HH_0819 HH_1802(cheV_2)
+            HAC: Hac_0451(cheV) Hac_0832(cheV) Hac_1689(cheV)
+            HMS: HMU06240(cheV2) HMU14170(cheV1)
+            HFE: HFELIS_02360(cheV1) HFELIS_04990(cheV2) HFELIS_07470
+            HBI: HBZC1_03380 HBZC1_03820 HBZC1_14450
+            HCE: HCW_00270 HCW_06725 HCW_07930
+            HCM: HCD_00170 HCD_02690 HCD_05365
+            HCP: HCN_0341 HCN_0983(cheV_2) HCN_1798
+            HCB: HCBAA847_0358 HCBAA847_0989(cheV_2) HCBAA847_2082
+            HHM: BN341_15660 BN341_60 BN341_7940
+            HTY: BN2458_PEG0303 BN2458_PEG1083 BN2458_PEG1823
+            HBL: XJ32_08170 XJ32_09180 XJ32_09550
+            HAD: CDV25_01945 CDV25_02615
+            HET: BBW65_03485 BBW65_07425
+            HCL: NCTC13205_00618(cheV)
+            HWI: A0Z60_02910 A0Z60_02975
+            HSH: NHP194022_07380(cheV_1) NHP194022_09290(cheV_2) NHP194022_15260
+            WSU: WS0257(CHEV_1) WS1787(CHEV_1) WS1869 WS2084(CHEV)
+            TDN: Suden_1257 Suden_1531
+            SUA: Saut_0624 Saut_0976 Saut_1373
+            SULG: FJR48_06900 FJR48_08415
+            SPAL: FM071_02415 FM071_06510
+            SSEI: FJR45_03475 FJR45_04945
+            SBAL: HUE88_02510 HUE88_04400
+            SMAS: HUE87_03395 HUE87_07635 HUE87_09710
+            SKU: Sulku_0565 Sulku_0967 Sulku_1607
+            SULR: B649_02820 B649_04095
+            CJE: Cj0285c(cheV)
+            CJB: BN148_0285c(cheV)
+            CJJ: CJJ81176_0311(cheV)
+            CJU: C8J_0261(cheV)
+            CJN: ICDCCJ07001_262
+            CJI: CJSA_0261(cheV)
+            CJM: CJM1_0268(cheV)
+            CJS: CJS3_0274(cheV)
+            CJP: A911_01375
+            CJEJ: N564_00269
+            CJEU: N565_00265
+            CJEN: N755_00319
+            CJEI: N135_00275
+            CJER: H730_01715
+            CJV: MTVDSCj20_0260(cheV)
+            CJY: QZ67_00285(cheV)
+            CJQ: UC78_0271(cheV)
+            CJL: PJ17_01395
+            CJW: PJ18_01370
+            CJR: CJE0333(cheV)
+            CJD: JJD26997_1686(cheV)
+            CJZ: M635_05700
+            CJX: BN867_02620
+            CFF: CFF8240_0330
+            CFT: CFF04554_0330(cheV)
+            CFV: CFVI03293_0329(cheV)
+            CFX: CFV97608_0331(cheV)
+            CFZ: CSG_4100
+            CAMP: CFT03427_0339(cheV)
+            CFP: CR44_01705
+            CCV: CCV52592_1656(cheV)
+            CCO: CCC13826_1579(cheV)
+            CCOC: CCON33237_1446(cheV)
+            CLA: CLA_1369(cheV)
+            CLR: UPTC16701_1337(cheV)
+            CLM: UPTC16712_1362(cheV)
+            CLQ: UPTC4110_1343(cheV)
+            CLN: UPTC3659_1581(cheV)
+            CLL: CONCH_1320(cheV)
+            CCOL: BN865_01390
+            CCC: G157_07275
+            CCQ: N149_0280
+            CCF: YSQ_08485
+            CCY: YSS_01185
+            CCOI: YSU_07480
+            CCOF: VC76_01480(cheV)
+            CCOO: ATE51_03658(cheV)
+            CAJ: CIG1485E_0344(cheV)
+            CIS: CINS_1318(cheV)
+            CVO: CVOL_1353(cheV)
+            CPEL: CPEL_1473(cheV)
+            CAMR: CAQ16704_1376(cheV)
+            CSM: CSUB8521_1552(cheV)
+            CSF: CSUB8523_1648(cheV)
+            CHYO: CHH_1479(cheV)
+            CHV: CHELV3228_1396(cheV)
+            CSPF: CSF_1478(cheV)
+            CPIN: CPIN18020_1485(cheV)
+            CCUN: CCUN_1811(cheV)
+            CLX: CLAN_0225(cheV)
+            CAVI: CAV_0114(cheV)
+            CHW: A2J15_007000
+            CAMZ: CVIC12175_0265(cheV)
+            CAMY: CSUIS_0238(cheV)
+            COJ: CORN_1448(cheV)
+            CUX: CUP3940_0530(cheV)
+            CRX: CRECT_2095(cheV)
+            CARM: CARM_1398(cheV)
+            CMUC: CMCT_0160(cheV)
+            CSHO: CSHOW_0256(cheV)
+            CINF: CINF_1634(cheV)
+            CNV: CNZW441b_1369(cheV)
+            SDL: Sdel_0204
+            SBA: Sulba_0222
+            SMUL: SMUL_0280(cheV)
+            SHAL: SHALO_0246
+            SULS: Sdiek1_0234
+            SULJ: SJPD1_0236
+            SULT: FA592_08260
+            ABU: Abu_0617(cheV)
+            ABT: ABED_0573
+            ABL: A7H1H_0609(cheV)
+            ASK: EI285_06390
+            ATP: ATR_0689(cheV)
+            ACIB: ACBT_1690(cheV)
+            ACRE: ACRYA_0613(cheV)
+            ALAN: ALANTH_0639(cheV)
+            APOC: APORC_0730(cheV)
+            AFC: AFAEC_1598(cheV)
+            ATHR: ATH_0724(cheV)
+            ANT: Arnit_0889
+            AELL: AELL_0805(cheV)
+            AAQI: AAQM_1800(cheV)
+            ASUI: ASUIS_0721(cheV)
+            ACLO: ACLO_0769(cheV)
+            AVP: AVENP_0873(cheV)
+            ADZ: ADFLV_0775(cheV)
+            ARC: ABLL_0764
+            PACO: AACT_0892(cheV)
+            ALK: ALEK_0926(cheV1) ALEK_1399(cheV2)
+            ALP: LPB137_04120
+            AHS: AHALO_0757(cheV)
+            AMYT: AMYT_0819(cheV)
+            AMAR: AMRN_0822(cheV)
+            ACAA: ACAN_0815(cheV)
+            AMOL: AMOL_0727(cheV)
+            APAI: APAC_0687(cheV)
+            HBV: ABIV_1821(cheV)
+            HEBR: AEBR_0855(cheV)
+            AANA: AANAER_0837(cheV)
+            HYO: NNO_0496
+            NIS: NIS_0602
+            NAM: NAMH_0361
+            NAP: C3L23_01845
+            CMED: FE773_04430
+            CPAF: C6V80_06300
+            GSU: GSU0879(cheV)
+            GSK: KN400_0859(cheV)
+            GME: Gmet_2739(cheV)
+            GPI: GPICK_11395
+            GBZ: JZM60_09725
+            GEM: GM21_0724
+            GEB: GM18_3638
+            GEF: FO488_07635
+            GUR: Gura_1284
+            GEO: Geob_1958(cheV)
+            GLO: Glov_2225 Glov_2548
+            GBM: Gbem_0712(cheV)
+            GBN: GEOBRER4_07180(cheV)
+            GSB: GSUB_02085
+            GER: KP004_02855
+            GSUB: KP001_12595
+            GNT: KP003_02490
+            GPL: M1B72_18110
+            PCA: Pcar_2045(cheV)
+            PEF: A7E78_09200
+            PPD: Ppro_1583 Ppro_2364
+            DVE: DESUT3_35950(chev)
+            DVU: DVU_0056(cheV-1) DVU_0652(cheV-2) DVU_0992(cheV-3)
+            DVL: Dvul_1997 Dvul_2308 Dvul_2905
+            DVM: DvMF_2021 DvMF_2643 DvMF_2939
+            DVG: Deval_0084 Deval_0597 Deval_0917
+            DDS: Ddes_0147 Ddes_0197 Ddes_2084
+            DFI: AXF13_00015 AXF13_12395 AXF13_12880
+            DEF: CNY67_00830 CNY67_01665 CNY67_14055
+            DFL: DFE_1257(cheV) DFE_1275
+            DSD: GD606_00070 GD606_03335 GD606_06720 GD606_16885
+            DMA: DMR_00580(cheV) DMR_09970(cheV) DMR_10500(cheV) DMR_26640(cheV) DMR_27990(cheV) DMR_29890(cheV) DMR_44160(cheV)
+            DCB: C3Y92_00410 C3Y92_01070 C3Y92_12325 C3Y92_12830
+            DGG: DGI_1073 DGI_1606
+            DDE: Dde_0391 Dde_1493 Dde_3068 Dde_3100
+            DMS: E8L03_12295 E8L03_17345
+            DSA: Desal_0745 Desal_1163 Desal_1169 Desal_2854 Desal_3713
+            DHY: DESAM_10164 DESAM_20153 DESAM_20839 DESAM_23013 DESAM_23019
+            DAF: Desaf_0130
+            DAS: Daes_1241 Daes_2270 Daes_2517 Daes_2969
+            DPI: BN4_10855 BN4_11511 BN4_12646 BN4_20451
+            DEJ: AWY79_09795 AWY79_16995 AWY79_17805
+            PPRF: DPRO_1203 DPRO_1429 DPRO_2771 DPRO_3947
+            PSEL: GM415_01690 GM415_02080 GM415_11225 GM415_11595
+            DDN: DND132_0892 DND132_2825 DND132_2974 DND132_3384
+            PSEF: PSDVSF_09330(cheV-3) PSDVSF_16650(cheV-1_1) PSDVSF_27560(cheV-1_2) PSDVSF_34710(cheV-1_3)
+            LIP: LI0729(cheV) LI1117(cheV)
+            LIR: LAW_00755(cheV_2) LAW_01159(cheV_1)
+            DSX: GD604_08980 GD604_11710 GD604_13255
+            PBIZ: LWC08_05920 LWC08_09960
+            DAK: DaAHT2_0706
+            DTO: TOL2_C21760
+            HMR: Hipma_0354
+            DAV: DESACE_06900
+            SECH: B18_29750
+            MGM: Mmc1_0629 Mmc1_1805
+            SBF: JCM31447_07850 JCM31447_16870 JCM31447_18020
+            ACU: Atc_0199 Atc_1446
+            ACZ: Acaty_c1217 Acaty_c1891
+            ATX: GCD22_01186(cheV)
+            AFP: K1Y48_05505
+            HTL: HPTL_1528 HPTL_1529
+            BSU: BSU14010(cheV)
+            BSR: I33_1580
+            BSL: A7A1_1547
+            BSH: BSU6051_14010(cheV)
+            BSY: I653_07205
+            BSUT: BSUB_01527(cheV)
+            BSUL: BSUA_01527(cheV)
+            BSUS: Q433_08040
+            BSO: BSNT_07895(cheV)
+            BSN: BSn5_19080
+            BSQ: B657_14010(cheV)
+            BSX: C663_1445(cheV)
+            BSP: U712_07365
+            BSS: BSUW23_07205(cheV)
+            BST: GYO_1737
+            BLI: BL03579(cheV)
+            BLD: BLi01614(cheV)
+            BLH: BaLi_c16500(cheV)
+            BAY: RBAM_013800
+            BAQ: BACAU_1352(cheV)
+            BYA: BANAU_1315(cheV)
+            BAMP: B938_07180
+            BQY: MUS_1485(cheV)
+            BAML: BAM5036_1317(cheV)
+            BAMA: RBAU_1362(cheV)
+            BAMN: BASU_1341(cheV)
+            BAMB: BAPNAU_2379(cheV)
+            BAMT: AJ82_07925
+            BAMY: V529_13350(cheV)
+            BMP: NG74_01436(cheV)
+            BAO: BAMF_1478(cheV)
+            BAZ: BAMTA208_10135(cheV)
+            BQL: LL3_01506(cheV)
+            BXH: BAXH7_02068(cheV)
+            BAMI: KSO_012470
+            BAMC: U471_14070
+            BAMF: U722_07345
+            BSIA: CWD84_14360
+            BAE: BATR1942_04775
+            BVM: B9C48_07055
+            BSON: S101395_03338
+            BHT: DIC78_02415
+            BMOJ: HC660_14680(cheV)
+            BTEQ: G4P54_07350
+            BIQ: AN935_07325
+            BAH: BAMEG_2895
+            BAX: H9401_1598
+            BANS: BAPAT_1608
+            BANH: HYU01_08535
+            BANV: DJ46_510
+            BCE: BC1654
+            BCA: BCE_1777
+            BCZ: BCE33L1533(cheV)
+            BCR: BCAH187_A1832
+            BCB: BCB4264_A1723
+            BCU: BCAH820_1754
+            BCG: BCG9842_B3623
+            BCQ: BCQ_1720(cheV)
+            BCX: BCA_1717
+            BAL: BACI_c17060(cheV)
+            BNC: BCN_1643
+            BCF: bcf_08355
+            BCER: BCK_00145
+            BCEF: BcrFT9_01395
+            BCY: Bcer98_1369
+            BTK: BT9727_1544(cheV)
+            BTL: BALH_1496
+            BTB: BMB171_C1520
+            BTT: HD73_1891
+            BTHR: YBT1520_09420
+            BTHI: BTK_09595
+            BTC: CT43_CH1581
+            BTF: YBT020_08940
+            BTM: MC28_0902
+            BTG: BTB_c16980(cheV)
+            BTI: BTG_12455
+            BTN: BTF1_05990
+            BTHT: H175_ch1604
+            BTW: BF38_2879
+            BTHY: AQ980_21520
+            BWE: BcerKBAB4_1573
+            BWW: bwei_3330(cheV)
+            BMYO: BG05_4264
+            BTY: Btoyo_4286
+            BBY: CY96_07440
+            BWD: CT694_09125
+            BTRO: FJR70_01000
+            BMOB: MLA2C4_08660
+            BPAC: LMD38_18100
+            BPU: BPUM_1296
+            BPUM: BW16_07285
+            BPUS: UP12_06775
+            BIF: N288_08595
+            BMET: BMMGA3_05185(cheV)
+            BSM: BSM4216_1377
+            BGY: BGLY_1608(cheV)
+            BWH: A9C19_12425
+            BXI: BK049_01585
+            BALT: CFN77_07140
+            BSAF: BSL056_06740
+            BIT: BIS30_17815
+            BDA: FSZ17_08855
+            BBAD: K7T73_05375
+            BCAB: EFK13_07805(cheV)
+            BRY: M0696_07680(cheV)
+            BJS: MY9_1538
+            BACW: QR42_06635
+            BACP: SB24_02810
+            BACB: OY17_09985
+            BACO: OXB_3065
+            BACY: QF06_06040
+            BACL: BS34A_15580(cheV)
+            BALM: BsLM_1491
+            BACS: AUL54_03650
+            BACQ: DOE78_07200
+            BCO: Bcell_2173
+            BHK: B4U37_08865
+            BCOH: BC6307_09895
+            BCIR: C2I06_02615
+            BMQ: BMQ_1316(cheV)
+            BMD: BMD_1296(cheV)
+            BMH: BMWSH_3915(cheV)
+            BMEG: BG04_3610
+            BFX: BC359_14450
+            PARH: I5S86_09145 I5S86_21390 I5S86_24590
+            PKS: IE339_05355
+            BCK: BCO26_0945(cheV)
+            BAG: Bcoa_0238
+            BCOA: BF29_3461
+            BHA: BH1712 BH2262(cheV)
+            BCL: ABC2142(cheV)
+            BLE: BleG1_2133
+            BKW: BkAM31D_13730(cheV)
+            BGI: BGM20_01375
+            BPF: BpOF4_15735(cheV) BpOF4_19090(cheW)
+            BON: A361_08645
+            BKO: CKF48_01550
+            CGOT: J1899_08685
+            CSUA: IM538_09775
+            CFIR: NAF01_08145
+            CSOA: LIS82_10280
+            GWC: GWCH70_0936
+            GMC: GY4MC1_2860
+            GTH: Geoth_2882
+            PTL: AOT13_08180
+            PTB: DER53_09250
+            PCAL: BV455_00833(cheV)
+            AFL: Aflv_1927(cheV)
+            AGN: AFK25_04710
+            ANM: GFC28_1418
+            AAMY: GFC30_1324
+            ANL: GFC29_210
+            AND: GRQ40_05780
+            ACAI: ISX45_02400
+            LSP: Bsph_1302(cheV)
+            LGY: T479_03905
+            LFU: HR49_19680
+            LYS: LBYS11_03815
+            LYB: C3943_04825
+            LYZ: DCE79_03490
+            LYG: C1N55_05335
+            LPAK: GDS87_04105
+            LAGR: FJQ98_04915
+            LMAC: I6G82_14490
+            LYC: FH508_0004285
+            LCAP: ICJ70_20435
+            HHD: HBHAL_2780(cheV)
+            HLI: HLI_02775
+            APAK: AP3564_11895 AP3564_15190
+            BSJ: UP17_06835
+            BMUR: ABE28_007015
+            PBUT: DTO10_19575
+            PASA: BAOM_1467(cheV)
+            PPSR: I6J18_07615
+            PFRI: L8956_07435
+            BTHV: CQJ30_07475
+            PSYH: D0S48_06515
+            PSYO: PB01_05360
+            PRD: F7984_05960
+            RUE: DT065_02595
+            SCIB: HUG20_09580
+            SCIA: HUG15_12020
+            POF: GS400_08120
+            NTM: BTDUT50_06405
+            MEKU: HUW50_18415
+            MSEM: GMB29_16880
+            MDG: K8L98_09535
+            MLIT: KDJ21_022555
+            AIA: AWH56_019240
+            BLEN: NCTC4824_02839(cheV)
+            BVQ: FHE72_08790
+            RMF: D5E69_09155
+            BVJ: I5776_13655
+            BOU: I5818_16820
+            BBEV: BBEV_1686(cheV)
+            BSE: Bsel_1897
+            MCUI: G8O30_03920
+            PSUA: FLK61_31920
+            SLMS: MM221_20785
+            LMO: lmo0689
+            LMN: LM5578_0768
+            LMY: LM5923_0723
+            LMT: LMRG_00377
+            LMOC: LMOSLCC5850_0691(cheV)
+            LMOE: BN418_0798
+            LMOB: BN419_0803
+            LMOD: LMON_0694
+            LMOW: AX10_11995
+            LMOQ: LM6179_1000(cheV)
+            LMR: LMR479A_0707(cheV)
+            LMOM: IJ09_06880
+            LMF: LMOf2365_0725(cheV)
+            LMC: Lm4b_00717
+            LMOG: BN389_07350(cheV)
+            LMP: MUO_03790
+            LMOL: LMOL312_0701(cheV)
+            LMOJ: LM220_04762
+            LMOZ: LM1816_00380
+            LMOX: AX24_00805
+            LMH: LMHCC_1936
+            LMQ: LMM7_0724(cheV)
+            LML: lmo4a_0705(cheV)
+            LMG: LMKG_01193
+            LMS: LMLG_0663
+            LMJ: LMOG_02051
+            LMW: LMOSLCC2755_0702(cheV)
+            LMX: LMOSLCC2372_0701(cheV)
+            LMZ: LMOSLCC2482_0745(cheV)
+            LMON: LMOSLCC2376_0668(cheV)
+            LMOS: LMOSLCC7179_0669(cheV)
+            LMOO: LMOSLCC2378_0721(cheV)
+            LMOY: LMOSLCC2479_0699(cheV)
+            LMOT: LMOSLCC2540_0701(cheV)
+            LMOA: LMOATCC19117_0725(cheV)
+            LMOK: CQ02_03715
+            LMV: Y193_12285
+            LIN: lin0697
+            LWE: lwe0658(cheV)
+            LSG: lse_0600(cheV)
+            LIV: LIV_0629
+            LII: JL52_03430
+            LIW: AX25_03495
+            LIA: JL58_03525
+            LIO: JL53_04075
+            LGZ: NCTC10812_02069(cheV)
+            LMAR: LAX80_003125
+            ESI: Exig_0985
+            EAT: EAT1b_0471
+            EAN: Eab7_0956
+            EXM: U719_05145
+            EXU: ESP131_07535
+            EAP: KB235_08085
+            EACE: KKI46_05330
+            EAUR: NMQ00_06810
+            ANX: ACH33_09105
+            ASOC: CB4_02857(cheV)
+            ATHE: K3F53_09990
+            SIV: SSIL_3177(cheV)
+            SSIL: SOLI23_02675
+            SOB: CSE16_03555
+            JEO: JMA_14950
+            KUR: ASO14_2301
+            KZO: NCTC404_00224(cheV)
+            SPOR: SporoP33_10715
+            SPOP: SporoP37_11125
+            SURE: SporoP32a_11350
+            SPOS: DV702_15455
+            SPOO: J3U78_01780
+            RST: ATY39_01780
+            PAEK: D3873_03960
+            VIJ: JNUCC6_18990
+            CAC: CA_C1233(chev)
+            CAE: SMB_G1254(cheV)
+            CAY: CEA_G1246(chev)
+            CNO: NT01CX_2338
+            CBO: CBO1777(cheV)
+            CBA: CLB_1712(cheV)
+            CBH: CLC_1720(cheV)
+            CBY: CLM_1935(cheV)
+            CBL: CLK_1159(cheV)
+            CBK: CLL_A1563(cheV)
+            CBB: CLD_2861(cheV)
+            CBI: CLJ_B1957(cheV)
+            CBN: CbC4_1624
+            CBT: CLH_1474
+            CBF: CLI_1772(cheV)
+            CBM: CBF_1754(cheV)
+            CBJ: H04402_01771
+            CBE: Cbei_0755
+            CBZ: Cbs_0755
+            CBEI: LF65_00828
+            CCB: Clocel_2495
+            CSR: Cspa_c47070(cheV)
+            CSB: CLSA_c14950(cheV1)
+            CSQ: CSCA_1254
+            CLD: CLSPO_c17690(cheV)
+            CACE: CACET_c13070(cheV)
+            CCK: Ccar_08060
+            CBUT: ATN24_11225
+            CEU: A7L45_05480
+            CTAE: BGI42_06600
+            CFM: BJL90_20205
+            CDRK: B9W14_12565
+            CDY: F3K33_04105
+            CFER: D4Z93_03790
+            CRW: CROST_017920(cheV)
+            CFB: CLFE_017510(cheV)
+            CAUN: CLAUR_011940(cheV)
+            CNN: CNEO_2260
+            CGEL: psyc5s11_11440(chev)
+            AMT: Amet_2732
+            AOE: Clos_1960
+            CPRF: K7H06_14090
+            PBIF: KXZ80_02340
+            RUK: A4V00_15050
+            ESR: ES1_08280
+            ESU: EUS_22380
+            FPLA: A4U99_03325
+            OVA: OBV_39420(cheV)
+            PFAA: MM59RIKEN_20550
+            ACOL: K5I23_13930
+            BPB: bpr_I1237(cheW)
+            BFI: CIY_17660
+            BHU: bhn_I1158
+            CLE: Clole_1147
+            CEW: EKH84_08535
+            RHO: RHOM_11275
+            RIX: RO1_22300
+            RIM: ROI_10100
+            CPY: Cphy_2843
+            LACY: A4V08_31205
+            CSH: Closa_3442
+            HSD: SD1D_1681
+            CPRO: CPRO_28330(cheV)
+            PXV: FXF36_12860
+            ANR: Ana3638_12635 Ana3638_18510
+            ACEL: acsn021_31100
+            ACHT: bsdcttw_33690(chev)
+            EEL: EUBELI_00882
+            WCP: H9Q76_08440
+            SSUN: H9Q77_06895
+            ERE: EUBREC_1465
+            ERT: EUR_09950
+            ERA: ERE_16210
+            CST: CLOST_1588
+            PSOR: RSJ16_02325
+            TEM: JW646_07705
+            TGC: L0P85_00820
+            TEB: T8CH_0801
+            SGY: Sgly_1649
+            DOR: Desor_5077
+            DAI: Desaci_1562
+            DMI: Desmer_4075
+            DED: DHBDCA_p647(cheV)
+            DEC: DCF50_p705
+            DRS: DEHRE_07590
+            DRU: Desru_1592
+            DAE: Dtox_0066
+            LASA: L9O85_03905
+            AMIJ: EQM06_12555
+            AMIC: Ami3637_07740
+            ABUT: Ami103574_00560
+            BPRS: CK3_11130
+            TEP: TepRe1_2528
+            TAE: TepiRe1_2726(cheV)
+            HPK: Hprae_1882
+            CAD: Curi_c17850(cheV)
+            SEDZ: JYG23_12605
+            SSG: Selsp_0745
+            SRI: SELR_23150(cheV)
+            SELE: ADJ74_00170
+            SELO: AXE86_10100
+            SELT: BCS37_05470
+            PUF: UFO1_0791 UFO1_2893
+            PFT: JBW_01772
+            MANA: MAMMFC1_01231(cheV)
+            STED: SPTER_45610(cheV)
+            LCRE: Pla8534_32440(cheV)
+            BVO: Pan97_40380(cheV)
+            TTF: THTE_3749
+            LPAV: PLANPX_0815
+            KST: KSMBR1_1317(cheV) KSMBR1_2166
+            SCOR: J3U87_09570
+            TAI: Taci_1572
+            TLI: Tlie_0136
+            AMO: Anamo_1750
+            SBR: SY1_04800 SY1_13410
+            HYA: HY04AAS1_0196
+            TAL: Thal_0511
+            SUL: SYO3AOP1_0924
+            SAF: SULAZ_1321
+            PMX: PERMA_0740
+            TTK: TST_0827(cheV)
+            TAM: Theam_0844
+            DTE: Dester_0046
+            DIN: Selin_0363 Selin_0503 Selin_0619 Selin_1236 Selin_2092
+            DDF: DEFDS_0276 DEFDS_P184
+            DAP: Dacet_2323
+            GTL: EP073_11830
+            CNI: Calni_0785
+            MSCH: N508_001216(cheV)
+            DTP: JZK55_01650(cheV_1) JZK55_08120(cheV_2)
+            NDE: NIDE2351(cheV)
+            NMV: NITMOv2_2137(cheV)
+            LFC: LFE_1584(cheV)
+            LFI: LFML04_1052
+            LFP: Y981_04800
+            LEG: ABH19_08415
+REFERENCE   PMID:19203648
+  AUTHORS   Miller LD, Russell MH, Alexandre G
+  TITLE     Diversity in bacterial chemotactic responses and niche adaptation.
+  JOURNAL   Adv Appl Microbiol 66:53-75 (2009)
+            DOI:10.1016/S0065-2164(08)00803-4
+REFERENCE   PMID:11553614
+  AUTHORS   Karatan E, Saulmon MM, Bunn MW, Ordal GW
+  TITLE     Phosphorylation of the response regulator CheV is required for adaptation to attractants during Bacillus subtilis chemotaxis.
+  JOURNAL   J Biol Chem 276:43618-26 (2001)
+            DOI:10.1074/jbc.M104955200
+  SEQUENCE  [bsu:BSU14010]
+///

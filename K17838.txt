@@ -1,0 +1,320 @@
+ENTRY       K17838                      KO
+SYMBOL      oxa
+NAME        beta-lactamase class D [EC:3.5.2.6]
+PATHWAY     map01501  beta-Lactam resistance
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01501 beta-Lactam resistance
+                K17838  oxa; beta-lactamase class D
+            Enzymes [BR:ko01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.2  In cyclic amides
+                3.5.2.6  beta-lactamase
+                 K17838  oxa; beta-lactamase class D
+DBLINKS     RN: R06363
+            COG: COG2602
+            GO: 0008800 0008658
+GENES       PAP: PSPA7_6316
+            PCAM: HNE05_18220(blaOXA)
+            PPHA: BVH74_01370
+            PSA: PST_2699
+            PSZ: PSTAB_2684
+            PSR: PSTAA_2824
+            PSC: A458_08840
+            PSH: Psest_1611
+            PSTU: UIB01_07535
+            PCHL: LLJ08_13260(blaOXA)
+            PKG: LW136_09205(blaOXA)
+            HPEG: EAO82_05380(blaOXA)
+            SLO: Shew_3220
+            SPC: Sputcn32_3157
+            SHP: Sput200_3270
+            SPL: Spea_2637
+            SHW: Sputw3181_0786
+            SHL: Shal_2710
+            SWP: swp_4470
+            SCAA: TUM17387_07500(blaA)
+            SGLA: FJ709_05960(blaOXA)
+            ILO: IL1808
+            ILI: K734_09100
+            CPS: CPS_0483
+            CEG: D0C16_00545
+            STAW: NCG89_09245(blaOXA)
+            KIM: G3T16_10105
+            LADL: NCTC12735_01042
+            LANT: TUM19329_19990
+            MCA: MCA2220
+            MMT: Metme_3233
+            MELL: IVG45_16455(blaOXA)
+            MISZ: MishRS11D_06250(blaA)
+            MPIN: LGT42_006245(blaOXA)
+            TWN: L2Y54_13880(blaOXA)
+            TVI: Thivi_1496 Thivi_3027
+            WEZ: IC757_16415(blaOXA)
+            HCAM: I4484_17340(blaOXA)
+            HSX: HNO51_17195(blaOXA)
+            HSV: HNO53_17575(blaOXA)
+            HTX: EKK97_19405(blaOXA)
+            GPB: HDN1F_04970(oxa9)
+            RSO: RSp0030
+            RSL: RPSI07_mp0046
+            RSN: RSPO_m00047
+            RSM: CMR15_mp10032
+            RSE: F504_3535
+            RPJ: N234_28920
+            RSG: JK151_22760(blaOXA)
+            REH: H16_B1495(h16_B1495)
+            CNC: CNE_2c14940(lcr)
+            CTI: RALTA_B1278
+            CBW: RR42_s0521
+            CCAM: M5D45_19225
+            BTD: BTI_4996
+            BUR: Bcep18194_B2849
+            BCM: Bcenmc03_4137
+            BCH: Bcen2424_3379
+            BCJ: BCAM0393
+            BCEN: DM39_4747
+            BCEO: I35_4298
+            BMK: DM80_4415
+            BCT: GEM_5327
+            BCED: DM42_4759
+            BPYR: ABD05_19870
+            BCON: NL30_24010
+            BSEM: WJ12_21920
+            BGL: bglu_2g15400
+            BGU: KS03_4399
+            BGD: bgla_2g09520
+            BGP: BGL_2c08580
+            BPLA: bpln_2g09500
+            BURK: DM992_27500(blaOXA)
+            LIMN: HKT17_05285(blaOXA)
+            DAC: Daci_2332 Daci_4544
+            DEL: DelCs14_2272 DelCs14_4323
+            DLA: I6G47_01750(blaOXA) I6G47_12480(blaOXA)
+            VPE: Varpa_1477
+            CTT: CtCNB1_2597
+            HSE: Hsero_3593
+            HSZ: ACP92_17915
+            MFY: HH212_24390(blaOXA)
+            MFA: Mfla_2477
+            DSU: Dsui_1823
+            AZA: AZKH_1955(bla)
+            TDN: Suden_0951
+            CNV: CNZW441b_1382
+            SULT: FA592_12500(blaOXA)
+            AELL: AELL_1853
+            AAQI: AAQM_1689
+            ASUI: ASUIS_1009
+            ACLO: ACLO_1675
+            AVP: AVENP_1177
+            ADZ: ADFLV_2019
+            ARC: ABLL_1963
+            PACO: AACT_1959
+            APAI: APAC_0171
+            GUR: Gura_3505
+            GLO: Glov_0120
+            PPD: Ppro_0184
+            DVM: DvMF_0389
+            DSD: GD606_08270(blaOXA)
+            DMA: DMR_04670
+            DCB: C3Y92_18075
+            DGG: DGI_2558
+            DSA: Desal_3073
+            DSX: GD604_10160(blaOXA)
+            MSD: MYSTI_07129
+            MFB: MFUL124B02_37775
+            AVM: JQX13_06410
+            RBE: RBE_0107(blaD)
+            RBO: A1I_07395
+            RFE: RF_1275(blaD)
+            MENM: LF888_05130(blaOXA)
+            MLO: mll0916
+            MCI: Mesci_4203
+            MOP: Mesop_4048
+            MAM: Mesau_03814
+            MHUA: MCHK_2584(blaOXA)
+            MJR: EB229_21100(blaOXA)
+            MERD: EB233_18295(blaOXA)
+            PLA: Plav_3016
+            ATU: Atu0933
+            AGR: AGROH133_04800(oxa)
+            ATF: Ach5_08530(oxa)
+            AVI: Avi_1053
+            ARUI: G6M88_11850 G6M88_11990 G6M88_12195(blaOXA)
+            AVQ: HRR99_03985 HRR99_04305(blaOXA)
+            RIR: BN877_I0921(bla)
+            RPUS: CFBP5875_03255(blaOXA)
+            ROY: G3A56_06150(blaOXA)
+            RFV: RFYW14_01125
+            KAI: K32_28040
+            PSCQ: KHQ08_12330(blaOXA)
+            BJA: bll5360(bll5360)
+            BJU: BJ6T_44270
+            BJP: RN69_21485
+            BRA: BRADO4627(oxa5)
+            BBT: BBta_5028(oxa5)
+            BRS: S23_29200
+            AOL: S58_30420
+            BARH: WN72_29850(blaOXA)
+            BVZ: BRAD3257_3732(bla)
+            BEL: BE61_47520
+            BDG: LPJ38_28375(blaOXA)
+            BQB: J4P68_0002940(blaOXA)
+            RPB: RPB_2340
+            RPC: RPC_3398
+            RPD: RPD_3124
+            RPE: RPE_3542
+            XAU: Xaut_1441
+            XDI: EZH22_16730
+            DEVO: H4N61_01190
+            CMET: K6K41_21870
+            NOH: G5V57_18630(blaOXA)
+            CAUL: KCG34_08595
+            SIL: SPO2592
+            SIT: TM1040_0211
+            PALX: GQA70_23795(blaOXA)
+            PAMI: JCM7686_1684
+            MON: G8E03_07855
+            POZ: I0K15_15370
+            HNE: HNE_2763
+            RCE: RC1_2760(bla)
+            TMO: TMO_3399
+            MGM: Mmc1_0424
+            BBA: Bd3212
+            BBAT: Bdt_3141
+            BSU: BSU02090(ybxI)
+            BSR: I33_0246
+            BSL: A7A1_3273
+            BSH: BSU6051_02090(ybxI)
+            BSY: I653_01015
+            BSUT: BSUB_00257(ybxI)
+            BSUL: BSUA_00257(ybxI)
+            BSUS: Q433_01310
+            BSO: BSNT_06508(ybxI)
+            BSN: BSn5_12630
+            BSQ: B657_02090(ybxI)
+            BSX: C663_0197(ybxI)
+            BSP: U712_01060
+            BSS: BSUW23_01070(ybxI)
+            BST: GYO_0398
+            BAE: BATR1942_00355 BATR1942_19650
+            BHT: DIC78_08975(blaOXA) DIC78_12830(blaOXA)
+            BMOJ: HC660_02450 HC660_35280(ybxI)
+            BIQ: AN935_01070 AN935_18315
+            BPU: BPUM_2340
+            BPUM: BW16_12720
+            BPUS: UP12_11805
+            BALT: CFN77_12510(blaBPU)
+            BSAF: BSL056_12870
+            BIT: BIS30_11590
+            BDA: FSZ17_01495(blaOXA)
+            BCAB: EFK13_18675(blaOXA)
+            BRY: M0696_01260(blaOXA)
+            BJS: MY9_0208
+            BACW: QR42_11890
+            BACY: QF06_20195
+            BACL: BS34A_02640(ybxI)
+            BALM: BsLM_0213
+            BAQU: K6959_02070(blaOXA)
+            BCL: ABC3481
+            BGI: BGM20_16095
+            CFIR: NAF01_13610(blaOXA)
+            LAGR: FJQ98_07920(blaOXA)
+            PBUT: DTO10_07225(blaOXA)
+            PFRI: L8956_20870(blaOXA)
+            MEKU: HUW50_02735(blaOXA)
+            MDG: K8L98_14290(blaOXA)
+            BVQ: FHE72_03985(blaOXA)
+            BLR: BRLA_c003130
+            BRW: GOP56_17550(blaOXA)
+            GYM: GYMC10_3486
+            PMS: KNP414_06766(ybxI)
+            PMQ: PM3016_6386
+            PMW: B2K_32290
+            PCHI: PC41400_17565
+            PRZ: GZH47_02095(blaOXA)
+            CSCI: HDCHBGLK_01362(mecR1)
+            VGU: HYG85_06085(blaOXA)
+            VPY: HZI73_04750(blaOXA) HZI73_08750
+            AMIC: Ami3637_14340
+            NDA: Ndas_0427
+            NAL: B005_3299
+            NEX: NE857_08410
+            TCU: Tcur_2040
+            SRO: Sros_8961
+            SYN: slr0319(blaOXA-3)
+            SYZ: MYO_127520(blaOXA-3)
+            SYY: SYNGTS_2726(blaOXA-3)
+            SYT: SYNGTI_2725(blaOXA-3)
+            SYS: SYNPCCN_2724(blaOXA-3)
+            SYQ: SYNPCCP_2724(blaOXA-3)
+            SYP: SYNPCC7002_A2334
+            CMP: Cha6605_2536
+            AMR: AM1_4306
+            GLP: Glo7428_2730
+            PPSU: NO713_05500(bla)
+            MVAG: D0A34_26030(blaOXA)
+            GEI: GEI7407_2198
+            OAC: Oscil6304_5014
+            ONI: Osc7112_5534
+            ANA: all2480
+            NPU: Npun_F3980
+            NED: HUN01_29265(blaOXA)
+            AVA: Ava_0412
+            ACY: Anacy_0698
+            RSIN: B6N60_05023
+            CALN: NIES2098_22960
+            SCS: Sta7437_3913
+            PUV: PUV_15980(bla)
+            LAMB: KBB96_12030
+            SOA: G3M56_013465(blaOXA)
+            SCOR: J3U87_18560
+            CSOM: MKD34_12540(blaOXA) MKD34_12800(blaOXA) MKD34_13865(blaOXA)
+            STR: Sterm_0301 Sterm_3353
+            MCOS: GM418_02805
+            CPI: Cpin_0907
+            CHIH: GWR21_20100(blaOXA)
+            COY: HF329_24440(blaOXA)
+            CFIL: MYF79_04520(blaOXA)
+            NKO: Niako_6692
+            FLC: KJS93_19840
+            FLV: KJS94_01935 KJS94_16215
+            HHY: Halhy_1719
+            SGN: SGRA_0359(ampC)
+            SHG: Sph21_2800
+            SPDR: G6053_16135
+            SDJ: NCTC13534_00301(bla)
+            SSPI: I6J01_21395
+            SSIY: JVX97_19280
+            CHU: CHU_1887
+            RHOZ: GXP67_32030
+            DSN: HWI92_22850
+            EOL: Emtol_1902 Emtol_2018
+            HQI: H9L05_02975
+            HTS: HMJ29_01525(blaOXA)
+            FCR: HYN56_17815
+            ZPR: ZPR_0717
+            PBAT: JL193_14245(blaOXA)
+            RAR: RIA_2139
+            RAE: G148_1473
+            CLAC: EG342_00760 EG342_21975(blaOXA)
+            CPC: Cpar_0567
+            CPH: Cpha266_1596
+            CPB: Cphamn1_1050
+            CLI: Clim_1276
+            PPH: Ppha_1109
+            PAA: Paes_1435
+            CTS: Ctha_1121
+REFERENCE   PMID:19721065
+  AUTHORS   Poirel L, Naas T, Nordmann P
+  TITLE     Diversity, epidemiology, and genetics of class D beta-lactamases.
+  JOURNAL   Antimicrob Agents Chemother 54:24-38 (2010)
+            DOI:10.1128/AAC.01512-08
+REFERENCE   PMID:16446375
+  AUTHORS   Walther-Rasmussen J, Hoiby N
+  TITLE     OXA-type carbapenemases.
+  JOURNAL   J Antimicrob Chemother 57:373-83 (2006)
+            DOI:10.1093/jac/dki482
+///

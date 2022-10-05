@@ -1,0 +1,654 @@
+ENTRY       K06407                      KO
+SYMBOL      spoVAE
+NAME        stage V sporulation protein AE
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99978 Cell growth
+                K06407  spoVAE; stage V sporulation protein AE
+GENES       BSU: BSU23401(spoVAEA) BSU23402(spoVAEB)
+            BSL: A7A1_3033 A7A1_3034
+            BSH: BSU6051_23401(spoVAEA) BSU6051_23402(spoVAEB)
+            BSY: I653_11180 I653_11185
+            BSUT: BSUB_02510(spoVAEA) BSUB_02511(spoVAEB)
+            BSUL: BSUA_02510(spoVAEA) BSUA_02511(spoVAEB)
+            BSUS: Q433_12770 Q433_12775
+            BSO: BSNT_08759 BSNT_08760
+            BSN: BSn5_02205 BSn5_02210
+            BSQ: B657_23401(spoVAEA) B657_23402(spoVAEB)
+            BSX: C663_2216(spoVAE2)
+            BSS: BSUW23_11480(spoVAEA) BSUW23_11485(spoVAEB)
+            BLD: BLi02489(spoVAEA) BLi02490(spoVAEB)
+            BLH: BaLi_c25700(spoVAEA) BaLi_c25710(spoVAEB)
+            BAY: RBAM_021500 RBAM_021510(spoVAE)
+            BAQ: BACAU_2160(spoVAE1) BACAU_2161(spoVAE2)
+            BYA: BANAU_2301(spoVAE1) BANAU_2302(spoVAE2)
+            BAMP: B938_11115 B938_11120
+            BQY: MUS_2587(spoVAE) MUS_2588(spoVAE2)
+            BAML: BAM5036_2076(spoVAEA) BAM5036_2077(spoVAEB)
+            BAMA: RBAU_2289(spoVAEA) RBAU_2290(spoVAEB)
+            BAMN: BASU_2078(spoVAEA) BASU_2079(spoVAEB)
+            BAMB: BAPNAU_1435(spoVAE) BAPNAU_1436(spoVAE1)
+            BAMT: AJ82_12215 AJ82_12220
+            BAMY: V529_24200(spoVAE1) V529_24210(spoVAE2)
+            BMP: NG74_02253
+            BAO: BAMF_1842(spoVAE2) BAMF_1962(spoVAE3) BAMF_2235(spoVAEA) BAMF_2236(spoVAEB) BAMF_3821(spoVAE)
+            BAZ: BAMTA208_05260(spoVAE1) BAMTA208_05265(spoVAE2)
+            BQL: LL3_02055(spoV) LL3_02523(spoV) LL3_02524(spoV) LL3_04143(spoV)
+            BXH: BAXH7_01101(spoVAE2) BAXH7_01102(spoVAE1)
+            BAMI: KSO_008650 KSO_008655
+            BAMC: U471_22220 U471_22230
+            BAMF: U722_11725 U722_11730
+            BSIA: CWD84_04275(spoVAE) CWD84_05890(spoVAE) CWD84_10200(spoVAE) CWD84_10205
+            BAE: BATR1942_09975 BATR1942_09980
+            BVM: B9C48_10930 B9C48_10935
+            BSON: S101395_02121 S101395_02122 S101395_02400
+            BHT: DIC78_19780(spoVAE) DIC78_19785
+            BMOJ: HC660_22160(spoVAEA) HC660_22170(spoVAEB)
+            BTEQ: G4P54_12245(spoVAEA) G4P54_12250(spoVAE)
+            BIQ: AN935_11525 AN935_11530
+            BAN: BA_5377
+            BAR: GBAA_5377
+            BAT: BAS3976 BAS3977 BAS4997
+            BAH: BAMEG_4326 BAMEG_4327 BAMEG_5430
+            BAI: BAA_4308 BAA_4309(spoVAE_1) BAA_5407(spoVAE_2)
+            BAX: H9401_4085 H9401_4086 H9401_5127
+            BANT: A16_42860 A16_42870 A16_53900
+            BANR: A16R_43400 A16R_43410 A16R_54530
+            BANS: BAPAT_4110 BAPAT_4111 BAPAT_5155
+            BANH: HYU01_20935 HYU01_20940 HYU01_26275
+            BANV: DJ46_2977 DJ46_2978(spoVAE) DJ46_4042(spoVAE)
+            BCE: BC4065 BC4066 BC5149
+            BCA: BCE_5251
+            BCZ: BCE33L3821(spoVAE) BCE33L3823(spoVAE) BCE33L4841(spoVAE) pE33L466_0406(spoVAE)
+            BCR: BCAH187_A4197 BCAH187_A4198(spoVAE) BCAH187_A5309 BCAH187_C0229
+            BCB: BCB4264_A4174 BCB4264_A4175(spoVAE) BCB4264_A5267
+            BCU: BCAH820_4086 BCAH820_4087(spoVAE) BCAH820_5233 BCAH820_B0206
+            BCG: BCG9842_B1063 BCG9842_B1064 BCG9842_B5690
+            BCQ: BCQ_3856(spoVAE) BCQ_3857(spoVAE) BCQ_4969(spoVAE) BCQ_PI169
+            BCX: BCA_4177 BCA_4178(spoVAE) BCA_5276
+            BAL: BACI_c40330(spoVAE1) BACI_c40340(spoVAE1') BACI_c51300(spoVAE2)
+            BNC: BCN_3978 BCN_3979 BCN_5060 BCN_P213
+            BCF: bcf_20220 bcf_20225 bcf_25705
+            BCER: BCK_09660 BCK_14865 BCK_14870
+            BCEF: BcrFT9_03175 BcrFT9_03176 BcrFT9_04121
+            BCY: Bcer98_2764 Bcer98_2765 Bcer98_3690
+            BTK: BT9727_3806(spoVAE) BT9727_3807(spoVAE) BT9727_4826(spoVAE)
+            BTL: BALH_3681 BALH_3683(spoVAE) BALH_4639(spoVAE)
+            BTB: BMB171_C3729 BMB171_C3730 BMB171_C4738
+            BTT: HD73_4364 HD73_4365 HD73_5541 HD73_7022
+            BTHR: YBT1520_21635 YBT1520_21640 YBT1520_27450 YBT1520_32876
+            BTHI: BTK_21485 BTK_21490 BTK_27250 BTK_32961
+            BTC: CT43_CH4072 CT43_CH4073 CT43_CH5179 CT43_P127062
+            BTF: YBT020_20020 YBT020_20025 YBT020_25445
+            BTM: MC28_3357 MC28_3358 MC28_4381
+            BTG: BTB_c42010(spoVAEA) BTB_c42020(spoVAEB1) BTB_c53420(spoVAEB2)
+            BTI: BTG_22690 BTG_29085 BTG_29090
+            BTN: BTF1_18645 BTF1_18650 BTF1_24120
+            BTHT: H175_107p046 H175_ch4137 H175_ch4138 H175_ch5261
+            BTHU: YBT1518_22515 YBT1518_22520 YBT1518_28795
+            BTW: BF38_5238 BF38_5239(spoVAE) BF38_876(spoVAE)
+            BTHY: AQ980_03600 AQ980_09510 AQ980_09515 AQ980_31540
+            BWE: BcerKBAB4_3895 BcerKBAB4_3896 BcerKBAB4_4941
+            BWW: bwei_0884(spoVAE) bwei_0885(spoVAE3) bwei_4649(spoVAE2)
+            BMYO: BG05_1955(spoVAE) BG05_1956 BG05_908(spoVAE)
+            BTY: Btoyo_1310 Btoyo_1311 Btoyo_2351
+            BMYC: DJ92_1161 DJ92_1162(spoVAE) DJ92_2194(spoVAE)
+            BBY: CY96_19420 CY96_19425 CY96_24760
+            BWD: CT694_21880 CT694_21885(spoVAE) CT694_27695(spoVAE)
+            BTRO: FJR70_14080 FJR70_14085(spoVAE) FJR70_19860(spoVAE)
+            BMOB: MLA2C4_21270 MLA2C4_21275(spoVAE) MLA2C4_26630(spoVAE)
+            BNT: GSN03_19275 GSN03_19280(spoVAE) GSN03_24460(spoVAE)
+            BPAC: LMD38_01200(spoVAE) LMD38_06740(spoVAE) LMD38_06745 LMD38_28170(spoVAE)
+            BPU: BPUM_2070 BPUM_2071
+            BPUM: BW16_11255 BW16_11260
+            BPUS: UP12_10520 UP12_10525
+            BIF: N288_07790 N288_17410
+            BMET: BMMGA3_04650
+            BSM: BSM4216_1142
+            BGY: BGLY_0657 BGLY_2754 BGLY_2755(spoVAEB)
+            BWH: A9C19_07155 A9C19_07160
+            BXI: BK049_16595 BK049_16600
+            BALT: CFN77_11105 CFN77_11110(spoVAE)
+            BSAF: BSL056_11545 BSL056_11550
+            BIT: BIS30_01350 BIS30_01355
+            BFD: NCTC4823_02756(spoVAE2)
+            BDA: FSZ17_08370(spoVAE) FSZ17_15280
+            BSHI: LGQ02_08130 LGQ02_08215(spoVAE)
+            BBAD: K7T73_04215(spoVAE)
+            BCAB: EFK13_11865(spoVAEA) EFK13_11870(spoVAE)
+            BRY: M0696_11560(spoVAEA) M0696_11565(spoVAE)
+            BJS: MY9_2354 MY9_2355
+            BACI: B1NLA3E_04905 B1NLA3E_15110
+            GST: HW35_03655 HW35_15455
+            BACW: QR42_10475 QR42_10480
+            BACP: SB24_17970 SB24_17975
+            BACB: OY17_14020 OY17_14025
+            BACO: OXB_1830
+            BACY: QF06_09875 QF06_09880
+            BACL: BS34A_25710(spoVAEA) BS34A_25720(spoVAEB)
+            BALM: BsLM_2289 BsLM_2290
+            BACS: AUL54_14760 AUL54_16240 AUL54_19075 AUL54_19080
+            BACQ: DOE78_06740(spoVAE) DOE78_16400
+            BACA: FAY30_07755(spoVAE) FAY30_16295
+            BAQU: K6959_04340(spoVAE)
+            BCO: Bcell_1798 Bcell_1816
+            BHK: B4U37_07325 B4U37_13195 B4U37_13200
+            BCOH: BC6307_04865 BC6307_13965 BC6307_13970
+            BCIR: C2I06_00775(spoVAE) C2I06_08505
+            BMQ: BMQ_1935(spoVAE) BMQ_4385(spoVAEA) BMQ_4386(spoVAEB)
+            BMD: BMD_4371(spoVAEA) BMD_4372(spoVAEB)
+            BMH: BMWSH_0846(spoVAE2) BMWSH_0847(spoVAE1)
+            BMEG: BG04_1302 BG04_1303(spoVAE) BG04_5599(spoVAE)
+            BEO: BEH_19160 BEH_19165
+            BFX: BC359_05815 BC359_05820 BC359_12760
+            PKS: IE339_18210 IE339_18215(spoVAE)
+            BCK: BCO26_0855 BCO26_1603
+            BAG: Bcoa_0319 Bcoa_2909
+            BCOA: BF29_3389(spoVAE) BF29_657
+            BHA: BH1541(spoVAE) BH1542(spoVAE) BH1570
+            BCL: ABC1798 ABC1799 ABC1827
+            BLE: BleG1_1631 BleG1_1632 BleG1_2089
+            BKW: BkAM31D_06430 BkAM31D_06435 BkAM31D_07200 BkAM31D_10555
+            BGI: BGM20_05420 BGM20_05425
+            BPF: BpOF4_14860(spoVAE) BpOF4_14865(spoVAE) BpOF4_15005(spoVA2)
+            BON: A361_07685 A361_16045 A361_19800
+            BKO: CKF48_01955(spoVAE) CKF48_18610
+            CGOT: J1899_07680(spoVAE) J1899_14470
+            CSUA: IM538_05735(spoVAE) IM538_16115 IM538_16120(spoVAE)
+            CFIR: NAF01_07385(spoVAE) NAF01_17900
+            CSOA: LIS82_09525(spoVAE) LIS82_18535
+            OIH: OB1379
+            OCN: CUC15_08340(spoVAE)
+            OCB: CV093_08780(spoVAE)
+            GKA: GK0855 GK2302 GK2303
+            GTE: GTCCBUS3UF5_10160 GTCCBUS3UF5_25970 GTCCBUS3UF5_25980
+            GTK: GT3570_04175 GT3570_10970 GT3570_10975
+            GTM: GT3921_07980 GT3921_07985 GT3921_15145
+            GLI: GLN3_04420 GLN3_04425 GLN3_14485
+            BCAL: CWI35_05915(spoVAE) CWI35_16905 CWI35_16910
+            GTN: GTNG_0735(spoVAE) GTNG_2233 GTNG_2234
+            GWC: GWCH70_0790 GWCH70_2244 GWCH70_2245
+            GYC: GYMC61_0379 GYMC61_0380 GYMC61_1656
+            GYA: GYMC52_0781 GYMC52_2282 GYMC52_2283
+            GCT: GC56T3_1200 GC56T3_1201 GC56T3_2690
+            GMC: GY4MC1_1254 GY4MC1_3005
+            GGH: GHH_c07990(spoVAE1) GHH_c23890(spoVAE2) GHH_c23900(spoVAE3)
+            GJF: M493_04390 M493_11855 M493_11860
+            GEA: GARCT_00830 GARCT_02277 GARCT_02278
+            GEL: IB49_03310 IB49_03315 IB49_14600
+            GSE: GT50_13965 GT50_15635 GT50_15640
+            GSR: GS3922_04555 GS3922_04560 GS3922_06020
+            GEJ: A0V43_01690 A0V43_09450 A0V43_09455
+            GZA: IC807_00175(spoVAE) IC807_07620 IC807_07625 IC807_17895(spoVAE)
+            GTH: Geoth_1364 Geoth_3023
+            PTL: AOT13_07520 AOT13_16075
+            PTB: DER53_08600(spoVAE) DER53_16045 DER53_16050
+            PCAL: BV455_00957 BV455_03104 BV455_03105
+            AFL: Aflv_1009(spoVAE) Aflv_1010(spoVAE) Aflv_2084(spoVAE)
+            AGN: AFK25_03665 AFK25_09375 AFK25_09380
+            ANM: GFC28_1764(spoVAE) GFC28_54 GFC28_55
+            AAMY: GFC30_1189(spoVAE) GFC30_2499 GFC30_2500
+            ANL: GFC29_1570 GFC29_1571 GFC29_3670(spoVAE)
+            AND: GRQ40_04435(spoVAE) GRQ40_12260 GRQ40_12265
+            ACAI: ISX45_01760(spoVAE) ISX45_09550 ISX45_09555
+            ASED: IRT44_00370(spoVAE) IRT44_14060(spoVAE) IRT44_14065
+            AXL: AXY_16420(spoVAE)
+            LSP: Bsph_1236
+            LGY: T479_03625
+            LFU: HR49_19980
+            LYS: LBYS11_03615(spoVAE)
+            LYB: C3943_04550(spoVAE)
+            LYZ: DCE79_03285(spoVAE)
+            LYG: C1N55_05215(spoVAE)
+            LPAK: GDS87_03820(spoVAE)
+            LAGR: FJQ98_04555(spoVAE)
+            LMAC: I6G82_14670(spoVAE)
+            LYC: FH508_0003610(spoVAE)
+            LCAP: ICJ70_20735(spoVAE)
+            HHD: HBHAL_3345
+            HMN: HM131_10245
+            HLI: HLI_00170(spoVAE)
+            TAP: GZ22_08640 GZ22_08645
+            TAID: KS242_09730 KS242_09735(spoVAE)
+            VIR: X953_12890
+            VHL: BME96_11695
+            VIG: BKP57_19015
+            VIL: CFK37_16670(spoVAE)
+            VNE: CFK40_13415(spoVAE)
+            VPN: A21D_03834
+            VIM: GWK91_06600(spoVAE)
+            VPT: KBP50_10680(spoVAE)
+            FPN: ABE65_013400 ABE65_013405
+            FAR: ABE41_010235 ABE41_012140 ABE41_012145
+            APAK: AP3564_13180
+            BSJ: UP17_02105 UP17_06125 UP17_15720
+            BMUR: ABE28_006260 ABE28_014580
+            PBUT: DTO10_02625 DTO10_13930(spoVAE) DTO10_18840(spoVAE)
+            PASA: BAOM_1184(spoVAE) BAOM_3589(spoVAE)
+            PPSR: I6J18_00470(spoVAE) I6J18_21355
+            PFRI: L8956_06640(spoVAE) L8956_16435
+            AQT: FN924_07410(spoVAE) FN924_10150
+            BTHV: CQJ30_00985(spoVAE) CQJ30_06770(spoVAE) CQJ30_09575(spoVAE)
+            PSYH: D0S48_06665(spoVAE)
+            PSYO: PB01_05205(spoVAE)
+            PRD: F7984_05060(spoVAE) F7984_11815
+            GRC: GI584_10085(spoVAE)
+            RUE: DT065_01585 DT065_01635(spoVAE)
+            SALE: EPH95_00890 EPH95_00940(spoVAE)
+            SCIB: HUG20_07885 HUG20_07935(spoVAE)
+            SCIA: HUG15_10595 HUG15_10645(spoVAE)
+            POF: GS400_11300 GS400_11305(spoVAE)
+            NMK: CHR53_08425(spoVAE) CHR53_19170
+            NTM: BTDUT50_05180(spoVAE) BTDUT50_10820 BTDUT50_10825
+            NDT: L1999_06460(spoVAE) L1999_20890
+            MEKU: HUW50_17095(spoVAE) HUW50_26640 HUW50_26645(spoVAE)
+            MSEM: GMB29_13275(spoVAE) GMB29_18650 GMB29_18655(spoVAE)
+            MDG: K8L98_09150(spoVAE) K8L98_16845 K8L98_16850(spoVAE)
+            MLIT: KDJ21_014330(spoVAE) KDJ21_014335
+            AIA: AWH56_025315(spoVAE) AWH56_025420 AWH56_025425(spoVAE)
+            BLEN: NCTC4824_02955
+            SEDD: ERJ70_07900(spoVAE) ERJ70_10605
+            BVQ: FHE72_08335(spoVAE) FHE72_14285
+            RMF: D5E69_08780(spoVAE) D5E69_13805
+            BVJ: I5776_08855 I5776_13950(spoVAE)
+            BOU: I5818_10085 I5818_17125(spoVAE)
+            CTHU: HUR95_10305(spoVAE) HUR95_12705
+            MCUI: G8O30_03560(spoVAE) G8O30_07135
+            GAJ: MY490_08750(spoVAE) MY490_08755
+            PSUA: FLK61_30480(spoVAE)
+            SLMS: MM221_18825(spoVAE)
+            HYI: K2M58_01960(spoVAE)
+            STEA: C0679_08410(spoVAE)
+            BBE: BBR47_24010(spoVAE) BBR47_24020(spoVAE) BBR47_41020(spoVAE)
+            BLR: BRLA_c017610 BRLA_c017620 BRLA_c026160
+            BFM: BP422_07205 BP422_07210 BP422_16220
+            BAGR: BA6348_10510(spoVAE) BA6348_17095 BA6348_17100(spoVAE)
+            BRW: GOP56_01915(spoVAE) GOP56_01920 GOP56_05615(spoVAE)
+            BCHS: JNE38_12425(spoVAE) JNE38_12430 JNE38_25400(spoVAE)
+            BCOP: JD108_06945(spoVAE) JD108_12840 JD108_12845(spoVAE)
+            PJD: Pjdr2_4028 Pjdr2_4031
+            GYM: GYMC10_1704
+            PPY: PPE_03248
+            PPM: PPSC2_17170(spoVAE)
+            PPO: PPM_3465(spoVAE)
+            PPOL: X809_33220
+            PPQ: PPSQR21_034630
+            PPOY: RE92_19925
+            PMS: KNP414_04193
+            PMQ: PM3016_5633
+            PMW: B2K_28695
+            PTA: HPL003_16505 HPL003_25785
+            PLV: ERIC2_c10190
+            PSAB: PSAB_07455
+            PDU: PDUR_08585
+            PBD: PBOR_09240
+            PGM: PGRAT_08950
+            POD: PODO_07580
+            PAEN: P40081_09075
+            PAEF: R50345_07695
+            PAEQ: R50912_08415
+            PSTE: PSTEL_08270
+            PAEA: R70723_08470
+            PAEE: R70331_08415
+            PAEH: H70357_08880
+            PAEJ: H70737_07410
+            PBJ: VN24_18865 VN24_25370
+            PIH: UB51_03095
+            PRI: PRIO_1868
+            PSON: JI735_17680(spoVAE)
+            PPEO: ABE82_17280
+            PNP: IJ22_08620
+            POW: IJ21_18330 IJ21_27760
+            PXL: BS614_25080
+            PYG: AWM70_11860
+            PSWU: SY83_14385
+            PDH: B9T62_03240(spoVAE)
+            PIB: BBD41_06380
+            PCX: LPB68_09605
+            PKB: B4V02_08160 B4V02_12175
+            PAIH: ASL14_21065
+            PVO: PVOR_10689
+            PLW: D5F53_21130(spoVAE)
+            PLEN: EIM92_11825(spoVAE)
+            PPSC: EHS13_12635(spoVAE)
+            PLUT: EI981_07675(spoVAE)
+            PALB: EJC50_12445(spoVAE)
+            PCHI: PC41400_23550(spoVAE)
+            PBK: Back11_26960
+            PPRT: ET464_01780(spoVAE)
+            PBAC: HUB98_08745(spoVAE)
+            PRZ: GZH47_06285(spoVAE)
+            PLYC: GXP70_09970(spoVAE)
+            PSOP: KP014_11190(spoVAE)
+            PTRI: KDC22_07935(spoVAE)
+            PALO: E6C60_1407
+            PCEL: HUB94_02010(spoVAE)
+            PTJ: JRJ22_07020(spoVAE)
+            PALR: HGI30_14530(spoVAE)
+            TCO: Theco_2438
+            ANX: ACH33_12855 ACH33_12860 ACH33_16705
+            ASOC: CB4_00005 CB4_03275 CB4_03276
+            ATHE: K3F53_02140(spoVAE) K3F53_06070(spoVAE) K3F53_06075
+            COH: EAV92_03360(spoVAE)
+            COHN: KCTCHS21_41910 KCTCHS21_54330
+            CCHL: FPL14_00500(spoVAE) FPL14_04360(spoVAE)
+            CHEB: HH215_05680(spoVAE) HH215_11320(spoVAE)
+            AAC: Aaci_0722 Aaci_1740 Aaci_1741
+            AAD: TC41_0693 TC41_1639 TC41_1640(spoVAE)
+            AFX: JZ786_14630 JZ786_14635(spoVAE)
+            AACO: K1I37_12025 K1I37_12030(spoVAE)
+            ACUR: JZ785_05910(spoVAE) JZ785_05915
+            BTS: Btus_1829
+            KYR: CVV65_07265(spoVAE)
+            TUM: CBW65_20880 CBW65_20885
+            TAB: CIG75_08720(spoVAE) CIG75_08725 CIG75_18400(spoVAE)
+            EFF: skT53_07940(spoVAE) skT53_07950 skT53_22120
+            SIV: SSIL_3217
+            SSIL: SOLI23_02450
+            SOB: CSE16_03345(spoVAE)
+            JEO: JMA_14290
+            SPSY: AZE41_16800
+            SPOR: SporoP33_13350
+            SPOP: SporoP37_13570
+            SURE: SporoP32a_13975
+            SPOS: DV702_01650(spoVAE)
+            SPAE: E2C16_09565(spoVAE)
+            SPOO: J3U78_21390(spoVAE)
+            RST: ATY39_01585
+            PAEK: D3873_03780(spoVAE)
+            PANC: E2636_11260(spoVAE)
+            VIJ: JNUCC6_18700(spoVAE)
+            LFB: C1X05_04010(spoVAE) C1X05_06900 C1X05_06905
+            TVU: AB849_012240(spoVAE)
+            KPUL: GXN76_01775(spoVAE) GXN76_07140
+            KEB: GXN75_03945(spoVAE) GXN75_08320 GXN75_13885(spoVAE)
+            PABS: JIR001_08820 JIR001_14690 JIR001_14700(spoVAEA)
+            CAE: SMB_G2336(spoVAEA) SMB_G2337(spoVAEB)
+            CAY: CEA_G2317(spoVAE) CEA_G2318
+            CPE: CPE2045
+            CPF: CPF_2302(spoVAE)
+            CPR: CPR_2017(spoVAE)
+            CTC: CTC_02243
+            CTET: BN906_02443
+            CNO: NT01CX_1809
+            CBO: CBO3084(spoVAC1)
+            CBA: CLB_3113(spoVAE)
+            CBH: CLC_2986
+            CBY: CLM_0314(spoVAE) CLM_3489(spoVAE)
+            CBL: CLK_2477(spoVAE)
+            CBK: CLL_A0879(spoVAE)
+            CBB: CLD_1456(spoVAE)
+            CBI: CLJ_B0309(spoVAE_1) CLJ_B3349(spoVAE_2)
+            CBN: CbC4_1026
+            CBT: CLH_0846(spoVAE)
+            CBF: CLI_3143(spoVAE)
+            CBM: CBF_3132(spoVAE)
+            CBJ: H04402_03156
+            CBE: Cbei_0817
+            CBZ: Cbs_0817
+            CBEI: LF65_00898
+            CKL: CKL_1590
+            CKR: CKR_1479
+            CLJ: CLJU_c20940
+            CCB: Clocel_2102 Clocel_2103
+            CLB: Clo1100_2724
+            CSR: Cspa_c09000(spoVAEB1) Cspa_c43340(spoVAEB2)
+            CPAS: Clopa_1165 Clopa_3013 Clopa_3014
+            CPAT: CLPA_c12100(spoVAEB) CLPA_c17270(spoVAEA)
+            CPAE: CPAST_c12100(spoVAEB) CPAST_c17270(spoVAEA)
+            CSB: CLSA_c10710(spoVAE) CLSA_c33080(spoVAEB)
+            CAH: CAETHG_0178(spoVAE)
+            CLT: CM240_2029 CM240_2030
+            CBV: U729_59(spoVAE)
+            CSQ: CSCA_2478 CSCA_4447
+            CLD: CLSPO_c31780
+            CACE: CACET_c07850(spoVAE) CACET_c15170(spoVAEB) CACET_c15180(spoVAEA)
+            CCK: Ccar_02310
+            CBUT: ATN24_05160
+            CTYK: CTK_C15680(spoVAEB)
+            CEU: A7L45_09930 A7L45_11900
+            CTAE: BGI42_04200(spoVAE) BGI42_08215(spoVAE)
+            CFM: BJL90_10065 BJL90_13440 BJL90_13445
+            CCHV: BTM20_05280
+            CARG: RSJ17_08245 RSJ17_19315
+            CDRK: B9W14_07305 B9W14_22820
+            CIA: BEN51_09395
+            CSEP: CP523_02340(spoVAE)
+            CDY: F3K33_04460(spoVAE)
+            CCOH: SAMEA4530647_1913
+            CFER: D4Z93_04500(spoVAE)
+            CGAS: J1C67_00665(spoVAE) J1C67_18750(spoVAE)
+            CLOS: DMR38_10700(spoVAE)
+            CCAA: KQH81_06630(spoVAE)
+            CMAH: C1I91_08650(spoVAE)
+            CRW: CROST_029310 CROST_029320
+            CFB: CLFE_028530 CLFE_028540
+            CAUN: CLAUR_001590 CLAUR_001600
+            CNN: CNEO_3173(spoVAE) CNEO_3788(spoVAEB)
+            CGEL: psyc5s11_45480 psyc5s11_46280(spoVAC1)
+            AMT: Amet_2221 Amet_2222 Amet_4223
+            AOE: Clos_1789
+            ASF: SFBM_0949
+            ASM: MOUSESFB_0886(spoVAE)
+            ASO: SFBmNL_01024(spoVAE)
+            ASB: RATSFB_0805(spoVAE)
+            GFE: Gferi_03035 Gferi_03040 Gferi_25750
+            HHW: NCTC503_01979
+            CALE: FDN13_11215(spoVAE) FDN13_11220
+            CRS: FQB35_04280(spoVAE) FQB35_08720 FQB35_08725(spoVAE)
+            CPRF: K7H06_05430(spoVAE) K7H06_05435 K7H06_12785(spoVAE)
+            SARJ: HH195_08305(spoVAE)
+            PBIF: KXZ80_13775(spoVAE)
+            HHJ: NQ487_19630(spoVAE)
+            CTH: Cthe_0124 Cthe_0125
+            CTX: Clo1313_2106 Clo1313_2107
+            CCL: Clocl_1144 Clocl_1145
+            HSC: HVS_05085
+            RUK: A4V00_14335
+            RBP: B6259_00505
+            CCE: Ccel_2280
+            RHER: EHE19_005250(spoVAE)
+            CSS: Cst_c24040(spoVAE)
+            CSD: Clst_2302
+            CTHD: CDO33_15170(spoVAE) CDO33_20360(spoVAE)
+            ESR: ES1_14460
+            ESU: EUS_07710
+            CCEL: CCDG5_1926
+            FPLA: A4U99_11295
+            EHA: Ethha_0280
+            RAL: Rumal_1029
+            RCH: RUM_03330
+            RUM: CK1_32750
+            RUS: RBI_II00018(spoVAEA)
+            RUJ: E5Z56_04465(spoVAE)
+            FPR: FP2_12220
+            FPA: FPR_18080
+            FPRA: CG447_06820
+            FDU: GXM22_02110
+            CAPR: EQM14_15765(spoVAE)
+            OVA: OBV_15570(spoVAE)
+            OBJ: EIO64_12270(spoVAE)
+            CAML: H6X83_13845(spoVAE)
+            CLF: GJQ69_00490(spoVAE)
+            SMAN: C12CBH8_21840
+            PFAA: MM59RIKEN_04480(spoVAC1)
+            VFA: MM35RIKEN_02330(spoVAC1)
+            VCOP: MM50RIKEN_09960(spoVAC1)
+            CFEM: HCR03_12685(spoVAE)
+            ACOL: K5I23_06410(spoVAE)
+            SVJ: NQ490_13115
+            CLE: Clole_2535
+            CEW: EKH84_15310(spoVAE)
+            RHO: RHOM_03745
+            RIX: RO1_17290
+            RIM: ROI_35540
+            COO: CCU_00840
+            CCT: CC1_00860
+            CCOM: I6K69_13670
+            CEV: LK421_02165(spoVAE)
+            ROB: CK5_20470
+            BYL: A4V09_15700
+            BHAN: CGC63_12880(spoVAE)
+            BLAU: DQQ01_02380(spoVAE)
+            BPRO: PMF13cell1_01927
+            BLAB: EYS05_10520
+            BLIQ: INP51_01920
+            CPY: Cphy_0481
+            LACY: A4V08_34215
+            CSCI: HDCHBGLK_00568
+            CSH: Closa_1567
+            BPRL: CL2_17240
+            ARF: AR1Y2_1207
+            HSD: SD1D_1994
+            CPRO: CPRO_10730
+            EHL: EHLA_2467
+            ANR: Ana3638_00930
+            ACEL: acsn021_37160(spoVAE)
+            ACHT: bsdcttw_07640(spoVAE)
+            EEL: EUBELI_01601
+            RTO: RTO_08320
+            RGN: RGna_15355
+            CBOL: CGC65_13275(spoVAE) CGC65_16185
+            DLO: K5I24_12575(spoVAE)
+            SINT: K5I26_07020
+            WCP: H9Q76_04890(spoVAE)
+            SSUN: H9Q77_04530
+            QDO: H9Q78_10370
+            WHJ: H9Q79_11440
+            MFOR: NQ534_20980
+            ERE: EUBREC_2431
+            ERT: EUR_26980
+            ERA: ERE_07060
+            CDF: CD630_07750(spoVAE)
+            PDC: CDIF630_00893(spoVAE)
+            CDC: CD196_0723(spoVAE)
+            CDL: CDR20291_0704(spoVAE)
+            PDF: CD630DERM_07750(spoVAE)
+            PSOR: RSJ16_15585
+            ROC: HF520_11110(spoVAE)
+            TEM: JW646_11050(spoVAE)
+            TGC: L0P85_16710(spoVAE)
+            TEB: T8CH_0693(spoVAEB) T8CH_0706(spoVAEB)
+            IBR: NQ514_12925(spoVAE)
+            STH: STH1811(spoVAE) STH204
+            SWO: Swol_0628
+            SLP: Slip_0530
+            SALQ: SYNTR_0407 SYNTR_0408 SYNTR_1628
+            CALK: HUE98_15130(spoVAE)
+            DSY: DSY2299
+            DHD: Dhaf_3437
+            DDH: Desde_2875
+            DDL: Desdi_2384
+            DMT: DESME_10005
+            SGY: Sgly_1860
+            DOR: Desor_1076 Desor_3691
+            DAI: Desaci_0455 Desaci_3302
+            DMI: Desmer_1059
+            DED: DHBDCA_p488(spoVAE)
+            DEC: DCF50_p544(spoVAE)
+            DRS: DEHRE_06850
+            DCA: Desca_0958 Desca_2064
+            PTH: PTH_1230
+            DRM: Dred_1108 Dred_1109 Dred_1463
+            DRU: Desru_2579 Desru_3015 Desru_3016
+            DFG: B0537_05260 B0537_05265 B0537_07185
+            DAE: Dtox_2068 Dtox_2379
+            DKU: Desku_1881
+            DAU: Daud_1220
+            TFR: BR63_04115(spoVAE) BR63_04120
+            FWA: DCMF_04145 DCMF_04150 DCMF_10945
+            AACX: DEACI_2753
+            TJR: TherJR_1651 TherJR_1652
+            DGI: Desgi_1390 Desgi_2569
+            HMO: HM1_0323(spoVAE) HM1_1049(spoVAE)
+            HCV: FTV88_0051 FTV88_3197 FTV88_3198
+            VGU: HYG85_05275(spoVAE)
+            VPY: HZI73_06520(spoVAE)
+            ACAE: HYG86_16220(spoVAE) HYG86_16230
+            TMR: Tmar_1136
+            THEF: E1B22_09350
+            THEP: DYI95_005665
+            SAY: TPY_1580(spoVAE) TPY_1581(spoVAE)
+            SAP: Sulac_1782 Sulac_1783
+            STHR: BXT84_06460 BXT84_06465
+            CTHM: CFE_1152 CFE_1153
+            IBU: IB211_01985
+            LASA: L9O85_10865(spoVAE)
+            AMIJ: EQM06_07215(spoVAE)
+            ABUT: Ami103574_11210(spoVAE)
+            ETM: CE91St48_15280(spoVAC1)
+            BPRS: CK3_31090
+            TTE: TTE1321
+            TEX: Teth514_1563
+            THX: Thet_1339
+            TPD: Teth39_1126
+            TIT: Thit_1116
+            TMT: Tmath_1171
+            TBO: Thebr_1154
+            TWI: Thewi_1271
+            TKI: TKV_c12420(spoVAEB)
+            CHY: CHY_1955
+            MTA: Moth_1374
+            MTHO: MOTHE_c13590
+            MTHZ: MOTHA_c14460
+            ADG: Adeg_1246
+            TPZ: Tph_c15980(spoVAE)
+            GEK: kuro4_20780
+            CSC: Csac_0090
+            ATE: Athe_2733
+            COB: COB47_2298
+            CHD: Calhy_2589
+            COW: Calow_2230
+            CKI: Calkr_2572
+            CLC: Calla_2437
+            CKN: Calkro_2553
+            CCHA: ELD05_00450(spoVAE) ELD05_00990(spoVAE)
+            CDIA: CaldiYA01_24030(spoVAC1)
+            TTM: Tthe_1338
+            TTO: Thethe_01303
+            TXY: Thexy_1214
+            TSH: Tsac_1899
+            MAS: Mahau_1173
+            TEP: TepRe1_1372
+            TAE: TepiRe1_1484(spoVAEB)
+            TOC: Toce_1262
+            NTH: Nther_1657
+            NCD: ACONDI_01484
+            HOR: Hore_07070
+            HALS: D7D81_11500(spoVAE)
+            IFN: GM661_08950(spoVAE)
+            AAR: Acear_1700 Acear_1701
+            HHL: Halha_0594 Halha_0595
+            AFT: BBF96_02235 BBF96_02240
+            KME: H0A61_01836
+            CAD: Curi_c10340(spoVAE)
+            SPOA: EQM13_11215(spoVAE)
+            KPAR: JL105_04180(spoVAE)
+            CAZO: G3A45_04165 G3A45_04170(spoVAE)
+            SEDZ: JYG23_02710(spoVAE)
+            PUF: UFO1_1980 UFO1_1983 UFO1_2109
+            PFT: JBW_02407 JBW_02410 JBW_02665
+            MANA: MAMMFC1_03656 MAMMFC1_03659
+            STED: SPTER_21030 SPTER_21060
+            AARG: Aargi30884_04340
+            ABSI: A9CBEGH2_05700
+            CIU: G4D55_11190(spoVAE)
+            ERM: EYR00_09835(spoVAE)
+            FIT: Fi14EGH31_20760(spoVAEB)
+            LCG: L3BBH23_15190
+            ERB: A4V01_14040
+            TUR: AT726_01715
+            TSG: HLK68_14500(spoVAE)
+            TBB: J0J69_04435(spoVAE)
+            LPIL: LIP_1797
+            ACIT: HPK19_02595(spoVAE) HPK19_02600
+            ARCA: HC352_01955
+            APHO: JTE88_01960
+            RTS: CE91St31_26920
+REFERENCE   PMID:17573930
+  AUTHORS   Vepachedu VR, Setlow P
+  TITLE     Analysis of interactions between nutrient germinant receptors and SpoVA proteins of Bacillus subtilis spores.
+  JOURNAL   FEMS Microbiol Lett 274:42-7 (2007)
+            DOI:10.1111/j.1574-6968.2007.00807.x
+///

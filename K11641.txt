@@ -1,0 +1,89 @@
+ENTRY       K11641                      KO
+SYMBOL      natR
+NAME        two-component system, LytTR family, response regulator NatR
+PATHWAY     map02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K11641  natR; two-component system, LytTR family, response regulator NatR
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K11641  natR; two-component system, LytTR family, response regulator NatR
+            Two-component system [BR:ko02022]
+             LytTR family
+              NatK-NatR (sodium extrusion)
+               K11641  natR; two-component system, LytTR family, response regulator NatR
+DBLINKS     COG: COG3279
+            GO: 0000156
+GENES       BSU: BSU02740(natR)
+            BSR: I33_0315(natR)
+            BSL: A7A1_1924
+            BSH: BSU6051_02740(natR)
+            BSY: I653_01350
+            BSUT: BSUB_00323(natR)
+            BSUL: BSUA_00323(natR)
+            BSUS: Q433_01670
+            BSO: BSNT_06591(yccH)
+            BSN: BSn5_12950
+            BSQ: B657_02740(natR)
+            BSX: C663_0265(yccH)
+            BSP: U712_01415
+            BST: GYO_0475(natR)
+            BHT: DIC78_08635
+            BMOJ: HC660_03090(natR)
+            BTEQ: G4P54_01575(natR)
+            BIQ: AN935_01410
+            BPU: BPUM_0251
+            BPUM: BW16_01605
+            BPUS: UP12_01585
+            BIF: N288_06390
+            BXI: BK049_06700
+            BALT: CFN77_01600
+            BSAF: BSL056_01550
+            BCAB: EFK13_01760(natR)
+            BJS: MY9_0279
+            BACW: QR42_01560
+            BACY: QF06_00325
+            BACL: BS34A_03290(natR)
+            BALM: BsLM_0285
+            BACQ: DOE78_24455
+            BHK: B4U37_03955
+            BCOH: BC6307_02595
+            BCIR: C2I06_16940
+            BMQ: BMQ_1210(natR)
+            BMD: BMD_1195(natR)
+            BMH: BMWSH_4029(yccH)
+            BMEG: BG04_3511
+            BGI: BGM20_16420
+            AQT: FN924_03185
+            PSYO: PB01_19230
+            MDG: K8L98_02415
+            BVQ: FHE72_11160
+            RMF: D5E69_06830
+            BOU: I5818_01855
+            MCUI: G8O30_01210
+            LWE: lwe0699
+            CSR: Cspa_c54970
+            AOE: Clos_2832
+            GFE: Gferi_05815
+            RHER: EHE19_007335
+            RUS: RBI_II00475
+            FPR: FP2_08170
+            COO: CCU_07800
+            BYL: A4V09_19155
+            BLAB: EYS05_16465
+            LACY: A4V08_03020 A4V08_36615
+            EMT: CPZ25_008070
+            ABUT: Ami103574_11700
+            PEK: FFJ24_011280
+            SBX: CA265_10400
+            PLIT: K8354_17340
+REFERENCE   PMID:17322186 (Bacillus)
+  AUTHORS   Ogura M, Tsukahara K, Hayashi K, Tanaka T
+  TITLE     The Bacillus subtilis NatK-NatR two-component system regulates expression of the natAB operon encoding an ABC transporter for sodium ion extrusion.
+  JOURNAL   Microbiology 153:667-75 (2007)
+            DOI:10.1099/mic.0.2006/003673-0
+  SEQUENCE  [bsu:BSU02740]
+///

@@ -1,0 +1,115 @@
+ENTRY       K13614                      KO
+SYMBOL      pksN, baeN
+NAME        bacillaene biosynthesis, polyketide synthase / nonribosomal peptide synthetase PksN/BaeN
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01004 Lipid biosynthesis proteins
+                K13614  pksN, baeN; bacillaene biosynthesis, polyketide synthase / nonribosomal peptide synthetase PksN/BaeN
+               01008 Polyketide biosynthesis proteins
+                K13614  pksN, baeN; bacillaene biosynthesis, polyketide synthase / nonribosomal peptide synthetase PksN/BaeN
+            Lipid biosynthesis proteins [BR:ko01004]
+             Polyketide synthase
+              Modular PKS
+               K13614  pksN, baeN; bacillaene biosynthesis, polyketide synthase / nonribosomal peptide synthetase PksN/BaeN
+            Polyketide biosynthesis proteins [BR:ko01008]
+             Polyketide synthase (PKS)
+              Modular type I PKS
+               trans-AT PKS
+                Bacillanene hybrid PKS-NRPS
+                 K13614  pksN, baeN; bacillaene biosynthesis, polyketide synthase / nonribosomal peptide synthetase PksN/BaeN
+DBLINKS     COG: COG3321 COG1020 COG1028 COG0236
+GENES       LEM: LEN_2606
+            PAEW: KIH87_12205
+            CVC: BKX93_03030
+            BTE: BTH_II1674
+            BTQ: BTQ_4962(fabF)
+            BTJ: BTJ_3589(fabF)
+            BTZ: BTL_4436(fabF)
+            BTD: BTI_4280
+            BTV: BTHA_5782(fabF)
+            BTHE: BTN_4086(fabF)
+            BTHM: BTRA_4007(fabF)
+            BTHA: DR62_4121
+            BTHL: BG87_4418(fabF)
+            BGD: bgla_1g21620
+            BGO: BM43_6270(pksJ)
+            BUL: BW21_3820
+            BUD: AQ610_21795
+            MNR: ACZ75_05420
+            MASS: CR152_21450
+            MFLA: GO485_00205
+            BSU: BSU17210(pksN)
+            BSR: I33_1908
+            BSL: A7A1_3359 A7A1_3360 A7A1_3361 A7A1_3362
+            BSH: BSU6051_17210(pksN)
+            BSY: I653_08835
+            BSUT: BSUB_01852(pksN)
+            BSUL: BSUA_01852(pksN)
+            BSUS: Q433_09785(baeN)
+            BSN: BSn5_20725
+            BSX: C663_1770(pksN)
+            BSS: BSUW23_08850(pksN)
+            BST: GYO_2076
+            BAY: RBAM_017010
+            BAQ: BACAU_1673(baeN)
+            BYA: BANAU_1677(baeN)
+            BAMP: B938_08820(baeN)
+            BQY: MUS_1885(pksJ2)
+            BAML: BAM5036_1643(baeN)
+            BAMA: RBAU_1682(baeN)
+            BAMN: BASU_1661(baeN)
+            BAMB: BAPNAU_2046(baeN)
+            BAMT: AJ82_09665
+            BAMY: V529_16610(baeN)
+            BMP: NG74_01768(pksN_2)
+            BAO: BAMF_1789(baeM)
+            BAZ: BAMTA208_08550(baeM)
+            BQL: LL3_01876(baeM)
+            BXH: BAXH7_01743(baeN)
+            BAMI: KSO_010840
+            BAMC: U471_17430
+            BAMF: U722_09015
+            BSIA: CWD84_12680
+            BAE: BATR1942_06410
+            BVM: B9C48_08690
+            BHT: DIC78_00730
+            BCAB: EFK13_09445
+            BRY: M0696_09285
+            BJS: MY9_1871
+            BACP: SB24_01180
+            BACB: OY17_11610
+            BACY: QF06_07650
+            BACL: BS34A_18900(pksN_1) BS34A_18910(pksN_2)
+            BALM: BsLM_1818
+            BACS: AUL54_02000
+            BGI: BGM20_03005
+            PPY: PPE_03009
+            PPM: PPSC2_15865(pksJ)
+            PPO: PPM_3215(pksJ)
+            PPOL: X809_32325
+            PPQ: PPSQR21_031780 PPSQR21_031790
+            PPOY: RE92_20850
+            PMS: KNP414_01873
+            PMQ: PM3016_2159
+            PMW: B2K_11105
+            PKB: B4V02_06330
+            PVO: PVOR_20694
+            CRW: CROST_036610(dltA_6)
+            PFT: JBW_00861
+            MANA: MAMMFC1_03231(pksN_1) MAMMFC1_03236(pksN_3) MAMMFC1_04157(pksN_11)
+            SCOR: J3U87_32010
+            CPI: Cpin_5291
+            KAN: IMCC3317_14630(pksN_3)
+REFERENCE   PMID:17234808
+  AUTHORS   Butcher RA, Schroeder FC, Fischbach MA, Straight PD, Kolter R, Walsh CT, Clardy J
+  TITLE     The identification of bacillaene, the product of the PksX megacomplex in Bacillus subtilis.
+  JOURNAL   Proc Natl Acad Sci U S A 104:1506-9 (2007)
+            DOI:10.1073/pnas.0610503104
+REFERENCE   PMID:16707694
+  AUTHORS   Chen XH, Vater J, Piel J, Franke P, Scholz R, Schneider K, Koumoutsi A, Hitzeroth G, Grammel N, Strittmatter AW, Gottschalk G, Sussmuth RD, Borriss R
+  TITLE     Structural and functional characterization of three polyketide synthase gene clusters in Bacillus amyloliquefaciens FZB 42.
+  JOURNAL   J Bacteriol 188:4024-36 (2006)
+            DOI:10.1128/JB.00052-06
+  SEQUENCE  [bay:RBAM_017010]
+///

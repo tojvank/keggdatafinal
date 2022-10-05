@@ -1,0 +1,3589 @@
+ENTRY       K02420                      KO
+SYMBOL      fliQ
+NAME        flagellar biosynthesis protein FliQ
+PATHWAY     map02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                K02420  fliQ; flagellar biosynthesis protein FliQ
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system
+                K02420  fliQ; flagellar biosynthesis protein FliQ
+               02035 Bacterial motility proteins
+                K02420  fliQ; flagellar biosynthesis protein FliQ
+            Secretion system [BR:ko02044]
+             Type III secretion system
+              Flagellar export apparatus
+               K02420  fliQ; flagellar biosynthesis protein FliQ
+            Bacterial motility proteins [BR:ko02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                K02420  fliQ; flagellar biosynthesis protein FliQ
+DBLINKS     COG: COG1987
+            TC: 3.A.6.2
+GENES       ECO: b1949(fliQ)
+            ECJ: JW1933(fliQ)
+            ECD: ECDH10B_2091(fliQ)
+            EBW: BWG_1754(fliQ)
+            ECE: Z3039(fliQ)
+            ECS: ECs_2688(fliQ)
+            ECF: ECH74115_2726(fliQ)
+            ETW: ECSP_2553(fliQ)
+            ELX: CDCO157_2482(fliQ)
+            EOI: ECO111_0255(lfiQ) ECO111_2531(fliQ)
+            EOJ: ECO26_0249(lfiQ) ECO26_2836(fliQ)
+            EOH: ECO103_2200(fliQ)
+            ECOO: ECRM13514_2506(fliQ)
+            ECOH: ECRM13516_2433(fliQ)
+            ESL: O3K_09890(fliQ)
+            ESO: O3O_15740(fliQ)
+            ESM: O3M_09850(fliQ)
+            ECK: EC55989_2169(fliQ)
+            ECG: E2348C_2063(fliQ)
+            EOK: G2583_2400(fliQ)
+            ELR: ECO55CA74_11550(fliQ)
+            ELH: ETEC_2052
+            ECW: EcE24377A_2182(fliQ)
+            EUN: UMNK88_2426(fliQ)
+            ECP: ECP_1883
+            ENA: ECNA114_0212 ECNA114_2028(fliQ)
+            ECOS: EC958_0371(lfiQ) EC958_2215(fliQ)
+            ECV: APECO1_988(fliQ)
+            ECOA: APECO78_13535(fliQ)
+            ECX: EcHS_A2049(fliQ)
+            ECM: EcSMS35_0244(lfiQ) EcSMS35_1235(fliQ)
+            ECY: ECSE_2180
+            ECR: ECIAI1_2030(fliQ)
+            ECQ: ECED1_2216(fliQ)
+            EUM: ECUMN_0253(lfiQ) ECUMN_2241(fliQ)
+            ECT: ECIAI39_1107(fliQ)
+            EOC: CE10_2230(fliQ)
+            EBD: ECBD_1696
+            ECI: UTI89_C2149(fliQ)
+            EIH: ECOK1_2066(fliQ)
+            ECZ: ECS88_2002(fliQ)
+            ECC: c2366(fliQ)
+            ELO: EC042_0248(lfiQ) EC042_2108(fliQ)
+            ELN: NRG857_09740(fliQ)
+            ESE: ECSF_1801
+            ECL: EcolC_1693 EcolC_3388
+            EKO: EKO11_1825 EKO11_3668
+            EKF: KO11_01220(fliQ2) KO11_12970(fliQ)
+            EAB: ECABU_c22090(fliQ)
+            EDH: EcDH1_1699
+            EDJ: ECDH1ME8569_1889(fliQ)
+            ELU: UM146_07440(fliQ)
+            ELW: ECW_m0253(lfiQ) ECW_m2124(fliQ)
+            ELL: WFL_01225(fliQ2) WFL_10410(fliQ)
+            ELC: i14_2181(fliQ)
+            ELD: i02_2181(fliQ)
+            ELP: P12B_c0221(lfiQ)
+            ELF: LF82_0711(fliQ)
+            ECOL: LY180_01260(fliQ) LY180_10110(fliQ)
+            ECOI: ECOPMV1_02038(fliQ)
+            ECOJ: P423_01210(fliQ) P423_10600(fliQ)
+            EFE: EFER_1934(fliQ)
+            EAL: EAKF1_ch1186 EAKF1_ch4089c(fliQ)
+            EMA: C1192_02150(fliQ) C1192_11560
+            ESZ: FEM44_15780(fliQ) FEM44_24710(fliQ)
+            STY: STY2188(fliQ)
+            STT: t0897(fliQ)
+            SEX: STBHUCCB_9650
+            SENT: TY21A_04605(fliQ)
+            STM: STM1980(fliQ)
+            SEO: STM14_2401(fliQ)
+            SEV: STMMW_19601
+            SEY: SL1344_1909(fliQ)
+            SEM: STMDT12_C20010(fliQ)
+            SEJ: STMUK_1959(fliQ)
+            SEB: STM474_2012(fliQ)
+            SEF: UMN798_2089(fliQ)
+            SETU: STU288_06290(fliQ)
+            SETC: CFSAN001921_07165(fliQ)
+            SENR: STMDT2_19041(fliQ)
+            SEND: DT104_19921(fliQ)
+            SENI: CY43_10425(fliQ)
+            SEEN: SE451236_15835(fliQ)
+            SPT: SPA0890(fliQ)
+            SEK: SSPA0829
+            SPQ: SPAB_01168
+            SEI: SPC_1734(fliQ)
+            SEC: SCH_1985(fliQ)
+            SEH: SeHA_C2196(fliQ)
+            SHB: SU5_02583
+            SENH: CFSAN002069_21935(fliQ)
+            SEEH: SEEH1578_19175(fliQ)
+            SEE: SNSL254_A2143(fliQ)
+            SENN: SN31241_30790
+            SEW: SeSA_A2138(fliQ)
+            SEA: SeAg_B1139(fliQ)
+            SENS: Q786_05310(fliQ)
+            SED: SeD_A1262(fliQ)
+            SEG: SG1075(fliQ)
+            SEL: SPUL_1868(fliQ)
+            SEGA: SPUCDC_1854(fliQ)
+            SET: SEN1029(fliQ)
+            SENA: AU38_05320(fliQ)
+            SENO: AU37_05310(fliQ)
+            SENV: AU39_05310(fliQ)
+            SENQ: AU40_05985(fliQ)
+            SENL: IY59_05415(fliQ)
+            SENJ: CFSAN001992_01555(fliQ)
+            SEEC: CFSAN002050_16715(fliQ)
+            SEEB: SEEB0189_009580(fliQ)
+            SEEP: I137_08485(fliQ)
+            SENB: BN855_20650
+            SENE: IA1_09835(fliQ)
+            SENC: SEET0819_16910(fliQ)
+            SES: SARI_00957
+            SBG: SBG_1808(fliQ)
+            SBZ: A464_2128
+            SBV: N643_08850(fliQ)
+            SALZ: EOS98_09210
+            SFL: SF1994(fliQ)
+            SFX: S2088(fliQ)
+            SFV: SFV_1992(fliQ)
+            SFE: SFxv_2223(fliQ)
+            SFN: SFy_2852
+            SFS: SFyv_2919
+            SFT: NCTC1_02168(fliQ)
+            SSN: SSON_2007(fliQ)
+            SBO: SBO_1058(fliQ)
+            SBC: SbBS512_E1070(fliQ)
+            ENC: ECL_03231(fliQ) ECL_03291(fliQ)
+            ENL: A3UG_14435 A3UG_14730
+            ECLG: EC036_27940 EC036_28530
+            ECLE: ECNIH2_14680(fliQ)
+            ECLN: ECNIH4_08480(fliQ)
+            ECLI: ECNIH5_13600(fliQ)
+            ECLX: LI66_14120(fliQ)
+            ECLY: LI62_15465(fliQ) LI62_18645(fliQ)
+            ECLZ: LI64_13525(fliQ)
+            EHM: AB284_11375(fliQ)
+            EXF: BFV63_13865(fliQ)
+            ECLA: ECNIH3_13655(fliQ)
+            ECLC: ECR091_13590(fliQ)
+            EAU: DI57_05065(fliQ)
+            EKB: BFV64_14265(fliQ)
+            ENO: ECENHK_14140
+            EEC: EcWSU1_02890(fliQ)
+            ELG: BH714_10230(fliQ) BH714_10525(fliQ)
+            ECAN: CWI88_01575(fliQ) CWI88_08325(fliQ)
+            ERN: BFV67_13775(fliQ)
+            ECLS: LI67_011745(fliQ)
+            ECHG: FY206_15680(fliQ)
+            ESH: C1N69_14255(fliQ) C1N69_14550(fliQ)
+            ENT: Ent638_2540
+            EAS: Entas_2745
+            ENR: H650_05525(fliQ) H650_09080
+            ENX: NI40_014135(fliQ)
+            ENF: AKI40_1939(fliQ)
+            LNI: CWR52_20935(fliQ)
+            EBG: FAI37_15045(fliQ)
+            END: A4308_18840(fliQ)
+            ENZ: G0034_14740(fliQ)
+            ENS: HWQ15_22330(fliQ)
+            ENK: LOC22_02110(fliQ)
+            EHU: D5067_0008820(fliQ) D5067_0021715(fliQ)
+            EMOR: L6Y89_13500(fliQ) L6Y89_13795(fliQ)
+            ENB: ELK40_14460(fliQ)
+            ESA: ESA_01249
+            CSK: ES15_1480(fliQ)
+            CSZ: CSSP291_05905(fliQ)
+            CSJ: CSK29544_02578
+            CCON: AFK62_12205(fliQ)
+            CDM: AFK67_12820(fliQ)
+            CSI: P262_02157
+            CMJ: AFK66_021655(fliQ)
+            CUI: AFK65_12530(fliQ)
+            CMW: AFK63_05810(fliQ)
+            CTU: CTU_26660(fliQ)
+            KMI: VW41_05390 VW41_13785(fliQ)
+            EAE: EAE_15730(fliQ)
+            EAR: CCG30761
+            CRO: ROD_02301(lfiQ) ROD_20291(fliQ)
+            CKO: CKO_00994 CKO_02903
+            CFD: CFNIH1_10870 CFNIH1_20960(fliQ)
+            CBRA: A6J81_01335(fliQ) A6J81_12155
+            CWE: CO701_13200(fliQ)
+            CYO: CD187_09430(fliQ)
+            CPOT: FOB25_20740(fliQ)
+            CFQ: C2U38_04535 C2U38_14920(fliQ)
+            CSED: JY391_09045(fliQ)
+            CAMA: F384_09510(fliQ)
+            CAF: AL524_12805(fliQ)
+            CIF: AL515_05880 AL515_14525(fliQ)
+            CFAR: CI104_15900(fliQ)
+            CIR: C2U53_25570(fliQ)
+            CIE: AN232_14515(fliQ) AN232_25265
+            CPAR: CUC49_10440(fliQ)
+            CTEL: GBC03_14930(fliQ)
+            CITZ: E4Z61_08145(fliQ) E4Z61_12430(fliQ)
+            CARS: E1B03_05695(fliQ) E1B03_16485(fliQ)
+            CNT: JT31_06990 JT31_21070(fliQ)
+            CEM: LH23_10955 LH23_19840(fliQ)
+            CEN: LH86_18570(fliQ)
+            CLAP: NCTC11466_01656(fliQ_1)
+            PGE: LG71_07555(fliQ) LG71_13975(fliQ)
+            ESC: Entcl_1800
+            KLE: AO703_12910(fliQ)
+            KSA: C813_00500(fliQ)
+            KOR: AWR26_06085(fliQ) AWR26_09865(fliQ)
+            KRD: A3780_14260(fliQ) A3780_17925(fliQ)
+            KCO: BWI95_04650 BWI95_19605
+            KOT: EH164_05085(fliQ) EH164_08610(fliQ)
+            KPSE: IP581_14090(fliQ) IP581_17395(fliQ)
+            KIE: NCTC12125_00724(fliQ_1) NCTC12125_03860(fliQ_2)
+            KAS: KATP_16680(fliQ)
+            LAX: APT61_08050(fliQ)
+            LEI: C2U54_19485(fliQ)
+            LEH: C3F35_20220(fliQ)
+            LEE: DVA44_08245(fliQ)
+            LER: GNG29_14555(fliQ)
+            LEA: GNG26_14415(fliQ)
+            LPNU: KQ929_07335(fliQ)
+            LAZ: A8A57_13455
+            LEF: LJPFL01_0272 LJPFL01_2589
+            LEW: DAI21_02925(fliQ) DAI21_13205(fliQ)
+            BUF: D8682_06235(fliQ)
+            BAGE: BADSM9389_16160(fliQ)
+            BFT: MNO13_08690(fliQ)
+            SYM: K6K13_13180(fliQ)
+            METY: MRY16398_20000(fliQ)
+            AHN: NCTC12129_03263(fliQ)
+            ASUB: NLZ15_08265(fliQ)
+            YRE: HEC60_09090(fliQ)
+            SGOE: A8O29_008440(fliQ) A8O29_016980
+            KIN: AB182_08945(fliQ)
+            PDZ: HHA33_11675(fliQ)
+            IZH: FEM41_04845(fliQ)
+            PSHI: SAMEA2665130_0017(fliQ_1) SAMEA2665130_0869(fliQ_2)
+            PSGC: G163CM_06940(fliQ) G163CM_25630
+            EBF: D782_1686
+            EBC: C2U52_19450(fliQ)
+            PSTS: E05_33680(fliQ)
+            YPE: YPO0708(fliQ) YPO1820a(fliQ)
+            YPK: y2487(fliQ) y3470
+            YPH: YPC_2448(fliQ) YPC_3864
+            YPA: YPA_1195 YPA_3085
+            YPN: YPN_0566 YPN_2304
+            YPM: YP_1573(fliQ2) YP_3020(fliQ3)
+            YPP: YPDSF_0492 YPDSF_1305
+            YPG: YpAngola_A0240(fliQ2)
+            YPT: A1122_01515 A1122_16765(fliQ)
+            YPW: CH59_1155(fliQ) CH59_3346(fliQ)
+            YPJ: CH55_2106(fliQ) CH55_856(fliQ)
+            YPV: BZ15_1730(fliQ) BZ15_2866(fliQ)
+            YPL: CH46_209(fliQ) CH46_3303(fliQ)
+            YPS: YPTB1692(fliQ) YPTB3354(fliQ)
+            YPO: BZ17_3256(fliQ) BZ17_808(fliQ)
+            YPI: YpsIP31758_0625(fliQ2) YpsIP31758_2303(fliQ1)
+            YPY: YPK_0705 YPK_2403
+            YPB: YPTS_1821 YPTS_3490
+            YPQ: DJ40_3076(fliQ) DJ40_529(fliQ)
+            YPU: BZ21_1046(fliQ) BZ21_2634(fliQ)
+            YPR: BZ20_2776(fliQ) BZ20_282(fliQ)
+            YPC: BZ23_1327(fliQ) BZ23_2920(fliQ)
+            YPF: BZ19_1120(fliQ) BZ19_2759(fliQ)
+            YEN: YE2548(fliQ)
+            YEP: YE105_C1709 YE105_C3299
+            YEY: Y11_14311
+            YEL: LC20_02169(fliQ)
+            YEW: CH47_1891(fliQ)
+            YET: CH48_2313(fliQ) CH48_3319(fliQ)
+            YEF: FORC2_2528
+            YEE: YE5303_23321(fliQ)
+            YSI: BF17_03935 BF17_17720(fliQ)
+            YAL: AT01_96(fliQ)
+            YFR: AW19_2607(fliQ) AW19_878(fliQ)
+            YIN: CH53_3563(fliQ)
+            YKR: CH54_3181(fliQ) CH54_784(fliQ)
+            YRO: CH64_1992(fliQ) CH64_230(fliQ)
+            YRU: BD65_687(fliQ)
+            YRB: UGYR_03655(fliQ)
+            YAK: ACZ76_01015(fliQ) ACZ76_05975
+            YMA: DA391_03980(fliQ) DA391_08880(fliQ)
+            YHI: D5F51_10775(fliQ)
+            YCA: F0T03_13135(fliQ)
+            YMO: HRD69_02010(fliQ) HRD69_13715(fliQ)
+            SMAR: SM39_2417(fliQ)
+            SMAC: SMDB11_2206(fliQ)
+            SMW: SMWW4_v1c29590(fliQ)
+            SPE: Spro_2958
+            SRR: SerAS9_3042
+            SRL: SOD_c27810(fliQ)
+            SRY: M621_15140(fliQ)
+            SPLY: Q5A_015370(fliQ)
+            SRS: SerAS12_3043
+            SRA: SerAS13_3045
+            SMAF: D781_2731
+            SLQ: M495_15220(fliQ)
+            SERF: L085_14045
+            SERS: SERRSCBI_14245
+            SFW: WN53_23915(fliQ)
+            SFG: AV650_19660(fliQ)
+            SRZ: AXX16_2320
+            SERA: Ser39006_011495(fliQ)
+            SERQ: CWC46_11490(fliQ)
+            SERM: CLM71_14090(fliQ)
+            SQU: E4343_01230(fliQ)
+            SFJ: SAMEA4384070_2974(fliQ)
+            SOF: NCTC11214_03846(fliQ)
+            SSUR: ATE40_011360(fliQ)
+            SURI: J0X03_09190(fliQ)
+            SRHZ: FO014_19565(fliQ)
+            SENP: KHA73_14490(fliQ)
+            SFO: Z042_08495 Z042_22345(fliQ)
+            RAH: Rahaq_2500
+            RACE: JHW33_04480(fliQ)
+            RAQ: Rahaq2_2560
+            RAA: Q7S_12645
+            ROX: BV494_07100
+            RVC: J9880_17275(fliQ)
+            FSM: CCS41_09160(fliQ)
+            EAME: GXP68_11290(fliQ)
+            ECA: ECA1715(fliQ)
+            PATR: EV46_08185(fliQ)
+            PATO: GZ59_28890(fliQ)
+            PCT: PC1_2586
+            PCC: PCC21_026910
+            PCV: BCS7_12965(fliQ)
+            PWA: Pecwa_1880
+            PPAR: A8F97_09435(fliQ)
+            PEC: W5S_1791
+            PWS: A7983_22130(fliQ)
+            PPOA: BJK05_08230(fliQ)
+            PBRA: B5S52_08425
+            PPUJ: E2566_13450(fliQ)
+            PARI: I2D83_13760(fliQ)
+            PAQU: DMB82_0008145(fliQ)
+            PVZ: OA04_16520(fliQ)
+            PPAV: LOZ86_13350(fliQ)
+            PQU: IG609_007550(fliQ)
+            DDD: Dda3937_02215(fliQ)
+            DZE: Dd1591_1565
+            DDC: Dd586_1527
+            DZC: W909_12415(fliQ)
+            DSO: A4U42_01285(fliQ)
+            CED: LH89_20825(fliQ)
+            DFN: CVE23_14170(fliQ)
+            DDQ: DDI_2562
+            DAQ: DAQ1742_02911(fliQ)
+            DIC: Dpoa569_001436(fliQ)
+            DDA: Dd703_1551
+            BGJ: AWC36_09810(fliQ)
+            BRB: EH207_06840(fliQ)
+            BNG: EH206_13505(fliQ)
+            BIZ: HC231_08600(fliQ)
+            LBQ: CKQ53_12015(fliQ)
+            LPOP: I6N93_06475(fliQ)
+            SGL: SG0042 SG2057
+            SOD: Sant_0144(fliQ) Sant_0644(fliQ2)
+            SLIG: GTU79_16485(fliQ)
+            EAM: EAMY_1500(fliQ1) EAMY_2683(fliQ3)
+            EAY: EAM_1485(fliQ) EAM_2569(fliQ)
+            ETA: ETA_19990(fliQ)
+            EPY: EpC_09440(fliQ) EpC_21210(fliQ)
+            EPR: EPYR_00995(fliQ) EPYR_02281(fliQ)
+            EBI: EbC_26670(fliQ)
+            ERJ: EJP617_01460(fliQ) EJP617_26020(fliQ)
+            EGE: EM595_2244(fliQ)
+            EPE: CI789_10185(fliQ)
+            ERWI: GN242_12470(fliQ) GN242_15515(fliQ)
+            ETP: LU633_14765(fliQ)
+            ERP: LJN55_08515(fliQ)
+            BUC: BU083(fliQ)
+            BAP: BUAP5A_082(fliQ)
+            BAU: BUAPTUC7_083(fliQ)
+            BAW: CWU_00485
+            BAJC: CWS_00400
+            BUA: CWO_00385
+            BUP: CWQ_00415
+            BAK: BAKON_082(fliQ)
+            BUH: BUAMB_078(fliQ)
+            BAPF: BUMPF009_CDS00511(fliq)
+            BAPG: BUMPG002_CDS00512(fliq)
+            BAPU: BUMPUSDA_CDS00510(fliq)
+            BAPW: BUMPW106_CDS00511(fliq)
+            BAS: BUsg_076(fliQ)
+            BAB: bbp_077(fliQ)
+            BCC: BCc_049(fliQ)
+            BAJ: BCTU_050(fliQ)
+            BAPH: IX46_00425
+            WBR: fliQ
+            WGL: WIGMOR_0053(fliQ)
+            PAM: PANA_2306(fliQ)
+            PLF: PANA5342_1796(fliQ)
+            PAJ: PAJ_1618(fliQ)
+            PAQ: PAGR_g1735
+            PVA: Pvag_1797(fliQ)
+            PAGG: AL522_15890(fliQ)
+            PAO: Pat9b_2400
+            KLN: LH22_10625(fliQ)
+            PANT: PSNIH1_15430(fliQ)
+            PANP: PSNIH2_05650(fliQ)
+            PAGC: BEE12_18830(fliQ)
+            PSTW: DSJ_11910(fliQ)
+            PALH: B1H58_07160 B1H58_15160
+            PANS: FCN45_11860(fliQ) FCN45_16400(fliQ)
+            PEY: EE896_07670(fliQ)
+            PDIS: D8B20_10500(fliQ)
+            PER: LAC65_09410(fliQ)
+            PGZ: C2E15_00600(fliQ) C2E15_12950(fliQ)
+            PCD: C2E16_00710(fliQ) C2E16_13135(fliQ)
+            MINT: C7M51_01776 C7M51_03585
+            MTHI: C7M52_01040 C7M52_03466
+            TCI: A7K98_11130(fliQ)
+            TPTY: NCTC11468_03388(fliQ)
+            PLU: plu1937(fliQ)
+            PLUM: A4R40_09700(fliQ)
+            PAY: PAU_02626(fliQ)
+            PTT: VY86_21265(fliQ)
+            PAKH: B0X70_09955
+            PLUI: CE143_09865(fliQ)
+            PMR: PMI1641(fliQ)
+            PMIB: BB2000_1734(fliQ)
+            PVL: AOB99_10165(fliQ)
+            PVG: CRN77_10695(fliQ)
+            PHAU: PH4a_17905(fliQ)
+            PROT: BTA34_09810(fliQ)
+            PCOL: F1325_11730(fliQ)
+            PCIB: F9282_11820(fliQ)
+            PPEE: I6G31_16610(fliQ)
+            XBO: XBJ1_2716(fliQ)
+            XBV: XBW1_2583(fliQ)
+            XNE: XNC1_1694(fliQ)
+            XNM: XNC2_1644(fliQ)
+            XDO: XDD1_2322(fliQ)
+            XPO: XPG1_2054(fliQ)
+            XHO: A9255_02255(fliQ)
+            XBU: HGO23_11825(fliQ)
+            PSI: S70_18340
+            PSX: DR96_2602(fliQ)
+            PSTA: BGK56_00565(fliQ)
+            PRG: RB151_015040(fliQ_3)
+            PALA: CO695_16615(fliQ)
+            PHEI: NCTC12003_02562(fliQ_2)
+            PRQ: CYG50_08610(fliQ)
+            PRJ: NCTC6933_01503(fliQ_2)
+            PVC: G3341_13040(fliQ)
+            PMAG: JI723_12730(fliQ)
+            MMK: MU9_1791
+            ANS: ArsFIN_15170(fliQ_3)
+            AED: E3U36_01870(fliQ)
+            AET: LDL57_09655(fliQ)
+            MWI: MNY66_06155(fliQ)
+            EIC: NT01EI_2432
+            ETR: ETAE_2153(fliQ)
+            ETD: ETAF_1945(fliQ)
+            ETE: ETEE_0138(fliQ)
+            ETC: ETAC_10210(fliQ)
+            EDW: QY76_09550(fliQ)
+            EDL: AAZ33_11325(fliQ)
+            EHO: A9798_06270(fliQ)
+            HAV: AT03_00265 AT03_13565(fliQ)
+            HPAR: AL518_12885(fliQ)
+            OPO: DSM2777_03730 DSM2777_10885(fliQ) DSM2777_22315(fliQ)
+            PFQ: QQ39_04160
+            XCC: XCC1915(fliQ)
+            XCB: XC_2272
+            XCA: xcc-b100_2211
+            XCP: XCR_2182
+            XCV: XCV1987(fliQ)
+            XAX: XACM_1964(fliQ)
+            XAC: XAC1942(fliQ)
+            XCI: XCAW_01887(fliQ)
+            XCT: J151_02099
+            XCJ: J158_02088
+            XCU: J159_02087
+            XCN: J169_02096
+            XCW: J162_02089
+            XCR: J163_02087
+            XCM: J164_02087
+            XCF: J172_02090
+            XFU: XFF4834R_chr20720(fliQ)
+            XAO: XAC29_09830
+            XOM: XOO2471(XOO2471)
+            XOO: XOO2612(fliQ)
+            XOP: PXO_00969(fliQ) PXO_06197(fliQ)
+            XOY: AZ54_11070
+            XOR: XOC_2341(fliQ)
+            XOZ: BE73_11185
+            XAL: XALC_1385(fliQ)
+            XTN: FD63_10455
+            XFR: BER92_10420
+            XVE: BJD12_01115
+            XPE: BJD13_06630
+            XHR: XJ27_03140
+            XGA: BI317_13120
+            XVA: C7V42_12230
+            XAN: AC801_10245
+            XAR: XB05_04775
+            XHY: FZ025_19170
+            XCZ: EBN15_08345
+            XTH: G4Q83_09455
+            XEU: XSP_002033
+            XHD: LMG31886_23730
+            XPR: MUG10_22250
+            SML: Smlt2278(fliQ)
+            SMT: Smal_1869
+            BUJ: BurJV3_1926
+            SMZ: SMD_2053(fliQ)
+            SACZ: AOT14_19790(fliQ)
+            STEK: AXG53_09270
+            SRH: BAY15_1842 BAY15_3606
+            SLM: BIZ42_18605
+            STEN: CCR98_10000
+            STEM: CLM74_10445
+            STES: MG068_09955
+            SINC: DAIF1_20400
+            SPAQ: STNY_R19680
+            PSU: Psesu_1486
+            PSUW: WQ53_15575
+            PSD: DSC_03090
+            PMEX: H4W19_05395(fliQ)
+            PJP: LAG73_08830
+            PDD: MNQ95_14190
+            LCP: LC55x_1458
+            LGU: LG3211_4579
+            LEZ: GLE_4624(fliQ)
+            LEM: LEN_1418(fliQ)
+            LYT: DWG18_02175
+            LYJ: FKV23_08665
+            LSOL: GOY17_15540
+            LCIC: INQ41_03450(fliQ)
+            LLZ: LYB30171_00662(fliQ)
+            LUM: CNR27_09640
+            LUS: E5843_07650
+            LUG: FPZ22_00350
+            TBV: H9L17_00385 H9L17_14305(fliQ)
+            FAU: Fraau_2089
+            RHD: R2APBS1_2986
+            RTH: LRK53_15025(fliQ)
+            DJI: CH75_15160
+            DJA: HY57_19025
+            DTX: ATSB10_20180
+            DYE: EO087_10010
+            DCS: ISN74_11210 ISN74_18555(fliQ)
+            DTL: H8F01_05380(fliQ)
+            DTA: DYST_00596 DYST_04317
+            LRZ: BJI69_01940
+            LPY: FIV34_15650(fliQ)
+            LANH: KR767_12740(fliQ)
+            RBD: ALSL_0721
+            VCH: VC_2122
+            VCF: IR04_15730
+            VCS: MS6_1878
+            VCE: Vch1786_I1612(fliQ)
+            VCQ: EN18_13685
+            VCJ: VCD_002249
+            VCI: O3Y_10235(fliQ)
+            VCO: VC0395_A1704(fliQ)
+            VCR: VC395_2236(fliQ)
+            VCM: VCM66_2045(fliQ)
+            VCL: VCLMA_A1854
+            VCX: VAA049_763(fliQ)
+            VCZ: VAB027_2754(fliQ)
+            VVU: VV1_1946(fliQ)
+            VVY: VV2470
+            VVM: VVMO6_00829
+            VVL: VV93_v1c21730(fliQ)
+            VPA: VP2238 VPA1543
+            VPB: VPBB_2056 VPBB_A1410
+            VPK: M636_06545 M636_10730
+            VPF: M634_13590 M634_17165
+            VPH: VPUCM_21371 VPUCM_2326
+            VHA: VIBHAR_03150 VIBHAR_04966
+            VCA: M892_15310 M892_26350
+            VAG: N646_1342 N646_3261
+            VEX: VEA_001179 VEA_002826
+            VDB: AL552_04185(fliQ) AL552_19770(fliQ)
+            VHR: AL538_05055(fliQ) AL538_21350(fliQ)
+            VNA: PN96_02655
+            VOW: A9237_12885 A9237_17645
+            VRO: BSZ04_02690 BSZ04_12330
+            VSP: VS_0834
+            VEJ: VEJY3_11525(fliQ)
+            VFU: vfu_A01201 vfu_A01397 vfu_A02270
+            VNI: VIBNI_A0734
+            VAN: VAA_03445
+            LAG: N175_05390
+            VAU: VANGNB10_cI1928c(fliQ)
+            VCY: IX92_03555 IX92_10680
+            VCT: JV59_27790 JV59_35170
+            VTU: IX91_04490
+            VEU: IXK98_12955(fliQ)
+            VSI: MTO69_09395(fliQ)
+            VFL: AL536_09865(fliQ) AL536_10910(fliQ)
+            VMI: AL543_19905(fliQ)
+            VBR: A6E01_18895
+            VSC: VSVS12_02293
+            VGA: BSQ33_04050
+            VSH: BSZ05_01730 BSZ05_06870 BSZ05_10780
+            VQI: CCZ37_09205(fliQ)
+            VTA: A2210(fliQ)
+            VAF: D1115_04420(fliQ) D1115_16805(fliQ)
+            VNL: D3H41_12175(fliQ) D3H41_23600(fliQ)
+            VCC: FAZ90_10835(fliQ)
+            VAS: GT360_04460(fliQ) GT360_14110(fliQ)
+            VAQ: FIV01_04635(fliQ1) FIV01_10615(fliQ3)
+            VSR: Vspart_02375(fliQ)
+            VKA: BTD91_10655(fliQ)
+            VZI: G5S32_05450 G5S32_10560(fliQ) G5S32_15185(fliQ)
+            VNV: IF132_19630(fliQ)
+            VGI: MID13_04095(fliQ)
+            VSL: LTQ54_04625(fliQ)
+            VPL: SA104470976_00696(fliQ)
+            VFI: VF_1841(fliQ)
+            VFM: VFMJ11_1973(fliQ)
+            VSA: VSAL_I2297(fliQ)
+            AWD: AWOD_I_1960(fliQ)
+            PPR: PBPRA0015(VP2238) PBPRA0933(PSPTO197)
+            PGB: H744_2c1090 H744_2c2893
+            PDS: CAY62_03595
+            PGH: FH974_11585(fliQ) FH974_24330(fliQ)
+            GHO: AL542_05355(fliQ) AL542_08990(fliQ)
+            PMAI: CF386_00110(fliQ)
+            SALY: E8E00_03115(fliQ)
+            SKS: FCN78_09730(fliQ)
+            SCOT: HBA18_10215(fliQ)
+            PAE: PA1447(fliQ)
+            PAEV: N297_1488(fliQ)
+            PAEI: N296_1488(fliQ)
+            PAU: PA14_45760(fliQ)
+            PAP: PSPA7_3880(fliQ)
+            PAG: PLES_39661(fliQ)
+            PAF: PAM18_3684(fliQ)
+            PNC: NCGM2_2331(fliQ)
+            PAEB: NCGM1900_5137(fliQ)
+            PDK: PADK2_18490(fliQ)
+            PSG: G655_17980(fliQ)
+            PRP: M062_07755
+            PAEP: PA1S_18795
+            PAER: PA1R_gp5029
+            PAEM: U769_18525
+            PAEL: T223_20265
+            PAES: SCV20265_3975
+            PAEU: BN889_01535(fliQ)
+            PAEG: AI22_14790
+            PAEC: M802_1485(fliQ)
+            PAEO: M801_1487(fliQ)
+            PMY: Pmen_2811 Pmen_4423
+            PMK: MDS_1863 MDS_4753
+            PRE: PCA10_39870(fliQ) PCA10_42190(fliQ)
+            PPSE: BN5_2637(fliQ1) BN5_4241(fliQ3)
+            PFUW: KF707C_39970
+            PALC: A0T30_11420
+            PCQ: PcP3B5_35640(fliQ_1) PcP3B5_43690(fliQ_2)
+            PMUI: G4G71_01615 G4G71_21210(fliQ)
+            PPU: PP_4354(fliQ)
+            PPF: Pput_1512
+            PPG: PputGB1_3916
+            PPW: PputW619_3680
+            PPT: PPS_3757
+            PPB: PPUBIRD1_1504(fliQ)
+            PPI: YSA_08111
+            PPX: T1E_2320
+            PPUH: B479_18635(fliQ)
+            PPUT: L483_24055
+            PPUN: PP4_14190(fliQ)
+            PPUD: DW66_4190
+            PFV: Psefu_1936 Psefu_3046
+            PMON: X969_18045
+            PMOT: X970_17680
+            PMOS: O165_015395
+            PPJ: RK21_00746
+            POR: APT59_14710
+            PMOL: CLJ08_20565(fliQ)
+            PST: PSPTO_1973(fliQ)
+            PSB: Psyr_3443
+            PSYR: N018_08310
+            PSP: PSPPH_3369(fliQ)
+            PSAV: PSA3335_11930
+            PAMG: BKM19_020180
+            PCI: PCH70_33340
+            PAVL: BKM03_19700
+            PVD: CFBP1590__1842
+            PCAB: JGS08_17915
+            PCOF: POR16_08085(fliQ)
+            PTRE: I9H09_08715
+            PSYI: MME58_17635
+            PFL: PFL_1652(fliQ)
+            PPRC: PFLCHA0_c16910(fliQ)
+            PPRO: PPC_1706(fliQ)
+            PFE: PSF113_0767(fliQ2) PSF113_1577(fliQ)
+            PFN: HZ99_25935
+            PFO: Pfl01_1550
+            PFS: PFLU_4424
+            PFC: PflA506_3731(fliQ)
+            PPZ: H045_13040(fliQ)
+            PFB: VO64_5110
+            PMAN: OU5_5167
+            PTV: AA957_22690
+            PCG: AXG94_23425
+            PVR: PverR02_22535 PverR02_25920
+            PAZO: AYR47_28820
+            POI: BOP93_18180
+            PRX: HRH33_19205(fliQ)
+            PMED: E3Z27_07945(fliQ)
+            PFW: PF1751_v1c39180(fliQ)
+            PFF: PFLUOLIPICF716605
+            PFX: A7318_18850
+            PEN: PSEEN3802(fliQ)
+            PLUL: FOB45_17325(fliQ)
+            PBA: PSEBR_a1492 PSEBR_a2404
+            PBC: CD58_08335
+            PPUU: PputUW4_03864(fliQ)
+            PDR: H681_08965(fliQ)
+            PSV: PVLB_17135(fliQ)
+            PSK: U771_23045
+            PKC: PKB_2509 PKB_3936
+            PCH: EY04_07805
+            PCZ: PCL1606_44480
+            PCP: JM49_22065
+            PFZ: AV641_15315
+            PLQ: AA042_18255
+            PALK: PSAKL28_37400
+            PRH: LT40_02505
+            PSW: LK03_12620
+            PPV: NJ69_10885
+            PSES: PSCI_3488(fliQ)
+            PSEM: TO66_08210
+            PSEC: CCOS191_1513
+            PPSY: AOC04_12630
+            PSOS: POS17_1681(fliQ)
+            PKR: AYO71_10645
+            PFK: PFAS1_19285
+            PANR: A7J50_4106
+            PPSL: BJP27_06360
+            PSET: THL1_3952
+            PSIL: PMA3_21640
+            PYM: AK972_1493
+            PKE: DLD99_08510(fliQ)
+            PALL: UYA_14890 UYA_23635
+            PUM: HGP31_08280(fliQ)
+            POJ: PtoMrB4_33070(lfiQ) PtoMrB4_36200(fliQ)
+            PGG: FX982_04788
+            PPSH: G5J76_16840 G5J76_18885(fliQ)
+            PGY: AWU82_00720(fliQ)
+            PLAL: FXN65_08440(fliQ)
+            PSEJ: HNQ25_02515 HNQ25_10595(fliQ)
+            PVK: EPZ47_08075(fliQ)
+            PEZ: HWQ56_07440(fliQ) HWQ56_27460(fliQ)
+            PBZ: GN234_10275(fliQ)
+            PKH: JLK41_16095(fliQ) JLK41_24285
+            PTY: JWV26_00955(fliQ) JWV26_09110
+            PMAO: PMYSY11_1715(fliQ)
+            PATA: JWU58_19890(fliQ)
+            PDW: BV82_0891(fliQ)
+            PZE: HU754_009300(fliQ)
+            PMOE: HV782_008770(fliQ)
+            PCAM: HNE05_06785(fliQ)
+            PSEP: C4K39_1730
+            PVW: HU752_009210(fliQ)
+            PTRT: HU722_0020800(fliQ)
+            PXA: KSS93_21650(fliQ)
+            PSAM: HU731_007205(fliQ)
+            PTZ: HU718_008990(fliQ)
+            PQI: KH389_08480(fliQ)
+            PSHH: HU773_008445(fliQ) HU773_018910
+            PXN: HU772_017140(fliQ)
+            PHV: HU739_009855(fliQ)
+            PPRG: HU725_015900(fliQ)
+            PNN: KEM63_04625(fliQ)
+            PANH: HU763_016970(fliQ)
+            PASG: KSS96_20445(fliQ)
+            PFAK: KSS94_19125(fliQ)
+            PMUY: KSS95_19965(fliQ)
+            PMAM: KSS90_08140(fliQ)
+            PAZE: KSS91_20895(fliQ)
+            PALV: KSS97_21055(fliQ)
+            PPHA: BVH74_02860 BVH74_09740
+            PORY: EJA05_19925(fliQ)
+            PWZ: J7655_08795(fliQ)
+            PTK: EXN22_09280(fliQ)
+            PTW: TUM18999_39120(fliQ)
+            PZA: HU749_009055(fliQ)
+            PIE: HU724_008425(fliQ)
+            PWY: HU734_008605(fliQ)
+            PTAE: NCTC10697_02963(fliQ)
+            PGF: J0G10_09080(fliQ)
+            PCAV: D3880_09170(fliQ)
+            PJU: L1P09_17315(fliQ)
+            PSA: PST_2576(fliQ)
+            PSZ: PSTAB_2559(fliQ)
+            PSR: PSTAA_0170(fliQ-1) PSTAA_2686(fliQ-2)
+            PSC: A458_13645(fliQ)
+            PSJ: PSJM300_00885 PSJM300_05885(fliQ)
+            PSH: Psest_1733 Psest_4179
+            PSTU: UIB01_08155 UIB01_21270
+            PSTT: CH92_14225
+            PSED: DM292_05865(fliQ) DM292_18335
+            PCHL: LLJ08_07700(fliQ) LLJ08_19960
+            PBM: CL52_12460
+            PKG: LW136_14510(fliQ)
+            SDEG: GOM96_04865(fliQ) GOM96_10905(fliQ)
+            AVN: Avin_24120(fliQ)
+            AVL: AvCA_24120(fliQ)
+            AVD: AvCA6_24120(fliQ)
+            PAGR: E2H98_00715(fliQ)
+            HPEG: EAO82_16670(fliQ)
+            HAES: LO767_10810(fliQ)
+            MAQ: Maqu_1983
+            MHC: MARHY1321(fliQ)
+            MAD: HP15_2311
+            MBS: MRBBS_1005(fliQ)
+            MSR: AU15_09925
+            MSX: AU14_13170
+            MPQ: ABA45_05205
+            MARI: ACP86_01695
+            MLQ: ASQ50_18900
+            MSQ: BKP64_02890
+            MARA: D0851_04815(fliQ)
+            MARJ: MARI_16320
+            SON: SO_3217(fliQ)
+            SDN: Sden_0041 Sden_1337 Sden_3665
+            SFR: Sfri_1193
+            SAZ: Sama_2286
+            SBL: Sbal_2915 Sbal_3985
+            SBM: Shew185_2925
+            SBN: Sbal195_3057
+            SBP: Sbal223_1448
+            SBT: Sbal678_3068
+            SBS: Sbal117_3053 Sbal117_4143
+            SBB: Sbal175_0425 Sbal175_1441
+            SLO: Shew_1377
+            SPC: Sputcn32_2565 Sputcn32_3482
+            SHP: Sput200_2730
+            SSE: Ssed_0084 Ssed_3055
+            SPL: Spea_0090 Spea_1372
+            SHE: Shewmr4_1293
+            SHM: Shewmr7_1360
+            SHN: Shewana3_1353
+            SHW: Sputw3181_0457 Sputw3181_1438
+            SHL: Shal_1459 Shal_4232
+            SWD: Swoo_1629
+            SWP: swp_1532 swp_5085
+            SVO: SVI_1443(fliQ)
+            SHF: CEQ32_00305(fliQ)
+            SJA: SJ2017_0304 SJ2017_2927
+            SPSW: Sps_00124 Sps_03772
+            SBJ: CF168_14120(fliQ)
+            SMAV: CFF01_12620(fliQ)
+            SHEW: CKQ84_15465(fliQ)
+            SALG: BS332_07900 BS332_14470
+            SLJ: EGC82_07730(fliQ)
+            SMAI: EXU30_03165(fliQ)
+            SPOL: FH971_04380(fliQ) FH971_13715(fliQ)
+            SBK: SHEWBE_3571
+            SKH: STH12_02052(fliQ)
+            SAES: HBH39_05340(fliQ)
+            SLIT: JQC75_11755(fliQ)
+            SDK: KHX94_16145
+            SCAA: TUM17387_01140 TUM17387_14210(fliQ)
+            SPSH: FM037_00450 FM037_09800(fliQ)
+            SEUR: FM038_000460(fliQ) FM038_015745
+            SYK: KDN34_05295(fliQ)
+            SCYP: JYB88_11820(fliQ)
+            SAVI: JYB87_13275(fliQ)
+            SSEM: JYB85_12045(fliQ)
+            SGLA: FJ709_12935(fliQ)
+            SINV: K8B83_09140(fliQ)
+            SXM: MKD32_06765(fliQ)
+            SVM: KDH10_001706(fliQ)
+            ILO: IL1189(fliQ)
+            ILI: K734_05980
+            IPI: CEW91_09420(fliQ)
+            IDI: CWC33_02230(fliQ)
+            IDT: C5610_10095(fliQ)
+            IAB: K5X84_03060(fliQ)
+            CPS: CPS_1513(fliQ)
+            COM: CMT41_05760
+            COZ: A3Q34_06495
+            COLW: A3Q33_04455
+            COLA: DBO93_03550(fliQ)
+            COV: EKO29_16785(fliQ)
+            CBER: B5D82_01665(fliQ)
+            LSD: EMK97_05415(fliQ)
+            THAB: LP316_07375(fliQ)
+            PHA: PSHAa0803(fliQ)
+            PTN: PTRA_a0916(fliQ)
+            PAT: Patl_3036
+            PSM: PSM_A0910 PSM_A2245(fliQ)
+            PSEO: OM33_07870
+            PIA: PI2015_0892 PI2015_2186
+            PPHE: PP2015_948
+            PBW: D172_013375
+            PRR: AT705_18800
+            PLZ: S4054249_06425
+            PALN: B0W48_12570 B0W48_20250
+            PPIS: B1L02_10815(fliQ)
+            PEA: PESP_a2808(fliQ)
+            PSPO: PSPO_a1070(fliQ)
+            PART: PARC_a1095(fliQ)
+            PTU: PTUN_a3117(fliQ)
+            PNG: PNIG_a0971(fliQ)
+            PTD: PTET_a1030 PTET_a2557(fliQ)
+            PSEN: PNC201_05975(fliQ)
+            PDJ: D0907_04800(fliQ)
+            PAGA: PAGA_a1116(fliQ)
+            PCAR: PC2016_2341
+            PMAA: CPA52_11630
+            PXI: J5O05_14620(fliQ)
+            PVB: J5X90_11805(fliQ)
+            PSAZ: PA25_11030(fliQ)
+            PDV: FFU37_03255(fliQ)
+            PSYM: J1N51_13835(fliQ)
+            AMC: MADE_1005955
+            AMH: I633_05620
+            AMAA: amad1_05335
+            AMAL: I607_05110
+            AMAE: I876_05405
+            AMAO: I634_05430
+            AMAD: I636_05340
+            AMAI: I635_05310
+            AMAG: I533_05015
+            AMAC: MASE_04895
+            AMB: AMBAS45_05130
+            AMG: AMEC673_04985
+            AMK: AMBLS11_05010
+            ALT: ambt_13235
+            AAL: EP13_05265
+            ASP: AOR13_2449
+            ASQ: AVL57_10925
+            AAW: AVL56_10060
+            ALR: DS731_06595(fliQ)
+            ALE: AV939_09940
+            ALZ: AV940_09710
+            APEL: CA267_014405(fliQ)
+            SALM: D0Y50_04780(fliQ)
+            SALK: FBQ74_12555(fliQ)
+            SMAA: IT774_12310(fliQ)
+            GAG: Glaag_1292
+            GNI: GNIT_2354(fliQ)
+            GPS: C427_3658
+            PMES: FX988_03874
+            LAL: AT746_12600
+            CATE: C2869_13445(fliQ)
+            SALH: HMF8227_02091
+            HMI: soil367_07000(fliQ)
+            PAEW: KIH87_12880 KIH87_15910(fliQ)
+            AGZ: M0C34_07075
+            PIN: Ping_3594
+            PSY: PCNPT3_10545
+            FBL: Fbal_1046 Fbal_2332
+            FES: HER31_07960 HER31_10925(fliQ)
+            MVS: MVIS_0744(fliQ) MVIS_3333(fliQ)
+            MYA: MORIYA_2194(fliQ) MORIYA_4148
+            MMAA: FR932_01945(fliQ)
+            CJA: CJA_1727(fliQ)
+            CEB: B0D95_04110 B0D95_07110
+            CELL: CBR65_05055
+            CEK: D0B88_12560(fliQ)
+            CEG: D0C16_03970(fliQ) D0C16_10610 D0C16_22900(fliQ)
+            SDE: Sde_2171
+            TTU: TERTU_1354(fliQ)
+            SAGA: M5M_02400
+            MARQ: MARGE09_P3148
+            GIL: NHM04_02995(fliQ)
+            SPOI: IMCC21906_01717
+            SNAN: I6N98_07835(fliQ)
+            STAW: NCG89_03280(fliQ)
+            ZAL: AZF00_11640
+            OSG: BST96_15665
+            MTHD: A3224_11875
+            MCEL: LPW13_01940(fliQ)
+            MICZ: GL2_04350
+            HJA: BST95_07375
+            KIM: G3T16_01835(fliQ)
+            AFUS: EYZ66_12720(fliQ)
+            ALG: AQULUS_23870(fliQ)
+            ASIP: AQUSIP_24390(fliQ)
+            LPN: lpg1788(fliQ)
+            LPH: LPV_2058(fliQ)
+            LPO: LPO_1834(fliQ)
+            LPU: LPE509_01401
+            LPM: LP6_1765(fliQ)
+            LPF: lpl1752(fliQ)
+            LPP: lpp1752(fliQ)
+            LPC: LPC_1229(fliQ)
+            LPA: lpa_02586(fliQ)
+            LPE: lp12_1726
+            LFA: LFA_1034(fliQ) LFA_2047(fliQ)
+            LHA: LHA_2258(fliQ)
+            LCD: clem_04060(fliQ)
+            LIB: E4T55_14200(fliQ)
+            LGT: E4T54_03260(fliQ) E4T54_07815
+            LJR: NCTC11533_00880(fliQ)
+            LCJ: NCTC11976_01924(fliQ)
+            LWA: SAMEA4504053_1977(fliQ)
+            LSS: NCTC12082_01095(fliQ)
+            LANT: TUM19329_22220(fliQ)
+            LLY: J2N86_06920(fliQ) J2N86_10275(fliQ)
+            TMC: LMI_1097(fliQ) LMI_2351(fliQ)
+            MMT: Metme_4069
+            MDN: JT25_012730
+            MDH: AYM39_02525
+            MKO: MKLM6_0547
+            METL: U737_22160(fliQ)
+            MELL: IVG45_14855(fliQ)
+            MAH: MEALZ_3165(fliQ)
+            MBUR: EQU24_15945(fliQ)
+            MMAI: sS8_2389
+            MMOB: F6R98_03785(fliQ)
+            MEIN: methR_P2462
+            MOZ: MoryE10_21090(fliQ)
+            MISZ: MishRS11D_05500(fliQ)
+            MESL: KKZ03_01570(fliQ)
+            TCX: Tcr_0741
+            HTR: EPV75_04175
+            HMAR: HVMH_0843(fliQ)
+            TAO: THIAE_07170(fliQ)
+            THIO: AYJ59_09630
+            TMH: JX580_08335(fliQ)
+            MEJ: Q7A_2939(fliQ)
+            MEC: Q7C_1258
+            MPIN: LGT42_005315(fliQ)
+            CYQ: Q91_1538(fliQ)
+            CZA: CYCME_0922
+            CYY: CPC19_05170(fliQ)
+            PSAL: PSLF89_2115
+            THIG: FE785_07255(fliQ)
+            TXA: HQN79_08155(fliQ)
+            TIB: THMIRHAM_07870(fliQ)
+            TSE: THMIRHAS_09250
+            TZO: THMIRHAT_08920(fliQ)
+            NOC: Noc_2161
+            NHL: Nhal_3615
+            NWA: Nwat_0924
+            NWR: E3U44_02560(fliQ)
+            ALV: Alvin_2928
+            ATEP: Atep_28920(fliQ)
+            TVI: Thivi_0369
+            TMB: Thimo_0281
+            MPUR: MARPU_07000(fliQ)
+            TEE: Tel_05735
+            RHH: E0Z06_10145(fliQ)
+            TTP: E6P07_11175(fliQ)
+            CJAP: GWK36_14050(fliQ)
+            AEH: Mlg_0979
+            HHA: Hhal_0483
+            HHK: HH1059_21280(fliQ)
+            HHC: M911_06250
+            EBS: ECTOBSL9_2283
+            TGR: Tgr7_1332
+            TKM: TK90_1169
+            TVR: TVD_06305
+            APRS: BI364_11280
+            NAX: HC341_11025(fliQ)
+            HNA: Hneap_0711
+            HAZ: A9404_03835
+            WEZ: IC757_09010(fliQ)
+            WOC: BA177_07400
+            GAI: IMCC3135_08425(fliQ_2)
+            GHL: GM160_02665(fliQ)
+            TTC: FOKN1_1490
+            THIC: TspCOW1_11490(fliQ)
+            HCH: HCH_04091(fliQ1) HCH_05177(fliQ2)
+            HAHE: ENC22_07145(fliQ)
+            CSA: Csal_1966
+            HEL: HELO_4369(fliQ)
+            HCS: FF32_06720
+            HAM: HALO4470
+            HHU: AR456_19700
+            HCO: LOKO_03677(fliQ)
+            HALO: BWR19_10050
+            HHH: CLM76_04900(fliQ)
+            HBE: BEI_3688(fliQ)
+            HAG: BB497_03405
+            HAF: C8233_01950(fliQ)
+            HALK: CUU95_05435(fliQ)
+            HVN: EI420_00450(fliQ)
+            HOL: HORIV_00970
+            HSR: HSBAA_01630(fliQ)
+            HMD: CTT34_00440(fliQ)
+            HAXI: HAALTHF_07890n(fliQ)
+            HTT: HZS52_03905(fliQ)
+            HCAM: I4484_12680(fliQ)
+            HPIZ: GYM47_00480(fliQ)
+            HSX: HNO51_12305(fliQ)
+            HSV: HNO53_12705(fliQ)
+            HTX: EKK97_05020 EKK97_13635(fliQ)
+            HPRO: LMS44_00475(fliQ) LMS44_21470
+            ZPL: ZBT109_1598
+            HAA: A5892_13530
+            CMAI: BFX80_08700
+            KUS: B9G99_15280
+            KMA: B9H00_16355
+            KUY: FY550_08695(fliQ)
+            PAUR: FGL86_11875(fliQ)
+            ADI: B5T_03424
+            APAC: S7S_14750
+            AXE: P40_16085
+            KAK: Kalk_11290(fliQ) Kalk_18930
+            MMW: Mmwyl1_3433
+            MME: Marme_3222
+            MPC: Mar181_0820
+            MPRI: MP3633_0881(fliQ)
+            MARD: IBG28_14975(fliQ)
+            MFOI: JSY38_14270(fliQ)
+            MPRF: J8N69_03580(fliQ)
+            TOL: TOL_2495
+            TOR: R615_05210
+            OAI: OLEAN_C12350(fliQ)
+            MARS: A8C75_04210
+            MGEO: CFI10_02800(fliQ)
+            MSEC: LN244_13840(fliQ)
+            BSAN: CHH28_18735
+            NCU: F0U83_03310(fliQ)
+            NJP: NEJAP_0722(fliQ)
+            NIK: F5I99_02585(fliQ)
+            BMAR: HF888_11885(fliQ)
+            AJP: AMJAP_0582(fliQ)
+            VCW: GJQ55_09515(fliQ)
+            BACZ: KFF03_03300
+            GSN: YC6258_00678 YC6258_04279
+            RFO: REIFOR_01531(fliQ)
+            OME: OLMES_3539
+            LLP: GH975_06560(fliQ)
+            ENW: MJO57_05395 MJO57_08845
+            AHA: AHA_1376(fliQ)
+            AHY: AHML_07455
+            AHD: AI20_12255
+            AHR: V428_07680
+            AHP: V429_07685
+            AHJ: V469_15815
+            AHH: RY45_07250 RY45_20350
+            AHI: VU14_15635
+            AAJ: BOQ57_06700
+            ASA: ASA_0349(lfiQ) ASA_1348(fliQ)
+            AEO: O23A_p0567
+            AVR: B565_1110
+            AVO: AMS64_03015 AMS64_07345
+            ASR: WL1483_3535(fliQ) WL1483_4201
+            ADH: CK627_19280(fliQ)
+            ACAV: VI35_02000(fliQ) VI35_05935(fliQ)
+            AEM: CK911_10725(fliQ) CK911_15115(fliQ)
+            AEA: C2U39_02380(fliQ) C2U39_06550(fliQ)
+            ARV: C7N77_18780(fliQ)
+            AES: C2U30_07265(fliQ)
+            AEL: NCTC12917_01243(fliQ) NCTC12917_03832(lfiQ)
+            ASIM: FE240_05950(fliQ) FE240_15115(fliQ)
+            AALL: I6G90_09905(fliQ)
+            AJD: I6H43_12475(lfiQ) I6H43_16880(fliQ)
+            ARIV: KYK33_02270(fliQ) KYK33_13815(fliQ)
+            OCE: GU3_13315 GU3_14105
+            OCM: CBP12_05795
+            OPF: CBP31_12770
+            ZDF: AN401_04495 AN401_14855
+            GAP: GAPWK_2576
+            FPP: FPB0191_02070
+            SDF: ACG33_05750
+            SOK: D0B54_04875(fliQ) D0B54_05685(fliQ)
+            SINI: GT972_03155(fliQ)
+            FCE: JN531_011055(fliQ)
+            GBI: PG2T_01150
+            SALN: SALB1_1833
+            TBN: TBH_C1395
+            SEDS: AAY24_07305
+            PSPI: PS2015_1677
+            CDIZ: CEDIAZO_01314(fliQ)
+            EPS: L0Y14_12340(fliQ)
+            GPB: HDN1F_14730(fliQ)
+            ENM: EBS_1730(fliQ)
+            CVI: CV_3004(fliQ2) CV_3125(fliQ1)
+            CVC: BKX93_05755 BKX93_06375
+            CHRO: CXB49_05855(fliQ) CXB49_06480(fliQ)
+            CHRI: DK842_00540(fliQ) DK842_22055(fliQ)
+            CHRB: DK843_04795(fliQ) DK843_05820(fliQ)
+            CRZ: D1345_13040(fliQ) D1345_15245(fliQ)
+            CHRM: FYK34_09260(fliQ) FYK34_09970(fliQ)
+            CHAE: CH06BL_27690(fliQ) CH06BL_31980(lfiQ)
+            IOD: EJO50_16565(fliQ)
+            IFL: C1H71_11800(fliQ)
+            LHK: LHK_02349(fliQ1)
+            PSE: NH8B_1204(fliQ) NH8B_2908(fliQ)
+            JEU: BJP62_15365
+            AQL: BXU06_10175
+            AMAH: DLM_0984
+            AQS: DKK66_00560(fliQ)
+            DEE: HQN60_02770(fliQ)
+            CHIZ: HQ393_00240(fliQ)
+            CFON: HZU75_03745(fliQ)
+            VOG: LCH97_00820(fliQ)
+            RSO: RSp0374(fliQ)
+            RSL: RPSI07_mp0330(fliQ)
+            RSN: RSPO_m01462(fliQ)
+            RSM: CMR15_11510(fliQ) CMR15_mp10350(fliQ)
+            RSE: F504_3958(fliQ)
+            RSY: RSUY_34370(fliQ)
+            RPI: Rpic_4758
+            RPF: Rpic12D_3681
+            RPJ: N234_24110(fliQ)
+            RMN: TK49_17985
+            RIN: ACS15_5126(fliQ)
+            RPU: CDC45_19495(fliQ)
+            RSG: JK151_14395(fliQ)
+            REH: H16_B0562(fliQ)
+            CNC: CNE_2c05090(fliQ)
+            CUH: BJN34_24430
+            REU: Reut_B5880
+            RME: Rmet_5302(fliQ)
+            CTI: RALTA_B0360(fliQ)
+            CBW: RR42_s0527
+            CGD: CR3_3165(fliQ)
+            CCUP: BKK81_24365
+            CUP: BKK80_31970
+            CUU: BKK79_22905
+            CPAU: EHF44_23475(fliQ)
+            COX: E0W60_07840(fliQ)
+            CCAM: M5D45_19235(fliQ)
+            BMA: BMA2685(fliQ)
+            BMV: BMASAVP1_A3267(fliQ)
+            BML: BMA10229_A1860(fliQ)
+            BMN: BMA10247_2692(fliQ)
+            BMAL: DM55_1206(fliQ)
+            BMAE: DM78_3145(fliQ)
+            BMAQ: DM76_1182(fliQ)
+            BMAI: DM57_1495
+            BMAF: DM51_2316(fliQ)
+            BMAZ: BM44_632(fliQ)
+            BMAB: BM45_86(fliQ)
+            BPS: BPSL0031(fliQ)
+            BPM: BURPS1710b_0244(fliQ)
+            BPL: BURPS1106A_0033(fliQ)
+            BPD: BURPS668_0033(fliQ) BURPS668_A0215(fliQ)
+            BPR: GBP346_A4224(fliQ)
+            BPSE: BDL_1913(fliQ) BDL_5977
+            BPSM: BBQ_3373(fliQ) BBQ_3599
+            BPSU: BBN_3494(fliQ) BBN_5999
+            BPSD: BBX_304(fliQ) BBX_5145
+            BPZ: BP1026B_I0033(fliQ)
+            BPQ: BPC006_I0033
+            BPK: BBK_1402(fliQ) BBK_5278
+            BPSH: DR55_1042(fliQ)
+            BPSA: BBU_2072(fliQ) BBU_3485
+            BPSO: X996_647(fliQ)
+            BUT: X994_2636(fliQ)
+            BTE: BTH_I0031(fliQ) BTH_II0166
+            BTQ: BTQ_3456 BTQ_50(fliQ)
+            BTJ: BTJ_2395(fliQ) BTJ_4493
+            BTZ: BTL_338(fliQ) BTL_5277
+            BTD: BTI_96(fliQ)
+            BTV: BTHA_446(fliQ) BTHA_4924
+            BTHE: BTN_1055(fliQ) BTN_4951
+            BTHM: BTRA_512(fliQ) BTRA_5219
+            BTHA: DR62_1219 DR62_5077
+            BTHL: BG87_512(fliQ) BG87_5286
+            BOK: DM82_3188(fliQ) DM82_3887(fliQ)
+            BOC: BG90_1547(fliQ) BG90_4155(fliQ)
+            BUU: WS70_00240
+            BSAV: WS86_00650
+            BHG: I6G56_01650(fliQ)
+            BVI: Bcep1808_0046
+            BVE: AK36_719(fliQ)
+            BUR: Bcep18194_A3220
+            BCM: Bcenmc03_0055 Bcenmc03_4647
+            BCH: Bcen2424_0036
+            BCJ: BCAL3502(fliQ)
+            BCEN: DM39_3312(fliQ)
+            BCEW: DM40_816(fliQ)
+            BCEO: I35_3282(fliQ)
+            BAM: Bamb_0028
+            BAC: BamMC406_0037
+            BMJ: BMULJ_00031(fliQ)
+            BMU: Bmul_0039
+            BMK: DM80_1651(fliQ)
+            BMUL: NP80_169(fliQ)
+            BCT: GEM_0034
+            BCED: DM42_1742(fliQ)
+            BCEP: APZ15_04125(fliQ)
+            BDL: AK34_3047(fliQ) AK34_4733
+            BPYR: ABD05_06225
+            BCON: NL30_19315
+            BUB: BW23_1670(fliQ) BW23_6102(fliQ)
+            BDF: WI26_00225
+            BLAT: WK25_02490
+            BTEI: WS51_11030
+            BSEM: WJ12_00235
+            BPSL: WS57_13185
+            BMEC: WJ16_00195
+            BSTG: WT74_00330
+            BSTL: BBJ41_09780
+            BANN: JFN94_00180(fliQ)
+            BGL: bglu_1g00180
+            BGU: KS03_932(fliQ)
+            BUG: BC1001_3382
+            BGF: BC1003_3340
+            BGD: bgla_1g00240
+            BGO: BM43_1420(fliQ)
+            BYI: BYI23_A026030(fliQ)
+            BUK: MYA_0033
+            BUE: BRPE67_ACDS26480(fliQ)
+            BUL: BW21_168(fliQ)
+            BUQ: AC233_17215
+            BGP: BGL_1c00150(fliQ1) BGL_1c13980(fliQ2)
+            BPLA: bpln_1g00140 bpln_1g13550
+            BUD: AQ610_00255
+            BUM: AXG89_05255
+            BUI: AX768_15185
+            BURK: DM992_03740(fliQ)
+            BXE: Bxe_A0154
+            BXB: DR64_2328(fliQ)
+            BPH: Bphy_2942
+            BGE: BC1002_3016
+            BPX: BUPH_03735
+            BPY: Bphyt_3781
+            BUZ: AYM40_19520
+            BFN: OI25_1642(fliQ)
+            BCAI: K788_0007136
+            PSPW: BJG93_13465(fliQ)
+            PARA: BTO02_19890
+            PARB: CJU94_06145(fliQ)
+            PHS: C2L64_17460(fliQ)
+            PTER: C2L65_15290(fliQ)
+            PGP: CUJ91_17150(fliQ)
+            PCJ: CUJ87_16520(fliQ)
+            PTS: CUJ90_17375(fliQ)
+            PCAF: DSC91_005179
+            PMEG: FNZ07_32545(fliQ)
+            PTRO: G5S35_13955(fliQ)
+            PGIS: I6I06_12170(fliQ)
+            PACP: FAZ97_13695(fliQ)
+            PACS: FAZ98_13505(fliQ)
+            PEW: KZJ38_02170(fliQ)
+            PDIO: PDMSB3_4198(fliQ)
+            PDQ: CL55_00004500
+            PTRP: DCO17_03085
+            PPAL: AOC06_03940(fliQ)
+            PCOS: C2747_03600
+            PPK: U875_24100
+            PPNO: DA70_16840
+            PPNM: LV28_13910
+            PRB: X636_10035
+            PPUL: RO07_07970 RO07_13280 RO07_14410
+            PSPU: NA29_03755
+            PAPI: SG18_08310 SG18_14250
+            PVE: UC34_23975
+            POX: MB84_03985
+            PTX: ABW99_17420
+            PFG: AB870_10895
+            PNR: AT302_07515
+            PAND: DRB87_05025(fliQ) DRB87_22450(fliQ)
+            PFIB: PI93_022705(fliQ) PI93_024100(fliQ)
+            PCOM: NTU39_26275(fliQ)
+            PLG: NCTC10937_03803(fliQ)
+            LMIR: NCTC12852_01325(fliQ)
+            CABA: SBC2_34790(fliQ)
+            BUO: BRPE64_ACDS27110(fliQ)
+            LIMN: HKT17_04700(fliQ)
+            CARI: FNU76_21240(fliQ)
+            BPE: BP1390(fliQ)
+            BPC: BPTD_1374(fliQ)
+            BPER: BN118_1048(fliQ)
+            BPET: B1917_2468(fliQ)
+            BPEU: Q425_12540(fliQ)
+            BPAR: BN117_2410(fliQ)
+            BPA: BPP1499(fliQ)
+            BBH: BN112_0393(fliQ)
+            BBR: BB2577(fliQ)
+            BBM: BN115_2546(fliQ)
+            BBX: BBS798_2407(fliQ)
+            BPT: Bpet2136(fliQ)
+            BAV: BAV1705(fliQ)
+            BHO: D560_3538(fliQ)
+            BHM: D558_3509(fliQ)
+            BHZ: ACR54_02669(fliQ)
+            BTRM: SAMEA390648703445(fliQ)
+            BBRO: BAU06_11465
+            BFZ: BAU07_15255
+            BPDZ: BBN53_08865
+            BOH: AKI39_10605
+            BGM: CAL15_07855
+            BOJ: CBF45_03940
+            AXY: AXYL_02767(fliQ)
+            AXO: NH44784_042861
+            AXN: AX27061_2456
+            AXX: ERS451415_02446(fliQ)
+            ADT: APT56_12065
+            AIS: BUW96_03905
+            ASW: CVS48_16945(fliQ)
+            ACHR: C2U31_18115(fliQ)
+            ACHB: DVB37_10540(fliQ)
+            ADY: HLG70_10165(fliQ) HLG70_25320(fliQ)
+            PUT: PT7_0778
+            PUS: CKA81_03085(fliQ)
+            PUD: G9Q38_08685(fliQ)
+            CDN: BN940_11781
+            AFA: UZ73_15565
+            AFQ: AFA_05910(fliQ)
+            AAQU: D3M96_07440(fliQ)
+            AAMM: FE795_05950(fliQ)
+            PHN: PAEH1_00170
+            ODI: ODI_R2152
+            OUE: I6G29_07910(fliQ)
+            PIG: EGT29_17930(fliQ)
+            PACR: FXN63_16495(fliQ)
+            KGY: EHF36_04460(fliQ)
+            PARK: LSG25_05225(fliQ)
+            RFR: Rfer_0561
+            RSB: RS694_03075
+            RAC: RA876_03800
+            RHY: RD110_05100
+            RHG: EXZ61_18895(fliQ)
+            RHOA: HZ993_10770(fliQ)
+            PVAC: HC248_00413
+            AAV: Aave_4384
+            AJS: Ajs_3796
+            AAA: Acav_4281
+            ACK: C380_20755
+            ACID: CBP33_15950 CBP33_18740
+            ACIP: CBP36_16400 CBP36_19200
+            ACIN: CBP34_16740
+            ACIS: CBP35_02520 CBP35_19150
+            ACIO: EAG14_02915(fliQ) EAG14_10330(fliQ)
+            AMON: H9L24_18905(fliQ)
+            AANT: HUK68_02935(fliQ) HUK68_17205(fliQ)
+            ARAD: KI609_19905(fliQ)
+            VEI: Veis_1125
+            DAC: Daci_0649
+            DEL: DelCs14_0587
+            DTS: BI380_24865
+            DHK: BO996_28255
+            DLA: I6G47_25525(fliQ)
+            VAP: Vapar_2259 Vapar_4179
+            VPD: VAPA_1c43360(fliQ)
+            VAA: AX767_12200
+            VBO: CKY39_08235(fliQ)
+            VAM: C4F17_25700(fliQ)
+            CTT: CtCNB1_0469
+            CTES: O987_02445
+            CKE: B5M06_04185
+            COF: FOZ74_05690(fliQ)
+            CAQT: KAQ61_18425(fliQ)
+            ADN: Alide_3846
+            ADK: Alide2_4192
+            RTEA: HK414_26350
+            CBX: Cenrod_2300(fliQ)
+            LIM: L103DPR2_00559(fliQ)
+            LIH: L63ED372_01007(fliQ)
+            HYR: BSY239_3222(fliQ)
+            HYB: Q5W_01605 Q5W_17815
+            HYL: LPB072_04445
+            HYC: E5678_12860(fliQ)
+            HPSE: HPF_20380(fliQ)
+            HYN: F9K07_26035(fliQ)
+            HTN: KI616_05795(fliQ)
+            DPY: BA022_17025
+            DIA: Dtpsy_3070
+            SIMP: C6571_10175(fliQ)
+            MELM: C7H73_03765(fliQ)
+            MELA: C6568_11170(fliQ)
+            MJE: LVC68_14860(fliQ)
+            CBAA: SRAA_0342
+            CBAB: SMCB_0254
+            KIA: G8A07_09335(fliQ) G8A07_15475(fliQ) G8A07_18360
+            STHM: IS481_13690(fliQ)
+            PBH: AAW51_3684(fliQ) AAW51_4331(fliQ)
+            MPT: Mpe_A0576(fliQ)
+            METP: C1M51_11995(fliQ)
+            RGE: RGE_16720(fliQ) RGE_19570(lfiQ)
+            RBN: RBXJA2T_00605
+            RDP: RD2015_1719 RD2015_3537
+            MIU: ABE85_15190
+            SNN: EWH46_13505(fliQ)
+            IDC: LRM40_13000(fliQ)
+            ATER: MW290_08615(fliQ) MW290_10105(fliQ)
+            HAR: HEAR1888(fliQ)
+            MMS: mma_1430(fliQ)
+            JAG: GJA_1236(fliQ) GJA_1935(fliQ)
+            JAB: VN23_16530 VN23_20815
+            JAZ: YQ44_04680 YQ44_15100
+            JAL: BZG29_12800 BZG29_22875
+            JSV: CNX70_13175 CNX70_23325(fliQ)
+            JAJ: EKL02_09275(fliQ)
+            JAS: FJQ89_01790(fliQ) FJQ89_12590(fliQ)
+            JLV: G3257_13340(fliQ) G3257_23585(fliQ)
+            HSE: Hsero_2048(fliQ)
+            HSZ: ACP92_10245
+            HHT: F506_10300
+            HRB: Hrubri_1933(fliQ)
+            HEE: hmeg3_08265(fliQ)
+            HHF: E2K99_10730(fliQ)
+            HFR: G5S34_11235(fliQ) G5S34_20200(fliQ)
+            CFU: CFU_0953
+            CARE: LT85_1127(fliQ)
+            MNR: ACZ75_03105 ACZ75_06355 ACZ75_25180
+            MASW: AM586_06950 AM586_22345
+            MASS: CR152_07295(fliQ) CR152_09110 CR152_14705(fliQ)
+            MTIM: DIR46_07855(fliQ) DIR46_19330(fliQ)
+            MASY: DPH57_03910(fliQ) DPH57_26500(fliQ)
+            MANC: IV454_00770(fliQ) IV454_15065 IV454_23865(fliQ)
+            MFY: HH212_02360(fliQ) HH212_05095(fliQ) HH212_13605(fliQ)
+            MASZ: C9I28_17985(fliQ) C9I28_22770(fliQ)
+            MALI: EYF70_04505(fliQ) EYF70_09665(fliQ)
+            MUM: FCL38_09155(fliQ) FCL38_14115(fliQ)
+            MFLA: GO485_04730(fliQ) GO485_09460(fliQ)
+            MPLI: E1742_05525(fliQ) E1742_09830(fliQ)
+            DUG: HH213_04280(fliQ) HH213_28075(fliQ)
+            UPV: EJN92_18935(fliQ)
+            UPI: EJG51_002145(fliQ)
+            NOK: FAY22_09270(fliQ)
+            GLC: JQN73_02455(fliQ)
+            LCH: Lcho_1027
+            TIN: Tint_1154
+            THI: THI_1483(fliQ)
+            PKT: AT984_04445
+            RGU: A4W93_05025 A4W93_15835 A4W93_20280
+            AON: DEH84_06080(fliQ)
+            XYK: GT347_07985(fliQ) GT347_15045(fliQ)
+            TTW: LCC91_07355(fliQ)
+            BBAG: E1O_24540
+            NEU: NE0460(fliQ)
+            NET: Neut_2060
+            NIT: NAL212_0475
+            NII: Nit79A3_0505
+            NUR: ATY38_03450
+            NST: Nstercoris_01742
+            NMU: Nmul_A1356
+            NLC: EBAPG3_009890(fliQ)
+            SHD: SUTH_00931(fliQ)
+            METR: BSY238_3116(fliQ)
+            DOE: DENOEST_3375(fliQ)
+            TBD: Tbd_1096 Tbd_1611
+            MFA: Mfla_1967
+            MMB: Mmol_0938
+            MEH: M301_1013
+            MEI: Msip34_0767
+            MEP: MPQ_0804(fliQ)
+            MEU: ACJ67_08860
+            MPAU: ZMTM_17260(fliQ)
+            SLT: Slit_0587
+            GCA: Galf_1058
+            FAM: OYT1_ch2008
+            NIM: W01_04160(fliQ)
+            NARC: NTG6680_1404(fliQ)
+            FKU: FGKAn22_04610(fliQ)
+            SEME: MIZ01_0483
+            SDR: SCD_n01238(fliQ)
+            SULF: CAP31_08260
+            SPLB: SFPGR_12690(fliQ)
+            SNIV: SFSGTM_19290(fliQ)
+            SLAC: SKTS_10660(fliQ)
+            DSU: Dsui_1745
+            ARES: IWH25_09115(fliQ)
+            AIQ: Azoinq_11170(fliQ)
+            OTR: OTERR_09030(fliQ)
+            NIV: JY500_09200(fliQ)
+            ABRE: pbN1_08850(fliQ)
+            APET: ToN1_39950(fliQ)
+            ATW: C0099_11745(fliQ)
+            RBH: B4966_09735
+            DAR: Daro_0762
+            DEY: HYN24_03495(fliQ)
+            DDEN: KI615_04940(fliQ) KI615_05325(fliQ)
+            QAU: KI612_04460(fliQ)
+            FLE: KI610_04010(fliQ)
+            AZO: azo2727(fliQ)
+            AOA: dqs_2862
+            AZA: AZKH_1319(fliQ)
+            AZI: AzCIB_0958
+            ACOM: CEW83_01085(fliQ)
+            AZD: CDA09_06775(fliQ)
+            AZR: CJ010_17195(fliQ)
+            TMZ: Tmz1t_2911
+            THU: AC731_001175
+            TCL: Tchl_0369
+            THK: CCZ27_05175(fliQ)
+            TAK: Tharo_0342
+            AZQ: G3580_06030(fliQ)
+            ZPA: C3497_09295(fliQ)
+            FMY: HO273_07255(fliQ)
+            APP: CAP2UW1_3811
+            DDZ: DSYM_21120
+            BEB: AEM42_11455
+            BEBA: BWI17_18090
+            HPY: HP_1419
+            HEO: C694_07340(fliQ)
+            HPJ: jhp_1314(fliQ)
+            HPA: HPAG1_1345
+            HPS: HPSH_07240(fliQ)
+            HHP: HPSH112_07175(fliQ)
+            HHQ: HPSH169_06960(fliQ)
+            HHR: HPSH417_06890(fliQ)
+            HPG: HPG27_1342(fliQ)
+            HPP: HPP12_1392(fliQ)
+            HPB: HELPY_1388(fliQ)
+            HPL: HPB8_125(fliQ)
+            HPC: HPPC_06905(fliQ)
+            HCA: HPPC18_07515(fliQ)
+            HPM: HPSJM_07185(fliQ)
+            HPE: HPELS_07290(fliQ)
+            HPO: HMPREF4655_20012(fliQ)
+            HPI: hp908_1403(fliQ)
+            HPQ: hp2017_1357(fliQ)
+            HPW: hp2018_1360(fliQ)
+            HPU: HPCU_07145(fliQ)
+            HEF: HPF16_1317(fliQ)
+            HPF: HPF30_1288(fliQ)
+            HEQ: HPF32_1306(fliQ)
+            HEX: HPF57_1334(fliQ)
+            HPT: HPSAT_06790(fliQ)
+            HPZ: HPKB_1318(fliQ)
+            HPV: HPV225_1441(fliQ)
+            HPX: HMPREF0462_1398(fliQ)
+            HEN: HPSNT_06990(fliQ)
+            HPH: HPLT_07030(fliQ)
+            HEG: HPGAM_07255(fliQ)
+            HPN: HPIN_08050(fliQ)
+            HEP: HPPN120_06915(fliQ)
+            HEU: HPPN135_07170(fliQ)
+            HES: HPSA_06675(fliQ)
+            HPYS: HPSA20_1470(fliQ)
+            HCN: HPB14_06790(fliQ)
+            HPD: KHP_1270(fliQ)
+            HEY: MWE_1596(fliQ)
+            HER: C695_07350(fliQ)
+            HEI: C730_07350(fliQ)
+            HPYA: HPAKL117_06790(fliQ)
+            HPYK: HPAKL86_06525(fliQ)
+            HPYO: HPOK113_1334(fliQ)
+            HPYL: HPOK310_1268(fliQ)
+            HPYB: HPOKI102_07150
+            HPYC: HPOKI112_07165
+            HPYD: HPOKI128_06920
+            HPYE: HPOKI154_07070
+            HPYF: HPOKI422_07180
+            HPYG: HPOKI673_07060
+            HPYH: HPOKI828_07080
+            HPYJ: HPOKI898_07160
+            HPYR: K747_04100
+            HPYI: K750_01370
+            HPYU: K751_00710
+            HPYM: K749_06860
+            HEM: K748_05270
+            HEB: U063_0252
+            HEZ: U064_0253
+            HHE: HH_0438(fliQ)
+            HAC: Hac_0105(fliQ)
+            HMS: HMU05780(fliQ)
+            HFE: HFELIS_11190(fliQ)
+            HBI: HBZC1_02740
+            HCE: HCW_01885(fliQ)
+            HCM: HCD_00690(fliQ)
+            HCP: HCN_0666(fliQ)
+            HCB: HCBAA847_1324(fliQ)
+            HHM: BN341_16870 BN341_16910
+            HTY: BN2458_PEG0517
+            HBL: XJ32_05060
+            HAD: CDV25_07665(fliQ)
+            HET: BBW65_00905
+            HCL: NCTC13205_00299(fliQ)
+            HWI: A0Z60_08470(fliQ)
+            HSH: NHP194022_11620(fliQ)
+            WSU: WS1489(FLIQ)
+            TDN: Suden_2005
+            SUA: Saut_0104
+            SULG: FJR48_00665(fliQ)
+            SPAL: FM071_00500(fliQ)
+            SSEI: FJR45_00800(fliQ)
+            SBAL: HUE88_13245(fliQ)
+            SMAS: HUE87_12095(fliQ)
+            SKU: Sulku_0049
+            SULR: B649_00400
+            CJE: Cj1675(fliQ)
+            CJB: BN148_1675(fliQ)
+            CJJ: CJJ81176_1671(fliQ)
+            CJU: C8J_1576(fliQ)
+            CJI: CJSA_1586(fliQ)
+            CJM: CJM1_1621(fliQ)
+            CJS: CJS3_1757(fliQ)
+            CJP: A911_08070(fliQ)
+            CJEJ: N564_01670
+            CJEU: N565_01703
+            CJEN: N755_01704
+            CJEI: N135_01764
+            CJER: H730_09695(fliQ)
+            CJV: MTVDSCj20_1640(fliQ)
+            CJY: QZ67_01810(fliQ)
+            CJQ: UC78_1613(fliQ)
+            CJL: PJ17_08825
+            CJW: PJ18_08500
+            CJR: CJE1847(fliQ)
+            CJD: JJD26997_2049(fliQ)
+            CJZ: M635_04085
+            CJX: BN867_16430
+            CFF: CFF8240_0203(fliQ)
+            CFT: CFF04554_0204(fliQ)
+            CFV: CFVI03293_0204(fliQ)
+            CFX: CFV97608_0206(fliQ)
+            CFZ: CSG_2870
+            CAMP: CFT03427_0213(fliQ)
+            CFP: CR44_01075
+            CCV: CCV52592_0619(fliQ)
+            CCO: CCC13826_2097(fliQ)
+            CCOC: CCON33237_1660(fliQ)
+            CLA: CLA_0155(fliQ)
+            CLR: UPTC16701_0163(fliQ)
+            CLM: UPTC16712_0161(fliQ)
+            CLQ: UPTC4110_0155(fliQ)
+            CLN: UPTC3659_0173(fliQ)
+            CLL: CONCH_0151(fliQ)
+            CCOL: BN865_03230
+            CCC: G157_08250(fliQ)
+            CCQ: N149_1629(fliQ)
+            CCF: YSQ_09585
+            CCY: YSS_09535
+            CCOI: YSU_08495
+            CCOF: VC76_08325(fliQ)
+            CCOO: ATE51_04296(fliQ)
+            CAJ: CIG1485E_0215(fliQ)
+            CIS: CINS_0143(fliQ)
+            CVO: CVOL_0148(fliQ)
+            CPEL: CPEL_0159(fliQ)
+            CAMR: CAQ16704_0153(fliQ)
+            CSM: CSUB8521_0165(fliQ)
+            CSF: CSUB8523_0159(fliQ)
+            CHYO: CHH_0191(fliQ)
+            CHV: CHELV3228_0090(fliQ)
+            CSPF: CSF_1569(fliQ)
+            CPIN: CPIN18020_0168(fliQ)
+            CCUN: CCUN_0238(fliQ)
+            CLX: CLAN_1497(fliQ)
+            CAVI: CAV_1634(fliQ)
+            CHW: A2J15_006240(fliQ)
+            CAMZ: CVIC12175_1581(fliQ)
+            CAMY: CSUIS_0100(fliQ)
+            COJ: CORN_0159(fliQ)
+            CUX: CUP3940_1558(fliQ)
+            CRX: CRECT_0183(fliQ)
+            CARM: CARM_0121(fliQ)
+            CMUC: CMCT_0267(fliQ)
+            CSHO: CSHOW_1881(fliQ)
+            CINF: CINF_1102(fliQ)
+            CNV: CNZW441b_0086(fliQ)
+            SDL: Sdel_2238
+            SBA: Sulba_2476
+            SMUL: SMUL_3203(fliQ)
+            SHAL: SHALO_2937
+            SULS: Sdiek1_2920
+            SULJ: SJPD1_2812
+            SULT: FA592_06860(fliQ)
+            ABU: Abu_0203(fliQ)
+            ABT: ABED_0188
+            ABL: A7H1H_0208(fliQ)
+            ASK: EI285_01000
+            ATP: ATR_0199(fliQ)
+            ACIB: ACBT_1945(fliQ)
+            ACRE: ACRYA_1781(fliQ)
+            ALAN: ALANTH_0238(fliQ)
+            APOC: APORC_0225(fliQ)
+            AFC: AFAEC_1979(fliQ)
+            ATHR: ATH_0210(fliQ)
+            ANT: Arnit_2879
+            AELL: AELL_0351(fliQ)
+            AAQI: AAQM_0271(fliQ)
+            ASUI: ASUIS_0279(fliQ)
+            ACLO: ACLO_0332(fliQ)
+            AVP: AVENP_0343(fliQ)
+            ADZ: ADFLV_0353(fliQ)
+            ARC: ABLL_0339
+            PACO: AACT_0383(fliQ)
+            ALK: ALEK_3148(fliQ)
+            ALP: LPB137_12655
+            AHS: AHALO_2429(fliQ)
+            AMYT: AMYT_2488(fliQ)
+            AMAR: AMRN_2531(fliQ)
+            ACAA: ACAN_2542(fliQ)
+            AMOL: AMOL_2493(fliQ)
+            APAI: APAC_2324(fliQ)
+            HBV: ABIV_2381(fliQ)
+            HEBR: AEBR_2736(fliQ)
+            AANA: AANAER_2676(fliQ)
+            HYO: NNO_0118
+            NIS: NIS_0633(fliQ)
+            NAM: NAMH_0272(fliQ)
+            NAP: C3L23_01400(fliQ)
+            CMED: FE773_08735(fliQ)
+            CPAF: C6V80_01680(fliQ)
+            GSU: GSU0424(fliQ)
+            GSK: KN400_0393(fliQ)
+            GME: Gmet_3096(fliQ)
+            GPI: GPICK_14150
+            GAO: A2G06_01910
+            GBZ: JZM60_03420(fliQ)
+            GEM: GM21_3907
+            GEB: GM18_4253
+            GEF: FO488_18085(fliQ)
+            GUR: Gura_4198
+            GEO: Geob_0509(fliQ)
+            GLO: Glov_3289
+            GBM: Gbem_3823(fliQ)
+            GBN: GEOBRER4_37140(fliQ)
+            GSB: GSUB_14935
+            GER: KP004_18275(fliQ)
+            GSUB: KP001_17960(fliQ)
+            GNT: KP003_18295(fliQ)
+            GPL: M1B72_01495(fliQ)
+            PCA: Pcar_1165(fliQ)
+            PACE: A6070_09705
+            PEF: A7E78_05420
+            PPD: Ppro_3441
+            DVE: DESUT3_36900(fliQ)
+            DEP: AOP6_0910(fliQ)
+            DVU: DVU_0043(fliQ)
+            DVL: Dvul_2918
+            DVM: DvMF_2216
+            DVG: Deval_0071
+            DDS: Ddes_0378
+            DFI: AXF13_00650
+            DEF: CNY67_12790(fliQ)
+            DFL: DFE_2672
+            DSD: GD606_13115(fliQ)
+            DMA: DMR_46210(fliQ)
+            DCB: C3Y92_19900(fliQ)
+            DGG: DGI_0890(fliQ)
+            DDE: Dde_3582
+            DMS: E8L03_14225(fliQ)
+            DSA: Desal_3818
+            DHY: DESAM_20744(fliQ)
+            DAF: Desaf_1173
+            DAS: Daes_0263
+            DPI: BN4_12014(fliQ)
+            DEJ: AWY79_00500
+            PPRF: DPRO_1710(fliQ)
+            PSEL: GM415_03645(fliQ)
+            DDN: DND132_2728
+            PSEF: PSDVSF_26020(fliQ)
+            LIR: LAW_00660(fliQ)
+            DSX: GD604_00320(fliQ)
+            PBIZ: LWC08_11500(fliQ)
+            DBA: Dbac_2730
+            DOA: AXF15_06185
+            DRT: Dret_0585
+            DPS: DP2672
+            DSF: UWK_03089
+            DAK: DaAHT2_1719
+            DPR: Despr_2237
+            DOG: HP555_09140(fliQ)
+            DBK: DGMP_12890(fliQ)
+            DAL: Dalk_1006
+            DAT: HRM2_37150(fliQ)
+            DTO: TOL2_C35720(fliQ)
+            DOV: DSCO28_03730(fliQ)
+            DWD: DSCW_11260(fliQ)
+            DALK: DSCA_07010(fliQ)
+            DEK: DSLASN_49120(fliQ)
+            ADE: Adeh_1361
+            ACP: A2cp1_2592
+            ANK: AnaeK_2496
+            MXA: MXAN_2448 MXAN_5646
+            MSD: MYSTI_02839 MYSTI_06239
+            MYM: A176_001269 A176_004592
+            MFB: MFUL124B02_15540 MFUL124B02_32895
+            CCX: COCOR_05630(fliQ) COCOR_06138(fliQ1)
+            MFU: LILAB_19930 LILAB_35710
+            MMAS: MYMAC_002410 MYMAC_005442
+            SUR: STAUR_3047 STAUR_6327
+            AGE: AA314_07446 AA314_08050
+            AVM: JQX13_27980 JQX13_30545(fliQ)
+            MBD: MEBOL_001302 MEBOL_005298
+            CFUS: CYFUS_002714 CYFUS_007865
+            VIN: AKJ08_3399
+            SAMY: DB32_004948
+            LLU: AKJ09_01383
+            SAT: SYN_02834
+            DAX: FDQ92_11290(fliQ)
+            DBR: Deba_2316
+            HMR: Hipma_0872
+            DAV: DESACE_09065
+            BSED: DN745_17285(fliQ)
+            PCAY: FRD00_11585 FRD00_13120(fliQ)
+            BBAE: FRD01_09375(fliQ) FRD01_15530
+            DHR: LGS26_08355(fliQ)
+            RBT: NOVO_02555(fliQ)
+            REN: EF513_01850(fliQ)
+            PACA: ID47_02520
+            NAF: GQ61_01795
+            EAA: I862_03335
+            MLO: msr2943
+            MLN: A9174_10075
+            MCI: Mesci_1932
+            MOP: Mesop_1988
+            MAM: Mesau_01994
+            MAMO: A6B35_27635(fliQ)
+            MESW: A9K65_010085
+            MESP: C1M53_18315(fliQ)
+            MHUA: MCHK_4468(fliQ)
+            MJR: EB229_10240(fliQ)
+            MERD: EB233_10540(fliQ)
+            MESR: FGU64_09030(fliQ)
+            MESO: BSQ44_21385
+            MES: Meso_0273
+            HOE: IMCC20628_03445
+            AAK: AA2016_2076
+            AMIH: CO731_02188(fliQ)
+            PHT: BLM14_29550(fliQ)
+            PHYL: HB779_01435(fliQ)
+            RPOD: E0E05_07770(fliQ)
+            NIY: FQ775_21405(fliQ)
+            NKI: KW403_03645(fliQ)
+            ORM: HTY61_14755
+            PLA: Plav_2573
+            PMOB: HG718_04080(fliQ)
+            RBS: RHODOSMS8_01606
+            SME: SMc03053(fliQ)
+            SMK: Sinme_0379
+            SMQ: SinmeB_0292
+            SMX: SM11_chr0324(fliQ)
+            SMI: BN406_00301(fliQ)
+            SMEG: C770_GR4Chr0674 C770_GR4pB211
+            SMEL: SM2011_c03053(fliQ)
+            SMER: DU99_03500(fliQ)
+            SMD: Smed_0282
+            RHI: NGR_c03000(fliQ)
+            SFH: SFHH103_00342(fliQ)
+            SFD: USDA257_c03340(fliQ)
+            SIX: BSY16_2483
+            SAME: SAMCFNEI73_Ch0690(fliQ)
+            SINO: SS05631_c03470
+            EAD: OV14_1594(fliQ)
+            EAH: FA04_01500
+            ESJ: SJ05684_b47540 SJ05684_c02770
+            EAK: EKH55_0269
+            EMX: FKV68_03780(fliQ)
+            ATU: Atu0580(fliQ)
+            ARA: Arad_0918(fliQ) Arad_8768(hrcS)
+            ATA: AWN88_22255(fliQ)
+            AGR: AGROH133_03988(fliQ)
+            ATF: Ach5_05040(fliQ)
+            AVI: Avi_0770(fliQ)
+            AGC: BSY240_2110
+            ARO: B0909_10725
+            AGT: EYD00_01125
+            ALF: CFBP5473_13005(fliQ)
+            ARUI: G6M88_10005(fliQ)
+            AVQ: HRR99_01805(fliQ)
+            RET: RHE_CH00685(fliQ)
+            REC: RHECIAT_CH0000763(fliQ)
+            REL: REMIM1_CH00698(fliQ)
+            REP: IE4803_CH00713(fliQ) IE4803_PB00105
+            REI: IE4771_CH00739(fliQ)
+            RLE: RL0734(fliQ)
+            RLT: Rleg2_0344
+            RLG: Rleg_0376
+            RLB: RLEG3_11765(fliQ)
+            RLU: RLEG12_13090(fliQ)
+            RTR: RTCIAT899_CH03420(fliQ)
+            RIR: BN877_I0555(fliQ)
+            RPUS: CFBP5875_01115
+            RHL: LPU83_0824(fliQ)
+            RGA: RGR602_CH00741(fliQ)
+            RHN: AMJ98_CH00724(fliQ) AMJ98_PC00097
+            RPHA: AMC79_CH00729(fliQ) AMC79_PC00080
+            RHX: AMK02_CH00727(fliQ) AMK02_PC00088
+            RHV: BA939_11765(fliQ)
+            RHK: Kim5_CH00709(fliQ) Kim5_PA00129
+            REZ: AMJ99_CH00724(fliQ) AMJ99_PB00095
+            RJG: CCGE525_04280(fliQ)
+            RHR: CKA34_06505(fliQ)
+            RGR: FZ934_00680(fliQ)
+            RAD: CO657_01800(fliQ) CO657_22785
+            ROY: G3A56_08185(fliQ)
+            RII: FFM53_009480(fliQ)
+            RHID: FFM81_017505(fliQ)
+            RBQ: J2J99_03620(fliQ)
+            RLN: J0663_12210(fliQ)
+            RBAN: J2J98_03405(fliQ)
+            RRG: J3P73_04265(fliQ)
+            RLS: HB780_29125(fliQ)
+            RROS: D4A92_10330(fliQ)
+            NGL: RG1141_CH02700(fliQ)
+            NGG: RG540_CH02040(fliQ)
+            NEO: CYG48_01225(fliQ)
+            NEN: NCHU2750_02920(fliQ)
+            RHT: NT26_0244(fliQ)
+            RFV: RFYW14_00527
+            LAS: CLIBASIA_02030(fliQ)
+            LAA: WSI_03360(fliQ)
+            LAT: CGUJ_02030(fliQ)
+            LSO: CKC_02710(fliQ)
+            LCC: B488_09400
+            LAR: lam_395(fliQ)
+            LAU: G293_03780(fliQ)
+            SHZ: shn_01735
+            SZO: K8M09_02040(fliQ)
+            SOJ: K6301_01665(fliQ)
+            ABAW: D5400_05960(fliQ)
+            PDES: FE840_007420(fliQ)
+            BME: BMEII0165
+            BMEL: DK63_3080(fliQ)
+            BMI: BMEA_B1127(fliQ)
+            BMZ: BM28_B1112(fliQ)
+            BMG: BM590_B1108(fliQ)
+            BMW: BMNI_II1075
+            BMEE: DK62_2317(fliQ)
+            BMF: BAB2_1092(fliQ)
+            BMB: BruAb2_1070(fliQ)
+            BAA: BAA13334_II00093
+            BABO: DK55_3040(fliQ)
+            BABR: DO74_2515(fliQ)
+            BABT: DK49_3136(fliQ)
+            BABB: DK48_2757(fliQ)
+            BABU: DK53_2107(fliQ)
+            BABS: DK51_2686(fliQ)
+            BABC: DO78_2954(fliQ)
+            BMS: BRA1133(fliQ)
+            BSI: BS1330_II1124(fliQ)
+            BSF: BSS2_II1072(fliQ)
+            BSUI: BSSP1_II1321
+            BSUP: BSPT1_II1314
+            BSUV: BSPT2_II1315
+            BSUC: BSSP2_II1326
+            BMT: BSUIS_B1360(fliQ)
+            BSZ: DK67_3080(fliQ)
+            BSV: BSVBI22_B1123(fliQ)
+            BSW: IY71_16685(fliQ)
+            BSG: IY72_16690(fliQ)
+            BOV: BOV_A1038(fliQ)
+            BCS: BCAN_B1162(fliQ)
+            BSK: BCA52141_II1368
+            BOL: BCOUA_II1133(fliQ)
+            BCAR: DK60_2817(fliQ)
+            BCAS: DA85_15955(fliQ)
+            BMR: BMI_II1139(fliQ)
+            BPP: BPI_II1194(fliQ)
+            BPV: DK65_2526(fliQ)
+            BCET: V910_200162
+            BCEE: V568_200181
+            BVL: BF3285c2_0842(fliQ)
+            BRU: BFS01_15565
+            BRJ: BKD03_00440
+            OIN: IAR37_14995(fliQ)
+            BIO: BR141012304_20900(fliQ)
+            OAN: Oant_4187
+            OAH: DR92_4061(fliQ)
+            OPS: A8A54_11880
+            OCH: CES85_5603(fliQ)
+            OCR: HGK82_14125(fliQ)
+            OCL: GTN27_13915(fliQ)
+            BJA: bsl5811(fliQ) bsl6852(fliQ)
+            BJU: BJ6T_25470(fliQ) BJ6T_38950(fliQ)
+            BJP: RN69_12410(fliQ) RN69_18900
+            BRA: BRADO5026(fliQ)
+            BBT: BBta_5494(fliQ) BBta_p0122
+            BRS: S23_14210(fliQ) S23_24320(fliQ)
+            AOL: S58_26630(fliQ)
+            BRC: BCCGELA001_08900(fliQ) BCCGELA001_24755
+            BRAD: BF49_4822 BF49_5829
+            BIC: LMTR13_27700
+            BRO: BRAD285_2214(fliQ)
+            BRK: CWS35_31045(fliQ)
+            BOT: CIT37_20495(fliQ) CIT37_25250(fliQ)
+            BRQ: CIT40_21055(fliQ) CIT40_26000(fliQ)
+            BGQ: X265_09010(fliQ) X265_14620(fliQ)
+            BGZ: XH91_07935(fliQ) XH91_12415(fliQ)
+            BSYM: CIT39_20370(fliQ) CIT39_25025(fliQ)
+            BBET: F8237_22435(fliQ) F8237_27265(fliQ)
+            BARH: WN72_32275(fliQ) WN72_39285(fliQ)
+            BVZ: BRAD3257_3308(fliQ)
+            BEL: BE61_42010(fliQ)
+            BDG: LPJ38_13270(fliQ) LPJ38_31150(fliQ)
+            BSEP: HAP48_0046760(fliQ)
+            BQB: J4P68_0005800(fliQ)
+            RPA: RPA3885(fliQ)
+            RPB: RPB_3774
+            RPC: RPC_1117 RPC_1520
+            RPD: RPD_1696
+            RPE: RPE_1178 RPE_1554
+            RPT: Rpal_4408
+            RPX: Rpdx1_1463
+            RBK: E0H22_18340(fliQ) E0H22_25440(fliQ)
+            NWI: Nwi_1135
+            NHA: Nham_1395
+            OCA: OCAR_5398(fliQ)
+            OCG: OCA5_c25800(fliQ)
+            OCO: OCA4_c25790(fliQ)
+            TRB: HB776_14310(fliQ) HB776_22875(fliQ)
+            BOP: AXW83_09675 AXW83_22275(fliQ)
+            BOS: BSY19_118 BSY19_3379(fliQ)
+            BVV: BHK69_01145(fliQ) BHK69_24330
+            BOI: BLM15_02490
+            BOF: FQV39_29595(fliQ)
+            BBK: BARBAKC583_1116(fliQ)
+            BCD: BARCL_0490(fliQ)
+            BANC: PU02_0130
+            BAPI: BBC0122_005560
+            BART: BJB15x_003420
+            BARA: BA1379B_007700
+            BARW: BWD162_011700
+            BARR: Bra60_008600
+            BARO: B11Cv2_008430
+            BARJ: BJB63x_003420
+            AZC: AZC_0653(fliQ)
+            APOL: K9D25_08520(fliQ)
+            MEA: Mex_1p0514 Mex_1p2725(fliQ)
+            MDI: METDI0670 METDI3338(fliQ)
+            MEX: Mext_0689 Mext_2605
+            MCH: Mchl_0700 Mchl_2828
+            MPO: Mpop_0663 Mpop_2635
+            MZA: B2G69_10205(fliQ) B2G69_20460
+            MRD: Mrad2831_1701 Mrad2831_2232
+            MET: M446_5152 M446_6512
+            MNO: Mnod_5535
+            MOR: MOC_2097 MOC_2648(fliQ)
+            META: Y590_02505(fliQ) Y590_12450
+            MAQU: Maq22A_1p33830(fliQ) Maq22A_c06495(fliQ)
+            MPHY: MCBMB27_01842
+            MEE: DA075_15445(fliQ) DA075_26075(fliQ)
+            METD: C0214_02995(fliQ) C0214_14675(fliQ)
+            METX: A3862_19635 A3862_22380
+            METS: DK389_18605(fliQ)
+            METI: DK427_18395(fliQ) DK427_19450(fliQ)
+            MMES: MMSR116_26840
+            MTEA: DK419_04095(fliQ) DK419_06520(fliQ)
+            MIND: mvi_00260(fliQ_1) mvi_48110(fliQ_2)
+            MOG: MMB17_00350(fliQ)
+            MTAD: M6G65_12145(fliQ)
+            MOC: BB934_15500(fliQ)
+            MIV: C4E04_03505(fliQ)
+            MICO: GDR74_16300(fliQ)
+            BID: Bind_3551
+            MSL: Msil_0048
+            MTUN: MTUNDRAET4_0054(fliQ)
+            MLG: CWB41_11110(fliQ)
+            RHJ: HZY79_03455
+            BBAR: RHAL1_00608(yscS)
+            CHEL: AL346_04080(fliQ)
+            CDQ: BOQ54_14925
+            HDN: Hden_3077
+            HDT: HYPDE_38558(fliQ)
+            HMC: HYPMC_4317
+            HNI: W911_03960(fliQ)
+            RVA: Rvan_2556
+            FIL: BN1229_v1_3606(fliQ)
+            FIY: BN1229_v1_3599(fliQ)
+            RHZ: RHPLAN_48560
+            NTD: EGO55_10945(fliQ)
+            CAEN: K5X80_00700(fliQ)
+            PHL: KKY_1849
+            DEQ: XM25_10340(FliQ)
+            DEI: C4375_15415(fliQ)
+            DEA: FPZ08_08425(fliQ)
+            DSAL: K1X15_11420(fliQ)
+            DEVO: H4N61_11225(fliQ)
+            MMYR: MXMO3_01559
+            YTI: FNA67_14090
+            BVR: BVIR_1009
+            BLAG: BLTE_05440(fliQ)
+            MPAR: F7D14_11290(fliQ)
+            MTW: CQW49_19710(fliQ)
+            CMET: K6K41_05045(fliQ)
+            PLEO: OHA_1_04432(fliQ)
+            HDI: HDIA_2662(fliQ)
+            AUA: M673_15525(fliQ)
+            AUZ: Sa4125_34630(fliQ)
+            AUB: LXB15_04365(fliQ)
+            BRN: D1F64_15685(fliQ)
+            THD: BHV28_02480(fliQ)
+            PSIN: CAK95_18275
+            NOH: G5V57_20565(fliQ)
+            TSO: IZ6_23300(fliQ)
+            RBM: TEF_09755
+            PSF: PSE_2627 PSE_4077
+            PPHR: APZ00_03975(fliQ) APZ00_15100
+            LAP: ACP90_10445 ACP90_14090(fliQ)
+            LABR: CHH27_06550(fliQ) CHH27_09945(fliQ)
+            LABP: FJ695_13615(fliQ) FJ695_17005(fliQ)
+            LABT: FIU93_16000(fliQ1) FIU93_19760(fliQ2)
+            LAGG: B0E33_22365 B0E33_25910
+            SIW: GH266_05890(fliQ)
+            PHR: C6569_10485
+            PSTG: E8M01_01230(fliQ)
+            ACUT: MRB58_01625
+            CCR: CC_1075
+            CCS: CCNA_01129(fliQ)
+            CAK: Caul_1382
+            CSE: Cseg_3178
+            CHQ: AQ619_12200
+            CMB: CSW64_05935(fliQ)
+            CFH: C1707_12750(fliQ) C1707_19065(fliQ)
+            CAUF: CSW63_17195(fliQ)
+            CAUL: KCG34_22810(fliQ)
+            PZU: PHZ_c0930(fliQ)
+            PHB: HYN04_08485(fliQ)
+            BSB: Bresu_3020
+            BRD: JL11_00765
+            BNE: DA69_09410
+            BRG: A4249_15230
+            BRL: BZG35_15340
+            BVC: CEP68_10505(fliQ)
+            BDM: EQG53_07715
+            BRF: E4M01_07675(fliQ)
+            BREV: E7T10_00150(fliQ)
+            BMED: GYM46_10220(fliQ)
+            BVY: NCTC9239_02464(fliQ_2)
+            BND: KWG56_12750(fliQ)
+            BPON: IFE19_03640(fliQ)
+            BGOE: IFJ75_12595(fliQ)
+            BVIT: JIP62_05700(fliQ)
+            BALB: M8231_01645(fliQ)
+            AEX: Astex_1418
+            TSV: DSM104635_02506(fliQ)
+            SIL: SPO0179(fliQ)
+            SIT: TM1040_2962(fliQ)
+            RUA: D1823_13970
+            RUT: FIU92_17240(fliQ)
+            JAN: Jann_4195(fliQ)
+            RDE: RD1_0256(fliQ)
+            RLI: RLO149_c043410(fliQ)
+            RPON: G3256_18270
+            DSH: Dshi_3250(fliQ)
+            KVL: KVU_1933(fliQ)
+            KVU: EIO_2405(fliQ)
+            KRO: BVG79_02067(fliQ)
+            PGA: PGA1_c35800(fliQ)
+            PGL: PGA2_c34000(fliQ)
+            PGD: Gal_03648
+            PHP: PhaeoP97_03367(fliQ)
+            PPIC: PhaeoP14_03389(fliQ)
+            PHQ: D1820_12870
+            OAT: OAN307_c29500(fliQ)
+            OAR: OA238_118p0430(fliQ)
+            OTM: OSB_32910(fliQ)
+            OCT: FTO60_16435
+            LMD: METH_20730
+            LEJ: ETW24_19230
+            LAQU: R2C4_17585
+            LEV: ETW23_20735
+            RED: roselon_01319
+            CID: P73_0096
+            CMAR: IMCC12053_119 IMCC12053_1715
+            CEH: CEW89_13225
+            MALG: MALG_03624 MALG_04562
+            CON: TQ29_00910
+            YPAC: CEW88_00770 CEW88_20870
+            YAN: AYJ57_22675
+            TPRO: Ga0080559_TMP1865
+            PABY: Ga0080574_TMP2327 Ga0080574_TMP71
+            SULZ: C1J03_22930
+            SULD: B5M07_04725
+            SPOT: G6548_14830(fliQ)
+            SMED: JNX03_20010(fliQ)
+            SINL: DSM14862_02534
+            TOM: BWR18_17540
+            RMM: ROSMUCSMR3_01296 ROSMUCSMR3_01705
+            ROK: RAK1035_0248 RAK1035_1483
+            RID: RIdsm_01394(fliQ)
+            AHT: ANTHELSMS3_01063(fliQ)
+            SAGU: CDO87_10385
+            THAA: CFI11_00550
+            OCD: FHY55_03430
+            MARU: FIU81_16525(fliQ)
+            RMH: LVO79_20010(fliQ)
+            MALU: KU6B_55110(fliQ)
+            TGL: HFZ77_18930(fliQ)
+            TMD: KUV46_08110
+            HAT: RC74_06715
+            PALX: GQA70_19535
+            LSAL: KBK07_16640(fliQ)
+            RSP: RSP_0064(fliQ) RSP_1328
+            RSH: Rsph17029_1699 Rsph17029_2989
+            RSQ: Rsph17025_1652 Rsph17025_2603
+            RSK: RSKD131_1379 RSKD131_2728
+            CAZT: LV780_07520(fliQ) LV780_15030
+            RCP: RCAP_rcc03517(fliQ)
+            RHP: LPB142_00230
+            RBL: B6K69_10055
+            PDE: Pden_2113
+            PAMI: JCM7686_3091
+            PYE: A6J80_07500
+            PCON: B0A89_06745
+            PZH: CX676_17295
+            PARO: CUV01_09645
+            PARU: CYR75_09940
+            PAMN: JCM7685_2599(fliQ)
+            PMUT: DPM13_05565
+            PARS: DRW48_01645
+            PARR: EOJ32_03515
+            PAAK: FIU66_01620
+            PKD: F8A10_08495
+            PPAN: ESD82_17540
+            PLIA: E4191_01480
+            PSAN: HGN31_10400
+            PMAU: CP157_02884
+            PTP: RCA23_c07680(fliQ)
+            RSU: NHU_03587
+            RHM: B5V46_16535
+            RHC: RGUI_2260
+            RMB: K529_015105
+            DAA: AKL17_0789
+            DON: BSK21_14730
+            THW: BMG03_01235 BMG03_03395
+            TEC: AKL02_000675 AKL02_002315(fliQ)
+            LVS: LOKVESSMR4R_03449(fliQ)
+            RBG: BG454_09380
+            GEH: HYN69_17820
+            GFU: KM031_07355
+            TAW: EI545_11765
+            SEDI: EBB79_21025
+            HML: HmaOT1_12560
+            BOO: E2K80_16930
+            PSEB: EOK75_05775
+            LIT: FPZ52_11330
+            PPRU: FDP22_23190
+            MON: G8E03_07470
+            PAMO: BAR1_17740
+            PSHQ: F3W81_14290
+            POZ: I0K15_14945
+            PALW: PSAL_025430
+            PPAF: I8N54_19800
+            PGV: SL003B_1549(fliQ) SL003B_3869(fliQ)
+            CACT: HZ995_06675
+            THAS: C6Y53_13160
+            HDH: G5B40_16995
+            FAP: GR316_06460
+            NSM: JO391_20075
+            ACRO: K3J57_14975
+            FAQ: G5B39_04230
+            AMAQ: GO499_15320
+            MMR: Mmar10_1932
+            GAK: X907_2042
+            HYT: HXX25_02945(fliQ)
+            HNE: HNE_0272(fliQ)
+            HBA: Hbal_0254
+            CBOT: ATE48_02990
+            HBC: AEM38_04195
+            ZMO: ZMO0648
+            ZMN: Za10_0618
+            ZMM: Zmob_1164
+            ZMB: ZZ6_0631
+            ZMI: ZCP4_0644
+            ZMC: A265_00637(fliQ)
+            ZMR: A254_00637(fliQ)
+            ZMP: Zymop_0582
+            NPP: PP1Y_AT34513
+            NPN: JI59_13075
+            NRE: BES08_12195
+            NOV: TQ38_001455 TQ38_003155(fliQ)
+            NOT: C7W88_02645
+            NOR: FA702_06245
+            NGF: FRF71_09350
+            NDR: HT578_18030
+            SAL: Sala_2925
+            SPHK: SKP52_19630
+            SPHP: LH20_18900
+            SMAG: AN936_19490
+            SMAZ: LH19_20325 LH19_23420
+            STER: AOA14_09675
+            SGI: SGRAN_4102(fliQ)
+            SPHQ: BWQ93_08990
+            SPHO: C3E99_16925
+            SPHX: E5675_00555(fliQ)
+            SPHU: SPPYR_3545(fliQ)
+            SWI: Swit_0216
+            SPHD: HY78_27080
+            RDI: CMV14_14115
+            SPHM: G432_05880 G432_06590
+            STAX: MC45_13290
+            SPHI: TS85_10980 TS85_19470
+            SSAN: NX02_20025
+            SNJ: A7E77_05895 A7E77_16495
+            SMY: BJP26_01460
+            SKR: BRX40_03080 BRX40_09285
+            SPLM: BXU08_08110 BXU08_13690
+            SPLK: AV944_03480
+            SPKC: KC8_10465 KC8_17100
+            SPHC: CVN68_08780 CVN68_14395(fliQ)
+            SPHF: DM480_07120(fliQ) DM480_16585
+            SPHA: D3Y57_04220
+            SPAU: DRN02_012150(fliQ)
+            SECH: B18_19005
+            SPAP: H3Z74_22010(fliQ)
+            SPAI: FPZ24_14795(fliQ)
+            SARI: H5J25_16960(fliQ)
+            SCHY: GVO57_01620 GVO57_04170(fliQ)
+            SSUA: FPZ54_06990(fliQ) FPZ54_15160(fliQ)
+            SBIN: SBA_ch1_12290(fliQ)
+            SAER: NEF64_00570(fliQ)
+            SJP: SJA_C1-30720(fliQ)
+            SINB: SIDU_12555
+            SCH: Sphch_2656
+            SSY: SLG_02820(fliQ)
+            SYB: TZ53_02450
+            SBD: ATN00_06720
+            SPMI: K663_13065
+            SPHB: EP837_02018
+            SPHR: BSY17_828(fliQ)
+            SPHT: K426_05415
+            SHYD: CJD35_03085(fliQ)
+            SYA: A6768_16070(fliQ)
+            SPYG: YGS_C1P3185 YGS_C2P0185
+            SUFL: FIL70_13615(fliQ)
+            SBAR: H5V43_11600(fliQ)
+            SPPH: KFK14_23250(fliQ)
+            CIJ: WG74_00045
+            SPHG: AZE99_12840
+            BLAS: BSY18_2576
+            BFW: B5J99_03840
+            SPHJ: BSL82_17210
+            SPZR: G5C33_02280(fliQ) G5C33_07800(fliQ)
+            HGN: E6W36_14535(fliQ)
+            PARJ: J4G78_02425(fliQ) J4G78_14815(fliQ)
+            PHAO: HF685_00820
+            SMIC: SmB9_37190(fliQ)
+            SPHS: ETR14_09015
+            SAND: H3309_04185
+            POQ: KZX46_16830(fliQ)
+            ALB: AEB_P1276
+            AAY: WYH_03136(fliQ)
+            AMX: AM2010_140 AM2010_1922
+            PMAS: NCF86_00805(fliQ)
+            CMAN: A9D14_06940
+            ERY: CP97_04515
+            QCI: NCF85_15680
+            ELQ: Ga0102493_111256
+            ERK: CD351_03900
+            ERR: DVR09_13715 DVR09_14655
+            ERF: FIU90_04070(fliQ)
+            PNS: A9D12_06120
+            PHZ: CHX26_03905
+            GOX: GOX1525
+            GOH: B932_0510
+            GOY: GLS_c16540(fliQ)
+            GAL: A0U94_01785
+            GTI: FXF46_08020
+            GSP: IGS75_09090
+            GFA: MKW11_07870(fliQ)
+            ACR: Acry_2131
+            AMV: ACMV_23760(fliQ)
+            GDI: GDI1658(fliQ)
+            GDJ: Gdia_3441
+            APER: A0U91_15195
+            AOT: AcetOri_orf00911
+            ACEK: FLP30_03245
+            ABG: Asbog_02332(fliQ)
+            KBA: A0U89_00635
+            RGI: RGI145_14860
+            ROS: CTJ15_21090
+            RMUC: FOB66_16895
+            RMT: IAI58_18065
+            NCH: A0U93_09930
+            NTN: D5366_07505(fliQ)
+            SSAM: E3D00_02535
+            BOB: GN304_07080
+            BOMB: GT348_09070
+            LCK: HN018_16890
+            PARZ: DTQ13_02460
+            SRF: LHU95_08505(fliQ)
+            RAP: RHOA_0595(fliQ) RHOA_PA0011(fliQ)
+            AZL: AZL_012090 AZL_e01140
+            ALI: AZOLI_1482(fliQ1) AZOLI_2834(fliQ3) AZOLI_p50048(fliQ2)
+            ABS: AZOBR_150179(fliQ2) AZOBR_40050(fliQ1) AZOBR_p410069(fliQ)
+            ABQ: ABAZ39_00980 ABAZ39_03980 ABAZ39_30610
+            ABF: AMK58_10045 AMK58_12805 AMK58_26250
+            ATI: AL072_03795 AL072_10380 AL072_28510
+            AHU: A6A40_06310 A6A40_11310 A6A40_12940
+            AZT: TSH58p_12520 TSH58p_15500 TSH58p_19180(fliQ)
+            AZM: DM194_05715 DM194_10880 DM194_25970(fliQ)
+            AZZ: DEW08_00215 DEW08_07840 DEW08_19230(fliQ)
+            AOZ: HUE56_11055 HUE56_16135 HUE56_23700(fliQ)
+            NAO: Y958_06060(fliQ)
+            NCB: C0V82_03145(fliQ)
+            SKT: IGS68_22755(fliQ)
+            SMUC: JL100_024365(fliQ)
+            SROE: JL101_002260(fliQ)
+            RRU: Rru_A2823
+            RRF: F11_14480
+            RCE: RC1_0194(fliQ) RC1_0893(fliQ)
+            RPM: RSPPHO_01382
+            MAG: amb0617
+            MGY: MGMSRv2__2983(fliQ)
+            MGRY: MSR1_33870(fliQ)
+            MAGX: XM1_0187p(fliQ) XM1_0203(fliQ)
+            MAGN: WV31_03435 WV31_11100
+            TMO: TMO_1124(yscS)
+            HJO: AY555_00055
+            FER: FNB15_19820(fliQ)
+            HTQ: FRZ44_35210(fliQ)
+            HADH: FRZ61_34410(fliQ)
+            DEX: HWD60_04925(fliQ)
+            TXI: TH3_03965
+            THAC: CSC3H3_04290(fliQ)
+            TII: DY252_17445(fliQ)
+            THAI: IT893_03950(fliQ)
+            MAGQ: MGMAQ_2220(fliQ)
+            ELIO: KO353_03980(fliQ)
+            NACI: NUH88_01985(fliQ)
+            PBR: PB2503_07964
+            MGM: Mmc1_0009
+            ECOG: FIV45_13280(fliQ)
+            MAI: MICA_1698(fliQ)
+            MAN: A11S_1620
+            APB: SAR116_0821
+            SNEA: NBZ79_11350(fliQ)
+            KOZ: KFF44_08005(fliQ)
+            BBA: Bd3324(fliQ)
+            BBAT: Bdt_3245(fliQ)
+            BBW: BDW_12185
+            BBAC: EP01_01850
+            BDQ: CIK05_13695(fliQ)
+            BDC: DOE51_16400(fliQ)
+            BDZ: DOM22_17325(fliQ)
+            BDK: HW988_16455(fliQ)
+            BEX: A11Q_611
+            BMX: BMS_0560(fliQ)
+            HAX: BALOs_0429(fliQ)
+            BSTO: C0V70_15315(fliQ)
+            SBF: JCM31447_03540(fliQ)
+            ACU: Atc_1494
+            ACZ: Acaty_c1263 Acaty_c1904
+            ATX: GCD22_01237(fliQ)
+            AFP: K1Y48_05400 K1Y48_05440
+            MAES: Ga0123461_0142
+            MFN: Ga0123462_2096
+            HTL: HPTL_1608(fliQ)
+            BSU: BSU16360(fliQ)
+            BSR: I33_1823(fliQ)
+            BSL: A7A1_3449
+            BSH: BSU6051_16360(fliQ)
+            BSY: I653_08410(fliQ)
+            BSUT: BSUB_01768(fliQ)
+            BSUL: BSUA_01768(fliQ)
+            BSUS: Q433_09340
+            BSO: BSNT_08149(fliQ)
+            BSN: BSn5_20295(fliQ)
+            BSQ: B657_16360(fliQ)
+            BSX: C663_1682(fliQ)
+            BSP: U712_08595
+            BSS: BSUW23_08430(fliQ)
+            BST: GYO_1991(fliQ)
+            BLI: BL01257(fliQ)
+            BLD: BLi01857(fliQ)
+            BLH: BaLi_c18910(fliQ)
+            BAY: RBAM_016200(fliQ)
+            BAQ: BACAU_1591(fliQ)
+            BYA: BANAU_1590(fliQ)
+            BAMP: B938_08410(fliQ)
+            BQY: MUS_1791(fliQ)
+            BAML: BAM5036_1557(fliQ)
+            BAMA: RBAU_1597(fliQ)
+            BAMN: BASU_1576(fliQ)
+            BAMB: BAPNAU_2131(fliQ)
+            BAMT: AJ82_09240
+            BAMY: V529_15770(fliQ)
+            BMP: NG74_01681(fliQ)
+            BAO: BAMF_1708(fliQ)
+            BAZ: BAMTA208_08960(fliQ)
+            BQL: LL3_01796(fliQ)
+            BXH: BAXH7_01825(fliQ)
+            BAMI: KSO_011250(fliQ)
+            BAMC: U471_16610
+            BAMF: U722_08580
+            BSIA: CWD84_13125(fliQ)
+            BAE: BATR1942_05980(fliQ)
+            BVM: B9C48_08270
+            BSON: S101395_03095
+            BHT: DIC78_01205(fliQ)
+            BMOJ: HC660_17010(fliQ)
+            BTEQ: G4P54_08540(fliQ)
+            BIQ: AN935_08535
+            BAN: BA_1713
+            BAR: GBAA_1713
+            BAT: BAS1590
+            BAH: BAMEG_2873
+            BAI: BAA_1788
+            BAX: H9401_1620
+            BANT: A16_17560
+            BANR: A16R_17750
+            BANS: BAPAT_1630
+            BANH: HYU01_08640
+            BANV: DJ46_530
+            BCE: BC1666
+            BCA: BCE_1787
+            BCZ: BCE33L1543(fliQ)
+            BCR: BCAH187_A1842
+            BCB: BCB4264_A1733
+            BCU: BCAH820_1764
+            BCG: BCG9842_B3611
+            BCQ: BCQ_1730(fliQ)
+            BCX: BCA_1727
+            BAL: BACI_c17170(fliQ)
+            BNC: BCN_1655
+            BCF: bcf_08415
+            BCER: BCK_00095(fliQ)
+            BCEF: BcrFT9_01404
+            BCY: Bcer98_1382
+            BTK: BT9727_1554(fliQ)
+            BTB: BMB171_C1532(fliQ)
+            BTT: HD73_1901
+            BTHR: YBT1520_09480(fliQ)
+            BTHI: BTK_09655(fliQ)
+            BTC: CT43_CH1591(fliQ)
+            BTF: YBT020_08995(fliQ)
+            BTM: MC28_0912
+            BTG: BTB_c17080(fliQ)
+            BTI: BTG_12405(fliQ)
+            BTN: BTF1_06055(fliQ)
+            BTHT: H175_ch1614
+            BTHU: YBT1518_09665(fliQ)
+            BTW: BF38_2889
+            BTHY: AQ980_21460
+            BWE: BcerKBAB4_1590
+            BWW: bwei_3304(fliQ)
+            BMYO: BG05_4252
+            BTY: Btoyo_4296
+            BBY: CY96_07490
+            BWD: CT694_09205
+            BTRO: FJR70_01050
+            BMOB: MLA2C4_08710
+            BNT: GSN03_08400(fliQ)
+            BPAC: LMD38_18050
+            BPU: BPUM_1535
+            BPUM: BW16_08540
+            BPUS: UP12_07975
+            BIF: N288_09780
+            BMET: BMMGA3_06190
+            BSM: BSM4216_1597
+            BGY: BGLY_1851(fliQ)
+            BWH: A9C19_11035
+            BXI: BK049_00400
+            BALT: CFN77_08360(fliQ)
+            BSAF: BSL056_07970
+            BFD: NCTC4823_02468(fliQ)
+            BDA: FSZ17_09955(fliQ)
+            BSHI: LGQ02_12645(fliQ)
+            BBAD: K7T73_06290(fliQ)
+            BCAB: EFK13_09010(fliQ)
+            BRY: M0696_08865(fliQ)
+            BJS: MY9_1784
+            BACI: B1NLA3E_18090
+            GST: HW35_00515
+            BACW: QR42_07835
+            BACP: SB24_01605
+            BACB: OY17_11180
+            BACO: OXB_2059
+            BACY: QF06_07210
+            BACL: BS34A_18040(fliQ)
+            BALM: BsLM_1734
+            BACS: AUL54_02440
+            BACQ: DOE78_08250(fliQ)
+            BACA: FAY30_11055(fliQ)
+            BCO: Bcell_2486
+            BHK: B4U37_10030
+            BCOH: BC6307_12535
+            BCIR: C2I06_03560(fliQ)
+            BMQ: BMQ_4177(fliQ)
+            BMD: BMD_4164(fliQ)
+            BMH: BMWSH_1050(fliQ)
+            BMEG: BG04_1094(fliQ)
+            BEO: BEH_18125
+            BFX: BC359_06865
+            PARH: I5S86_01990(fliQ) I5S86_21120(fliQ)
+            PKS: IE339_17120(fliQ)
+            BCK: BCO26_1148(fliQ)
+            BAG: Bcoa_0041
+            BCOA: BF29_177(fliQ)
+            BHA: BH2441(fliQ)
+            BCL: ABC2253(fliQ)
+            BLE: BleG1_2240
+            BKW: BkAM31D_14695(fliQ)
+            BGI: BGM20_02575
+            BPF: BpOF4_00110(fliQ)
+            BON: A361_09775
+            BKO: CKF48_00540(fliQ)
+            CGOT: J1899_09740(fliQ)
+            CSUA: IM538_10900(fliQ)
+            CFIR: NAF01_09280(fliQ)
+            CSOA: LIS82_11310(fliQ)
+            OIH: OB1572(fliQ)
+            OCN: CUC15_09240(fliQ)
+            OCB: CV093_09725(fliQ)
+            GKA: GK1235(fliQ)
+            GTE: GTCCBUS3UF5_14260
+            GTK: GT3570_05820
+            GTM: GT3921_13345
+            GLI: GLN3_16450
+            BCAL: CWI35_04085(fliQ)
+            GTN: GTNG_1088(fliQ)
+            GWC: GWCH70_1127
+            GYC: GYMC61_2019
+            GYA: GYMC52_1142
+            GCT: GC56T3_2318
+            GMC: GY4MC1_2672
+            GGH: GHH_c11600(fliQ)
+            GJF: M493_06270
+            GEA: GARCT_01243(fliQ)
+            GEL: IB49_16405
+            GSE: GT50_02340
+            GSR: GS3922_10345
+            GEJ: A0V43_03315
+            GZA: IC807_01780(fliQ)
+            GTH: Geoth_2685
+            PTL: AOT13_09160
+            PTB: DER53_10205(fliQ)
+            PCAL: BV455_00638(fliQ)
+            AFL: Aflv_1724(fliQ)
+            AGN: AFK25_05745
+            ANM: GFC28_1221(fliQ)
+            AAMY: GFC30_1528(fliQ)
+            ANL: GFC29_406(fliQ)
+            AND: GRQ40_06750(fliQ)
+            ACAI: ISX45_03440(fliQ)
+            ASED: IRT44_16400(fliQ)
+            AXL: AXY_14860(fliQ)
+            LSP: Bsph_1567(fliQ)
+            LGY: T479_05115
+            LFU: HR49_18440
+            LYS: LBYS11_05060(fliQ)
+            LYB: C3943_06195(fliQ)
+            LYZ: DCE79_04450(fliQ)
+            LYG: C1N55_06305(fliQ)
+            LPAK: GDS87_05415(fliQ)
+            LAGR: FJQ98_06180(fliQ)
+            LMAC: I6G82_13270(fliQ)
+            LYC: FH508_0005550(fliQ)
+            LCAP: ICJ70_19175(fliQ)
+            HHD: HBHAL_3049(fliQ)
+            HLI: HLI_01610(fliQ)
+            TAP: GZ22_06925
+            TAID: KS242_08060(fliQ)
+            VIR: X953_11870
+            VHL: BME96_10680
+            VIG: BKP57_19975
+            VNE: CFK40_12185(fliQ)
+            VPN: A21D_03635(fliQ)
+            VIM: GWK91_04555(fliQ)
+            VPT: KBP50_09710(fliQ)
+            FPN: ABE65_008700
+            FAR: ABE41_009775
+            SJE: AAV35_007000
+            APAK: AP3564_16130
+            BSJ: UP17_07855
+            BMUR: ABE28_008030
+            PBUT: DTO10_20660(fliQ)
+            PASA: BAOM_1677(fliQ)
+            PPSR: I6J18_06535(fliQ)
+            AQT: FN924_08405(fliQ)
+            BTHV: CQJ30_08320(fliQ)
+            PSYH: D0S48_05405(fliQ)
+            PSYO: PB01_06730(fliQ)
+            PRD: F7984_06890(fliQ)
+            GRC: GI584_11130(fliQ)
+            RUE: DT065_03195(fliQ)
+            SALE: EPH95_03105(fliQ)
+            SCIB: HUG20_10300(fliQ)
+            SCIA: HUG15_12890(fliQ)
+            POF: GS400_09240(fliQ)
+            NMK: CHR53_24610(fliQ)
+            NTM: BTDUT50_07430(fliQ)
+            MEKU: HUW50_19860(fliQ)
+            MSEM: GMB29_17340(fliQ)
+            MDG: K8L98_11070(fliQ)
+            MLIT: KDJ21_021135(fliQ)
+            AIA: AWH56_017375(fliQ)
+            BLEN: NCTC4824_02654(fliQ)
+            SEDD: ERJ70_08990(fliQ)
+            BVQ: FHE72_09885(fliQ)
+            RMF: D5E69_10200(fliQ)
+            BVJ: I5776_12640(fliQ)
+            BOU: I5818_15735(fliQ)
+            CTHU: HUR95_11790(fliQ)
+            BBEV: BBEV_1812(fliQ)
+            BSE: Bsel_1758
+            MCUI: G8O30_04950(fliQ)
+            PSUA: FLK61_32505(fliQ)
+            SLMS: MM221_00330(fliQ)
+            HYI: K2M58_02915
+            STEA: C0679_06790(fliQ)
+            LMO: lmo0677(fliQ)
+            LMN: LM5578_0756(fliQ)
+            LMY: LM5923_0711(fliQ)
+            LMT: LMRG_00365
+            LMOC: LMOSLCC5850_0679(fliQ)
+            LMOE: BN418_0783
+            LMOB: BN419_0788
+            LMOD: LMON_0682(fliQ)
+            LMOW: AX10_11935
+            LMOQ: LM6179_0988(fliQ)
+            LMR: LMR479A_0695
+            LMOM: IJ09_06940
+            LMF: LMOf2365_0713(fliQ)
+            LMC: Lm4b_00705
+            LMOG: BN389_07230
+            LMP: MUO_03730(fliQ)
+            LMOL: LMOL312_0689(fliQ)
+            LMOJ: LM220_04687
+            LMOZ: LM1816_00305(fliQ)
+            LMOX: AX24_00745
+            LMH: LMHCC_1948
+            LMQ: LMM7_0712(fliQ)
+            LML: lmo4a_0693(fliQ)
+            LMG: LMKG_01206
+            LMS: LMLG_0650
+            LMJ: LMOG_02064
+            LMW: LMOSLCC2755_0690(fliQ)
+            LMX: LMOSLCC2372_0689(fliQ)
+            LMZ: LMOSLCC2482_0733(fliQ)
+            LMON: LMOSLCC2376_0656(fliQ)
+            LMOS: LMOSLCC7179_0657(fliQ)
+            LMOO: LMOSLCC2378_0709(fliQ)
+            LMOY: LMOSLCC2479_0687(fliQ)
+            LMOT: LMOSLCC2540_0689(fliQ)
+            LMOA: LMOATCC19117_0713(fliQ)
+            LMOK: CQ02_03655
+            LMV: Y193_12345(fliQ)
+            LIN: lin0685
+            LWE: lwe0646
+            LSG: lse_0588(fliQ)
+            LIV: LIV_0617
+            LII: JL52_03370
+            LIW: AX25_03435
+            LIA: JL58_03465
+            LIO: JL53_04015
+            LGZ: NCTC10812_02081(fliQ)
+            LMAR: LAX80_003065(fliQ)
+            ESI: Exig_1863
+            EAT: EAT1b_2930
+            EAN: Eab7_1714(fliQ)
+            EXM: U719_10545
+            EXU: ESP131_12645
+            EAP: KB235_10775(fliQ)
+            EACE: KKI46_10475(fliQ)
+            EAUR: NMQ00_09420(fliQ)
+            BBE: BBR47_34660(fliQ)
+            BLR: BRLA_c032890(fliQ)
+            BFM: BP422_12720
+            BAGR: BA6348_13290(fliQ)
+            BRW: GOP56_08565(fliQ)
+            BCHS: JNE38_17855(fliQ)
+            BCOP: JD108_09900(fliQ)
+            PJD: Pjdr2_3439
+            GYM: GYMC10_4174
+            PPY: PPE_01900
+            PPM: PPSC2_09940(fliQ)
+            PPO: PPM_1900(fliQ)
+            PPOL: X809_10275
+            PPQ: PPSQR21_019800(fliQ)
+            PPOY: RE92_02345
+            PMS: KNP414_05803(fliQ)
+            PMQ: PM3016_5145
+            PMW: B2K_26630
+            PTA: HPL003_18220
+            PLV: ERIC2_c21530(fliQ)
+            PSAB: PSAB_14730
+            PDU: PDUR_16505
+            PBD: PBOR_21415
+            PGM: PGRAT_18550
+            POD: PODO_18395
+            PAEN: P40081_21815
+            PAEF: R50345_18770
+            PAEQ: R50912_19945
+            PSTE: PSTEL_16375
+            PAEA: R70723_19545
+            PAEE: R70331_18445
+            PAEH: H70357_21460
+            PAEJ: H70737_18750
+            PBJ: VN24_20920
+            PIH: UB51_12555
+            PRI: PRIO_4060
+            PSON: JI735_28055(fliQ)
+            PPEO: ABE82_10215
+            PNP: IJ22_12720
+            POW: IJ21_21640
+            PBV: AR543_11300
+            PXL: BS614_15080
+            PYG: AWM70_05035
+            PSWU: SY83_16100
+            PDH: B9T62_16525(fliQ)
+            PIB: BBD41_24650
+            PCX: LPB68_19905
+            PKB: B4V02_15275
+            PAIH: ASL14_01330
+            PVO: PVOR_22679
+            PLW: D5F53_09380(fliQ)
+            PLEN: EIM92_17780(fliQ)
+            PPSC: EHS13_15830(fliQ)
+            PLUT: EI981_17760(fliQ)
+            PALB: EJC50_15220(fliQ)
+            PCHI: PC41400_21365(fliQ)
+            PBK: Back11_22050(fliQ)
+            PPRT: ET464_03650(fliQ)
+            PBAC: HUB98_28045(fliQ)
+            PRZ: GZH47_03855(fliQ)
+            PLYC: GXP70_12650(fliQ)
+            PSOP: KP014_19795(fliQ)
+            PTRI: KDC22_19475(fliQ)
+            PALO: E6C60_2496
+            PCEL: HUB94_18690(fliQ)
+            PTJ: JRJ22_16645(fliQ)
+            PALR: HGI30_12350(fliQ)
+            TCO: Theco_2088
+            ANX: ACH33_07330
+            ASOC: CB4_01857(fliQ)
+            ATHE: K3F53_11540(fliQ)
+            COH: EAV92_05075(fliQ)
+            COHN: KCTCHS21_38240(fliQ)
+            CCHL: FPL14_02280(fliQ)
+            CHEB: HH215_09370(fliQ)
+            SACA: FFV09_19630(fliQ)
+            AAC: Aaci_1407
+            AAD: TC41_1344
+            AFX: JZ786_12190(fliQ)
+            AACO: K1I37_10150(fliQ)
+            ACUR: JZ785_08115(fliQ)
+            BTS: Btus_1510
+            KYR: CVV65_08835(fliQ)
+            TUM: CBW65_17015
+            TAB: CIG75_11980(fliQ)
+            EFF: skT53_02600(fliQ)
+            SIV: SSIL_2981(fliQ)
+            SSIL: SOLI23_03660
+            SOB: CSE16_04515(fliQ)
+            PLN: Plano_0139
+            PKU: AUO94_15925
+            PRT: AUC31_09065
+            PLL: I858_006690
+            PANA: BBH88_01855
+            PDG: BCM40_14980
+            PHC: BBI08_13655
+            PMAR: B0X71_14085
+            PPLA: BBI15_12900
+            PFAE: AJGP001_01180
+            PMAT: BBI11_02120
+            PDEC: H1Q58_01265(fliQ)
+            JEO: JMA_16950
+            KUR: ASO14_2137(fliQ)
+            KZO: NCTC404_00043(fliQ)
+            SPSY: AZE41_15465
+            SPOR: SporoP33_14340
+            SPOP: SporoP37_14670
+            SURE: SporoP32a_14960
+            SPOS: DV702_02655(fliQ)
+            SPAE: E2C16_08560(fliQ)
+            SPOO: J3U78_05705(fliQ)
+            RST: ATY39_03045
+            PAEK: D3873_04925(fliQ)
+            PLAY: DNR44_002435(fliQ)
+            VIJ: JNUCC6_20025(fliQ)
+            NTR: B0W44_15100
+            LNG: BSQ50_11090
+            LHW: BSQ49_10950
+            LMAL: LM596_11180(fliQ)
+            LRM: LRC_15960(fliQ)
+            LAGL: BEN83_03135
+            LACA: LAC1533_1883
+            ECAS: ECBG_01259
+            EGA: AL523_05635(fliQ)
+            EIE: ENLAB_19500
+            VPI: BW732_10415
+            VCP: H9L18_07670(fliQ)
+            VHY: G7082_12975(fliQ)
+            CRN: CAR_c19820(fliQ)
+            CAW: Q783_09065
+            CARC: NY10_1425
+            MARR: BKP56_10270
+            JEP: BW721_08180
+            JDA: BW727_101885(fliQ)
+            JEH: EJN90_06310(fliQ)
+            JAR: G7057_05620(fliQ)
+            JPO: G7058_05790(fliQ)
+            CAC: CA_C2149(fliQ)
+            CAE: SMB_G2182(fliQ)
+            CAY: CEA_G2163(fliQ)
+            CTET: BN906_01796
+            CNO: NT01CX_1917(fliQ)
+            CBO: CBO2647(fliQ)
+            CBA: CLB_2591(fliQ)
+            CBH: CLC_2522(fliQ)
+            CBY: CLM_3013(fliQ)
+            CBL: CLK_2035(fliQ)
+            CBK: CLL_A0856(fliQ)
+            CBB: CLD_1916(fliQ)
+            CBI: CLJ_B2879(fliQ)
+            CBN: CbC4_1144
+            CBT: CLH_0823(fliQ)
+            CBF: CLI_2714(fliQ)
+            CBM: CBF_2707(fliQ)
+            CBJ: H04402_02742
+            CBE: Cbei_4255
+            CBZ: Cbs_4255
+            CBEI: LF65_04775
+            CKL: CKL_1165(fliQ)
+            CKR: CKR_1063
+            CLJ: CLJU_c10350(fliQ)
+            CCB: Clocel_1729
+            CLB: Clo1100_2394
+            CSR: Cspa_c45090(fliQ)
+            CPAS: Clopa_2924
+            CPAT: CLPA_c18280(fliQ)
+            CPAE: CPAST_c18280(fliQ)
+            CSB: CLSA_c39230
+            CAH: CAETHG_3125(fliQ)
+            CLT: CM240_1630
+            CSQ: CSCA_3139
+            CLD: CLSPO_c27250(fliQ)
+            CACE: CACET_c20180(fliQ)
+            CCK: Ccar_25275
+            CBUT: ATN24_05050
+            CTYK: CTK_C20200(fliQ)
+            CEU: A7L45_14165
+            CTAE: BGI42_04070(fliQ)
+            CFM: BJL90_16485
+            CCHV: BTM20_05110
+            CARG: RSJ17_12680
+            CDRK: B9W14_04205
+            CIA: BEN51_06215
+            CSEP: CP523_02540(fliQ)
+            CDY: F3K33_21780
+            CCOH: SAMEA4530647_1428(fliQ)
+            CFER: D4Z93_09070(fliQ)
+            CGAS: J1C67_00840
+            CLOS: DMR38_04795(fliQ)
+            CCAA: KQH81_09430(fliQ)
+            CMAH: C1I91_08530(fliQ)
+            CRW: CROST_020960
+            CFB: CLFE_020870
+            CAUN: CLAUR_008980
+            CNN: CNEO_3812(fliQ)
+            CGEL: psyc5s11_46500(fliQ)
+            AMT: Amet_2706
+            AOE: Clos_1498
+            ASF: SFBM_1110
+            ASM: MOUSESFB_1037(fliQ)
+            ASO: SFBmNL_01187(fliQ)
+            ASB: RATSFB_0953(fliQ)
+            GFE: Gferi_00890
+            HHW: NCTC503_01131(fliQ)
+            CALE: FDN13_00750(fliQ)
+            CRS: FQB35_07660(fliQ)
+            CPRF: K7H06_07530(fliQ)
+            PBIF: KXZ80_11800(fliQ)
+            HHJ: NQ487_29135(fliQ)
+            CTH: Cthe_0482
+            CTX: Clo1313_1738
+            CCL: Clocl_1949
+            HSC: HVS_10325(fliQ)
+            RUK: A4V00_15005
+            CCE: Ccel_2034
+            RHER: EHE19_008355(fliQ)
+            CSS: Cst_c05790(fliQ)
+            CSD: Clst_0554(fliQ)
+            CTHD: CDO33_07775(fliQ)
+            CCEL: CCDG5_0371
+            FPLA: A4U99_03280
+            EHA: Ethha_2562
+            CAPR: EQM14_13410(fliQ)
+            OVA: OBV_39510(fliQ)
+            CAML: H6X83_08460(fliQ)
+            PFAA: MM59RIKEN_20460
+            CFEM: HCR03_09240(fliQ)
+            ACOL: K5I23_13570(fliQ)
+            BPB: bpr_I1377(fliQ)
+            BFI: CIY_21080
+            BHU: bhn_I1425
+            CLE: Clole_2442
+            CEW: EKH84_14825(fliQ)
+            RHO: RHOM_07030
+            RIX: RO1_09520
+            RIM: ROI_21100
+            CPY: Cphy_2698
+            LACY: A4V08_31160
+            CSH: Closa_3451
+            HSD: SD1D_0858
+            CPRO: CPRO_28420(fliQ)
+            PXV: FXF36_11740(fliQ)
+            ANR: Ana3638_15925(fliQ)
+            ACEL: acsn021_28000(fliQ)
+            ACHT: bsdcttw_31920(fliQ)
+            EEL: EUBELI_00827
+            CBOL: CGC65_02205(fliQ)
+            WCP: H9Q76_07355(fliQ)
+            SSUN: H9Q77_09445(fliQ)
+            ERE: EUBREC_1791
+            ERT: EUR_13750
+            ERA: ERE_27940
+            LBW: C3V36_13385(fliQ)
+            CDF: CD630_02610(fliQ)
+            PDC: CDIF630_00385(fliQ)
+            CDC: CD196_0278(fliQ)
+            CDL: CDR20291_0265(fliQ)
+            PDF: CD630DERM_02610(fliQ)
+            EAC: EAL2_c13510(fliQ)
+            CST: CLOST_1722(fliQ)
+            PSOR: RSJ16_13430
+            TEM: JW646_03600(fliQ)
+            TGC: L0P85_04700(fliQ)
+            TEB: T8CH_2172(fliQ)
+            STH: STH2990(fliQ)
+            SWO: Swol_0866
+            SLP: Slip_0970
+            SALQ: SYNTR_0587
+            CALK: HUE98_06430(fliQ)
+            DSY: DSY2977
+            DDH: Desde_3513
+            DDL: Desdi_2860
+            DMT: DESME_12655
+            SGY: Sgly_0607
+            DOR: Desor_4878
+            DAI: Desaci_3815
+            DMI: Desmer_3904
+            DED: DHBDCA_p1523(fliQ)
+            DEC: DCF50_p1536(fliQ)
+            DRS: DEHRE_11475
+            DCA: Desca_1785
+            PTH: PTH_2075(FliQ)
+            DRM: Dred_2395
+            DRU: Desru_1251
+            DFG: B0537_12410
+            DAE: Dtox_0701
+            DKU: Desku_1771
+            DAU: Daud_1751
+            TFR: BR63_05175(fliQ)
+            FWA: DCMF_13570
+            AACX: DEACI_3779
+            TJR: TherJR_1525
+            DGI: Desgi_2216
+            HMO: HM1_2240(fliQ)
+            HCV: FTV88_2086(fliQ)
+            AWO: Awo_c25090(fliQ)
+            AWI: CHL1_001026(fliQ)
+            CBAR: PATL70BA_0453(fliQ)
+            VGU: HYG85_22020(fliQ)
+            VPY: HZI73_13500(fliQ)
+            ACAE: HYG86_17450(fliQ)
+            TMR: Tmar_0993
+            THEF: E1B22_08630(fliQ)
+            THEP: DYI95_004935(fliQ)
+            SAY: TPY_2381
+            SAP: Sulac_3138
+            STHR: BXT84_14235
+            CTHM: CFE_1578
+            LASA: L9O85_03855(fliQ)
+            AMIJ: EQM06_01490
+            AMIC: Ami3637_05760(fliQ)
+            ABUT: Ami103574_03210
+            BPRS: CK3_11040
+            TTE: TTE1425(FliQ)
+            TEX: Teth514_1676
+            THX: Thet_1224
+            TPD: Teth39_1240
+            TIT: Thit_1218
+            TMT: Tmath_1269
+            TBO: Thebr_1269
+            TWI: Thewi_1380
+            TKI: TKV_c13440(fliQ)
+            CHY: CHY_1006(fliQ)
+            MTA: Moth_0787
+            MTHO: MOTHE_c07320(fliQ)
+            MTHZ: MOTHA_c08260(fliQ)
+            ADG: Adeg_2032
+            TPZ: Tph_c10990(fliQ)
+            GEK: kuro4_17110(fliQ)
+            CSC: Csac_1274
+            ATE: Athe_2156
+            COB: COB47_1937
+            CHD: Calhy_0600
+            COW: Calow_1846
+            CKI: Calkr_0423
+            CLC: Calla_1938
+            CKN: Calkro_0479
+            CCHA: ELD05_03380(fliQ)
+            CDIA: CaldiYA01_04370
+            TTM: Tthe_1439
+            TTO: Thethe_01404
+            TXY: Thexy_1316
+            TSH: Tsac_1797
+            TNR: Thena_0021
+            TACI: TDSAC_0021
+            MAS: Mahau_0871
+            TEP: TepRe1_1238
+            TAE: TepiRe1_1348(fliQ)
+            TOC: Toce_1114
+            NTH: Nther_1410
+            NCD: ACONDI_00930
+            HOR: Hore_16710
+            HPK: Hprae_0561
+            HALS: D7D81_05300(fliQ)
+            IFN: GM661_02755(fliQ)
+            AAR: Acear_1627
+            HHL: Halha_0670
+            AFT: BBF96_10970
+            KME: H0A61_02280
+            CAD: Curi_c15850(fliQ)
+            SPOA: EQM13_08505(fliQ)
+            KPAR: JL105_05350(fliQ)
+            CAZO: G3A45_01965(fliQ)
+            SEDZ: JYG23_07535(fliQ)
+            SSG: Selsp_1684
+            SRI: SELR_05540(fliQ)
+            SELE: ADJ74_01980
+            SELO: AXE86_08285
+            SELT: BCS37_08590
+            PUF: UFO1_2564
+            PFT: JBW_01981
+            MANA: MAMMFC1_03880(fliQ)
+            STED: SPTER_18330
+            LPIL: LIP_1668
+            PSIC: J4E96_02295(fliQ)
+            LEIF: HF024_19190
+            LSE: F1C12_14920
+            MIM: AKG07_04665(fliQ)
+            MIX: AB663_002649
+            MIP: AXH82_10555(fliQ)
+            MPAL: BO218_11965(fliQ)
+            MICR: BMW26_09275(fliQ)
+            MFOL: DXT68_09105(fliQ)
+            MPRT: ET475_08725(fliQ)
+            MSED: E3O41_04875(fliQ)
+            MOY: CVS54_00975
+            MICS: C1N74_15090(fliQ)
+            CUM: NI26_07725(fliQ)
+            CUB: BJK06_17160
+            CUG: C1N91_07655(fliQ)
+            CQF: GBG65_16070(fliQ)
+            MVD: AWU67_07560(fliQ)
+            FRP: AX769_05590(fliQ)
+            ASOI: MTP13_05855
+            CART: PA27867_1530
+            CRY: B7495_07445(fliQ)
+            SALC: C2138_13160(fliQ)
+            SALD: FVA74_00445(fliQ)
+            MANT: BHD05_02295(fliQ)
+            FRN: F1C15_07640(fliQ)
+            GLN: F1C58_15640(fliQ)
+            ARL: AFL94_06735(fliQ)
+            ARE: AL755_00390(fliQ)
+            AAQ: AOC05_15935(fliQ)
+            ARH: AHiyo8_23360
+            ARY: ATC04_11245(fliQ)
+            ARZ: AUT26_04240(fliQ)
+            ARX: ARZXY2_3039(fliQ)
+            AAGI: NCTC2676_1_00428(fliQ)
+            AJG: KKR91_02285(fliQ)
+            ASUF: MNQ99_05540(fliQ)
+            PUE: FV140_05025(fliQ)
+            ACH: Achl_2975
+            GLU: F0M17_06885(fliQ)
+            SATK: SA2016_0741
+            JDE: Jden_2010
+            CET: B8281_18475
+            SKE: Sked_31050
+            SANW: G7063_12210(fliQ)
+            CFI: Celf_0691
+            CGA: Celgi_0476
+            CEJ: GC089_15235(fliQ)
+            CELH: GXP71_13075(fliQ)
+            CIRA: LFM56_14865(fliQ)
+            OEK: FFI11_007900
+            TEH: GKE56_09060(fliQ)
+            PHW: G7075_13585(fliQ)
+            DCO: SAMEA4475696_2300(fliQ)
+            AUS: IPK37_10900(fliQ)
+            GEZ: FE251_01425(fliQ)
+            GYU: FE374_02550(fliQ)
+            DEM: LGT36_011565(fliQ)
+            NCA: Noca_0742
+            NOY: EXE57_08870(fliQ)
+            NOI: FCL41_14455
+            NDP: E2C04_15030
+            NSN: EXE58_07030(fliQ)
+            NANO: G5V58_06420(fliQ)
+            NARO: CFH99_05215(fliQ)
+            NOQ: LN652_14260(fliQ)
+            NPS: KRR39_01100(fliQ)
+            PSIM: KR76_05255
+            ACE: Acel_0858
+            GOB: Gobs_0961
+            BSD: BLASA_0826(fliQ)
+            BLAP: MVA48_11685(fliQ)
+            MMAR: MODMU_1016(fliQ)
+            KRA: Krad_1667
+            APRE: CNX65_11870(fliQ)
+            AMI: Amir_2330
+            ASE: ACPL_2599 ACPL_427
+            AMS: AMIS_2110
+            ACTN: L083_4317
+            AFS: AFR_10610 AFR_19185 AFR_31095
+            ACTS: ACWT_0312 ACWT_2948
+            AIH: Aiant_45030(fliQ)
+            ACTR: Asp14428_01260(fliQ_1) Asp14428_24090(fliQ_2)
+            DVC: Dvina_47075
+            CCAZ: COUCH_24490(fliQ) COUCH_29060(fliQ)
+            MCU: HMPREF0573_10881
+            JTL: M6D93_16930
+            BSOL: FSW04_04160(fliQ)
+            CWO: Cwoe_0067
+            PARN: NBH00_00410(fliQ)
+            SBAE: DSM104329_00107(fliQ)
+            AFO: Afer_0156
+            ATQ: GH723_05780(fliQ)
+            ERZ: ER308_17850(fliQ)
+            EUZ: DVS28_a1158
+            MBF: BHV42_06940
+            TRO: trd_A0035(fliQ)
+            STI: Sthe_0576
+            LEK: hrd7_17630(fliQ)
+            TBH: Tbon_04215(fliQ)
+            CCZ: CCALI_00028
+            NPY: NPRO_17920
+            OTE: Oter_0408
+            OBG: Verru16b_02198(fliQ)
+            VBH: CMV30_06680
+            OBT: OPIT5_24900
+            VBS: EGM51_08295
+            RBA: RB1344(fliQ)
+            PSL: Psta_4356
+            PIR: VN12_17440(fliQ)
+            RUL: UC8_49330(fliQ)
+            RML: FF011L_45680(fliQ)
+            MFF: MFFC18_32640(fliQ_1)
+            ROL: CA51_51600(fliQ)
+            AHEL: Q31a_61250(fliQ)
+            LCRE: Pla8534_54490(fliQ)
+            AAGG: ETAA8_42560(fliQ)
+            BVO: Pan97_14410(fliQ)
+            RLC: K227x_09320(fliQ)
+            TTF: THTE_1111
+            LPAV: PLANPX_4135
+            AMUC: Pan181_14920(fliQ)
+            PND: Pla175_15910(fliQ)
+            AMOB: HG15A2_33730(fliQ)
+            PLM: Plim_4066
+            PEH: Spb1_06170(fliQ)
+            PBS: Plabr_2473
+            PLS: VT03_26895(fliQ)
+            PLH: VT85_23075
+            FMR: Fuma_03748(fliQ)
+            GMR: GmarT_21400(fliQ)
+            GIM: F1728_03685(fliQ)
+            GPN: Pan110_20760(fliQ)
+            MRI: Mal4_46030(fliQ_1) Mal4_50500(fliQ_2)
+            SDYN: Mal52_01060(fliQ)
+            PLON: Pla110_08340(fliQ)
+            GES: VT84_14630(fliQ)
+            GOG: C1280_09715
+            GMS: SOIL9_13420
+            LRS: PX52LOC_00174
+            FTJ: FTUN_1923
+            IPA: Isop_2318
+            SACI: Sinac_7416
+            PBOR: BSF38_03653(fliQ)
+            AGV: OJF2_43040(fliQ)
+            KST: KSMBR1_0576(fliQ)
+            BROC: IPI25_02970
+            BPIT: BPIT_24060
+            PHM: PSMK_23510(fliQ)
+            PCOR: KS4_12280(fliQ)
+            MCAD: Pan265_20320(fliQ)
+            ALUS: STSP2_00043(fliQ)
+            HBS: IPV69_09730(fliQ)
+            UAM: UABAM_03357
+            BBU: BB_0274(fliQ)
+            BBZ: BbuZS7_0280(fliQ)
+            BBN: BbuN40_0274(fliQ)
+            BBJ: BbuJD1_0274(fliQ)
+            BBUR: L144_01350
+            BGA: BG0277(fliQ)
+            BGB: KK9_0280(fliQ)
+            BGN: BgCN_0279
+            BGS: X921_02930
+            BGC: BLA33_02925
+            BAF: BAPKO_0284(fliQ)
+            BAFZ: BafPKo_0276(fliQ)
+            BAFH: BafHLJ01_0300(fliQ)
+            BAFT: P612_01375
+            BAFE: BAFK78_270(fliQ)
+            BBS: BbiDN127_0274(fliQ)
+            BVT: P613_01400
+            BCHI: OY14_01355
+            BMAY: A7X70_01365
+            BTU: BT0274
+            BHR: BH0274
+            BHI: L283_01355
+            BDU: BDU_277(fliQ)
+            BRE: BRE_281(fliQ)
+            BCW: Q7M_279
+            BMO: I871_01460
+            BMIY: RJ61_01340
+            BPAK: X966_01380
+            BANE: N187_01320
+            BTUR: DB313_01415(fliQ)
+            BMAT: DB723_01350(fliQ)
+            BCOI: bcCo53_000273(fliQ)
+            BPUR: bpuSUM_000274(fliQ)
+            TPA: TP_0717
+            TPW: TPANIC_0717(fliQ)
+            TPP: TPASS_0717(fliQ)
+            TPU: TPADAL_0717(fliQ)
+            TPH: TPChic_0717(fliQ)
+            TPO: TPAMA_0717(fliQ)
+            TPAS: TPSea814_000717
+            TPC: TPECDC2_0717(fliQ)
+            TPG: TPEGAU_0717(fliQ)
+            TPM: TPESAMD_0717(fliQ)
+            TPB: TPFB_0717(fliQ)
+            TDE: TDE_0052(fliQ)
+            TSU: Tresu_1539
+            TBE: Trebr_1138
+            TPI: TREPR_2852(fliQ)
+            TPL: TPCCA_0717(fliQ)
+            TPED: TPE_1119(fliQ)
+            TPK: JO40_03830
+            TRM: JO41_09485
+            TPHG: FUT81_14395(fliQ)
+            TRZ: GWP43_03890(fliQ)
+            TRC: DYE49_05040(fliQ)
+            TRI: DYE50_07650(fliQ)
+            TPAV: HRQ91_06325(fliQ)
+            TMED: DWB79_07975(fliQ)
+            TPER: IWA51_06765(fliQ)
+            TSK: HRI97_07935(fliQ)
+            BPAA: K7I13_00090(fliQ)
+            SSM: Spirs_1579
+            STA: STHERM_c09270
+            STQ: Spith_0952
+            SFC: Spiaf_2088
+            SPER: EW093_15450(fliQ)
+            SLR: L21SP2_1197
+            OCK: EXM22_07700(fliQ)
+            TAZ: TREAZ_0175(fliQ)
+            SCD: Spica_1528
+            BHC: JFL75_15080(fliQ)
+            LIL: LA_2610(fliQ)
+            LIE: LIF_A2138(fliQ)
+            LIC: LIC_11373(fliQ)
+            LIS: LIL_11493(fliQ)
+            LBJ: LBJ_1627(fliQ)
+            LBL: LBL_1845(fliQ)
+            LBI: LEPBI_I2549(fliQ)
+            LBF: LBF_2469(fliQ)
+            LST: LSS_02634
+            LAJ: A0128_11630
+            LMAY: DPV73_12350(fliQ)
+            LKM: EFP84_03545(fliQ)
+            LWL: FHG68_12275(fliQ)
+            LKB: LPTSP3_g08650(fliQ)
+            LNO: MAL08_06835(fliQ)
+            TPX: Turpa_3652
+            BHY: BHWA1_00344(fliQ)
+            BHD: BHYOB78_01270
+            BRM: Bmur_0185
+            BPO: BP951000_2193(fliO)
+            BPJ: B2904_orf1106(fliQ)
+            BPIP: BPP43_04155
+            BPW: WESB_1226(fliQ)
+            BIP: Bint_1332(fliQ)
+            BHP: BHAMNSH16_13845
+            ABA: Acid345_1641
+            ACA: ACP_0247(fliQ)
+            ACM: AciX9_4135
+            GRW: FTO74_11425
+            TSA: AciPR4_1824
+            TRS: Terro_1839
+            TALB: FTW19_15875
+            ABAS: ACPOL_0128
+            EDA: GWR55_04905
+            ADIN: H7849_09775
+            SUS: Acid_7462
+            PFER: IRI77_02445 IRI77_33360
+            CTM: Cabther_B0539
+            CVL: J8C06_13035(fliQ)
+            CHLO: J8C02_11270(fliQ)
+            ABAC: LuPra_03656(fliQ)
+            SCOR: J3U87_08150(fliQ)
+            TAI: Taci_1318
+            TLI: Tlie_0101
+            AMO: Anamo_0280
+            SBR: SY1_08250
+            GAU: GAU_0317(fliQ)
+            GPH: GEMMAAP_02305
+            GGR: HKW67_13615(fliQ)
+            GBA: J421_0201
+            SRU: SRU_2587(fliQ)
+            SRM: SRM_02807(fliQ)
+            RMR: Rmar_0764
+            RMG: Rhom172_2118
+            RBAR: AWN76_017440
+            IAL: IALB_2528(fliQ)
+            MRO: MROS_2144
+            AAE: aq_1962(fliQ)
+            HYA: HY04AAS1_0656
+            HHO: HydHO_0646
+            HYS: HydSN_0661
+            TAL: Thal_1131
+            TRD: THERU_08265
+            SUL: SYO3AOP1_1633
+            SAF: SULAZ_1355(fliQ)
+            PMX: PERMA_0708(fliQ)
+            TTK: TST_0645(fliQ)
+            TAM: Theam_1442
+            DTE: Dester_1241
+            TMA: TM0697
+            TMM: Tmari_0697
+            TMI: THEMA_01180
+            TMW: THMA_0712
+            TMQ: THMB_0712
+            TMX: THMC_0712
+            TPT: Tpet_0233
+            TNP: Tnap_0494
+            TRQ: TRQ2_0231
+            TNA: CTN_1888
+            THQ: T2812B_01175
+            THZ: CELL2_01210
+            THR: TRQ7_01185
+            TLE: Tlet_0626
+            TTA: Theth_0697
+            PHY: AJ81_00775
+            TME: Tmel_0928
+            TAF: THA_1195(fliQ)
+            THP: BG95_05415
+            THER: Y592_05495
+            TFE: JYK00_03245(fliQ)
+            FNO: Fnod_0695
+            FPE: Ferpe_0974
+            FIA: NA23_04800(fliQ)
+            OCY: OSSY52_14410
+            PMO: Pmob_1395
+            MPZ: Marpi_0720
+            MARN: LN42_04050
+            DTN: DTL3_1609
+            ASAC: ATHSA_0137
+            CPO: COPRO5265_0334
+            DIN: Selin_1369
+            DDF: DEFDS_1713(fliQ)
+            DAP: Dacet_0296
+            GTL: EP073_02940(fliQ)
+            CNI: Calni_1331
+            MSCH: N508_000736
+            CABY: Cabys_1486(fliQ)
+            TYE: THEYE_A2078(fliQ)
+            DTP: JZK55_13820(fliQ)
+            NDE: NIDE2303(fliQ)
+            NMV: NITMOv2_2198(fliQ)
+            NIO: NITINOP_2142(fliQ)
+            NKF: Nkreftii_002648
+            NIF: W02_19440(fliQ)
+            LFC: LFE_0283(fliQ)
+            LFI: LFML04_0240
+            LFP: Y981_01325
+            LEG: ABH19_01335
+            TID: Thein_0184
+            TOP: TOPB45_1332
+            TCM: HL41_02620
+            THET: F1847_04980(fliQ)
+            CTHI: THC_0352
+            TAV: G4V39_10355(fliQ)
+            TMAI: FVE67_01375(fliQ)
+            NLI: G3M70_12915(fliQ)
+            MOX: DAMO_1738(fliQ)
+REFERENCE   PMID:9324257
+  AUTHORS   Ohnishi K, Fan F, Schoenhals GJ, Kihara M, Macnab RM
+  TITLE     The FliO, FliP, FliQ, and FliR proteins of Salmonella typhimurium: putative components for flagellar assembly.
+  JOURNAL   J Bacteriol 179:6092-9 (1997)
+            DOI:10.1128/JB.179.19.6092-6099.1997
+  SEQUENCE  [stm:STM1980]
+///

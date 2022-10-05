@@ -1,0 +1,213 @@
+ENTRY       K07698                      KO
+SYMBOL      kinC
+NAME        two-component system, sporulation sensor kinase C [EC:2.7.13.3]
+PATHWAY     map02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K07698  kinC; two-component system, sporulation sensor kinase C
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases
+                K07698  kinC; two-component system, sporulation sensor kinase C
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K07698  kinC; two-component system, sporulation sensor kinase C
+            Enzymes [BR:ko01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 K07698  kinC; two-component system, sporulation sensor kinase C
+            Protein kinases [BR:ko01001]
+             Histidine kinases
+              Spo family [OT]
+               K07698  kinC; two-component system, sporulation sensor kinase C
+            Two-component system [BR:ko02022]
+             Spo family
+              KinABCDE-Spo0FA (sporulation control)
+               K07698  kinC; two-component system, sporulation sensor kinase C
+DBLINKS     COG: COG0642
+            GO: 0000155
+GENES       APRS: BI364_00835
+            SBA: Sulba_2416
+            SHAL: SHALO_2883
+            AELL: AELL_0676
+            ADZ: ADFLV_0668
+            ARC: ABLL_0654
+            ALP: LPB137_01755
+            PSEL: GM415_15370
+            BSU: BSU14490(kinC)
+            BSR: I33_1627(kinC)
+            BSL: A7A1_0579
+            BSH: BSU6051_14490(kinC)
+            BSY: I653_07440
+            BSUT: BSUB_01576(kinC)
+            BSUL: BSUA_01576(kinC)
+            BSUS: Q433_08295
+            BSO: BSNT_07947(kinC)
+            BSN: BSn5_19315
+            BSQ: B657_14490(kinC)
+            BSX: C663_1492(kinC)
+            BSP: U712_07610
+            BSS: BSUW23_07450(kinC)
+            BST: GYO_1785(kinC)
+            BLI: BL01611(kinC)
+            BLD: BLi01665(kinC)
+            BLH: BaLi_c17000(kinC)
+            BAY: RBAM_014230
+            BAQ: BACAU_1397(kinC)
+            BYA: BANAU_1359(kinC)
+            BAMP: B938_07410
+            BQY: MUS_1534(kinC1)
+            BAML: BAM5036_1361(kinC)
+            BAMA: RBAU_1406(kinC)
+            BAMN: BASU_1385(kinC)
+            BAMB: BAPNAU_2333(kinC1)
+            BAMT: AJ82_08170
+            BAMY: V529_13800(kinC)
+            BMP: NG74_01481(kinA_2)
+            BAO: BAMF_1523(kinC)
+            BAZ: BAMTA208_09905(kinC)
+            BQL: LL3_01553(kinC)
+            BXH: BAXH7_02021(kinC)
+            BAMI: KSO_012245
+            BAMC: U471_14540
+            BAMF: U722_07575
+            BSIA: CWD84_14130
+            BAE: BATR1942_05010
+            BVM: B9C48_07275
+            BSON: S101395_03286(kinC)
+            BHT: DIC78_02165
+            BMOJ: HC660_15140(kinC)
+            BTEQ: G4P54_07580(kinC)
+            BIQ: AN935_07560
+            BPU: BPUM_1345
+            BPUM: BW16_07555
+            BPUS: UP12_07010
+            BGY: BGLY_1658(kinC)
+            BXI: BK049_01340
+            BALT: CFN77_07375
+            BSAF: BSL056_06985
+            BIT: BIS30_18055
+            BCAB: EFK13_08045(kinC)
+            BRY: M0696_07910(kinC)
+            BJS: MY9_1586
+            BACW: QR42_06870
+            BACP: SB24_02580
+            BACB: OY17_10210
+            BACY: QF06_06265
+            BACL: BS34A_16080(kinC)
+            BALM: BsLM_1539
+            BACS: AUL54_03425
+            BACQ: DOE78_14875
+            BMQ: BMQ_1263(kin)
+            BMD: BMD_1247(kin)
+            BMH: BMWSH_3976
+            BMEG: BG04_3562
+            BEO: BEH_06785
+            BFX: BC359_19280
+            BCK: BCO26_0923
+            BAG: Bcoa_0259
+            BCOA: BF29_3440
+            BGI: BGM20_01610
+            BPF: BpOF4_07700(kinE)
+            CSUA: IM538_08915
+            FAR: ABE41_005600
+            BSJ: UP17_06675
+            BMUR: ABE28_006820
+            PBUT: DTO10_19375
+            PFRI: L8956_07235
+            AQT: FN924_05430
+            BTHV: CQJ30_06250
+            NDT: L1999_04945
+            MDG: K8L98_09925
+            AIA: AWH56_019350
+            BVQ: FHE72_10570
+            RMF: D5E69_10820
+            BVJ: I5776_10285
+            BOU: I5818_12405 I5818_17025
+            MCUI: G8O30_01110
+            STEA: C0679_09335
+            GYM: GYMC10_5622
+            PMS: KNP414_07208
+            PMQ: PM3016_6779
+            PMW: B2K_34190
+            PAEA: R70723_02665
+            PAEE: R70331_02610
+            PVO: PVOR_30393
+            PLW: D5F53_01865
+            PPSC: EHS13_28910
+            PALB: EJC50_25645
+            PALO: E6C60_3591
+            PLN: Plano_2071
+            PKU: AUO94_05330
+            PLL: I858_012475
+            PHC: BBI08_07610
+            RST: ATY39_01715
+            PLAY: DNR44_009300
+            VIJ: JNUCC6_18900
+            TVU: AB849_005065
+            KPUL: GXN76_15865
+            CCE: Ccel_2145
+            CCT: CC1_12340
+            BYL: A4V09_21570
+            BPRO: PMF13cell1_01122(zraS)
+            SALQ: SYNTR_0036
+            DMT: DESME_02405 DESME_04435
+            DOR: Desor_0308 Desor_2860 Desor_3818
+            DAI: Desaci_0805 Desaci_0831 Desaci_2504 Desaci_2646
+            DMI: Desmer_0308 Desmer_1319 Desmer_3340
+            PTH: PTH_1778
+            DRM: Dred_1745 Dred_3094
+            DRU: Desru_3403 Desru_3638
+            DAE: Dtox_3081 Dtox_3426
+            TFR: BR63_18300
+            FWA: DCMF_21555
+            DGI: Desgi_0939
+            VPY: HZI73_02795
+            NTH: Nther_0076
+            AFT: BBF96_04185
+            PUF: UFO1_0025 UFO1_2115 UFO1_3660
+            PFT: JBW_03143 JBW_03236 JBW_03563
+            MANA: MAMMFC1_00740(kinE_2) MAMMFC1_01006(kinA_3) MAMMFC1_01124(kinA_4) MAMMFC1_01191(kinE_4)
+            STED: SPTER_07440(sasA_2) SPTER_07600(sasA_3) SPTER_07650(sasA_4) SPTER_31330(sasA_14) SPTER_36640(kinA)
+            ACIT: HPK19_05425
+            CYN: Cyan7425_1793
+            PSUB: Pelsub_P0339
+            PIR: VN12_09490(zraS_4)
+            RUL: UC8_23310(zraS_2) UC8_39960(kinA_2)
+            ROL: CA51_09030(kinA_1) CA51_42400(zraS_4)
+            AHEL: Q31a_15280(kinD_1)
+            PBS: Plabr_3070
+            PLS: VT03_03770(kinA_1)
+            FMR: Fuma_03320(virA_1) Fuma_03888(kinA_2)
+            GMR: GmarT_18330(zraS_3)
+            MRI: Mal4_02640(kinA_1)
+            SDYN: Mal52_31910(kinA)
+            LRS: PX52LOC_06753
+            ACM: AciX9_4408
+            GMA: AciX8_2800
+            PGIN: FRZ67_14205
+            RSI: Runsl_1358
+            RUN: DR864_15615
+            RUP: DTQ70_12335
+            EOL: Emtol_1164
+            ALS: DJ013_07060
+            DDF: DEFDS_0086
+            CABY: Cabys_4157
+            TAV: G4V39_10575
+            NDV: NDEV_1706
+REFERENCE   PMID:8002614
+  AUTHORS   LeDeaux JR, Grossman AD
+  TITLE     Isolation and characterization of kinC, a gene that encodes a sensor kinase homologous to the sporulation sensor kinases KinA and KinB in Bacillus subtilis.
+  JOURNAL   J Bacteriol 177:166-75 (1995)
+            DOI:10.1128/JB.177.1.166-175.1995
+  SEQUENCE  [bsu:BSU14490]
+REFERENCE   PMID:11069677
+  AUTHORS   Jiang M, Shao W, Perego M, Hoch JA
+  TITLE     Multiple histidine kinases regulate entry into stationary phase and sporulation in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 38:535-42 (2000)
+            DOI:10.1046/j.1365-2958.2000.02148.x
+///

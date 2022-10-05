@@ -1,0 +1,378 @@
+ENTRY       K13532                      KO
+SYMBOL      kinD
+NAME        two-component system, sporulation sensor kinase D [EC:2.7.13.3]
+PATHWAY     map02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K13532  kinD; two-component system, sporulation sensor kinase D
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases
+                K13532  kinD; two-component system, sporulation sensor kinase D
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K13532  kinD; two-component system, sporulation sensor kinase D
+            Enzymes [BR:ko01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 K13532  kinD; two-component system, sporulation sensor kinase D
+            Protein kinases [BR:ko01001]
+             Histidine kinases
+              Spo family [OT]
+               K13532  kinD; two-component system, sporulation sensor kinase D
+            Two-component system [BR:ko02022]
+             Spo family
+              KinABCDE-Spo0FA (sporulation control)
+               K13532  kinD; two-component system, sporulation sensor kinase D
+DBLINKS     GO: 0000155
+GENES       ILO: IL2583
+            ILI: K734_12995
+            IPI: CEW91_00185
+            IDI: CWC33_05675
+            CFF: CFF8240_0431
+            CFT: CFF04554_0429
+            CFV: CFVI03293_0428
+            CFX: CFV97608_0431
+            CFZ: CSG_5100
+            CAMP: CFT03427_0440
+            CFP: CR44_02215
+            CAJ: CIG1485E_0538
+            CSPF: CSF_0061 CSF_0469
+            CPIN: CPIN18020_0600
+            CGEO: CGEO_0039
+            CBLA: CBLAS_1802
+            ADZ: ADFLV_2754
+            ARC: ABLL_2629
+            SAMY: DB32_000586
+            HOH: Hoch_6828
+            BBAE: FRD01_10900
+            DHR: LGS26_00345
+            SBF: JCM31447_17060
+            BSU: BSU13660(kinD)
+            BSR: I33_1537(kinD)
+            BSL: A7A1_1510
+            BSH: BSU6051_13660(kinD)
+            BSY: I653_07010
+            BSUT: BSUB_01486(kinD)
+            BSUL: BSUA_01486(kinD)
+            BSUS: Q433_07805
+            BSO: BSNT_07857(kinD)
+            BSN: BSn5_18875
+            BSQ: B657_13660(kinD)
+            BSX: C663_1407(kinD)
+            BSP: U712_07140
+            BSS: BSUW23_07015(kinD)
+            BST: GYO_1694(kinD)
+            BLI: BL03637(kinD)
+            BLD: BLi01521(kinD)
+            BLH: BaLi_c16010(kinD)
+            BAY: RBAM_013420
+            BAQ: BACAU_1319(kinD)
+            BYA: BANAU_1278(kinD)
+            BAMP: B938_06985
+            BQY: MUS_1446(kinC)
+            BAML: BAM5036_1278(kinD)
+            BAMA: RBAU_1321(kinD)
+            BAMN: BASU_1300(kinD)
+            BAMB: BAPNAU_2421(kinD)
+            BAMT: AJ82_07710
+            BAMY: V529_12960(kinD)
+            BMP: NG74_01398(kinD)
+            BAO: BAMF_1445(kinD)
+            BAZ: BAMTA208_10315(kinD)
+            BQL: LL3_01466(kinD)
+            BXH: BAXH7_02109(kinD)
+            BAMI: KSO_012655
+            BAMC: U471_13650
+            BAMF: U722_07175
+            BSIA: CWD84_14540
+            BAE: BATR1942_04585
+            BVM: B9C48_06865
+            BSON: S101395_03393
+            BHT: DIC78_02610
+            BMOJ: HC660_14350(kinD)
+            BTEQ: G4P54_07165(kinD)
+            BIQ: AN935_07120
+            BAN: BA_1351
+            BAR: GBAA_1351
+            BAT: BAS1252
+            BAH: BAMEG_3243
+            BAI: BAA_1420
+            BAX: H9401_1267
+            BANT: A16_13970
+            BANR: A16R_14160
+            BANS: BAPAT_1272
+            BANH: HYU01_06870
+            BANV: DJ46_178
+            BCE: BC1336
+            BCA: BCE_1449
+            BCZ: BCE33L1227(kinD)
+            BCR: BCAH187_A1490
+            BCB: BCB4264_A1387
+            BCU: BCAH820_1424
+            BCG: BCG9842_B3957
+            BCQ: BCQ_1407(kinD)
+            BCX: BCA_1388
+            BAL: BACI_c13710(kinD)
+            BNC: BCN_1309
+            BCF: bcf_06760
+            BCER: BCK_01710
+            BCEF: BcrFT9_01133
+            BCY: Bcer98_1059
+            BTK: BT9727_1225(kinD)
+            BTL: BALH_1197(kinD)
+            BTB: BMB171_C1179
+            BTT: HD73_1565
+            BTHR: YBT1520_07775
+            BTHI: BTK_07970
+            BTC: CT43_CH1266
+            BTF: YBT020_07325
+            BTM: MC28_0565
+            BTG: BTB_c13790(kinD)
+            BTI: BTG_14065
+            BTN: BTF1_04380
+            BTHT: H175_ch1282
+            BTHU: YBT1518_07690
+            BTW: BF38_2555
+            BTHY: AQ980_23140
+            BWE: BcerKBAB4_1250
+            BWW: bwei_3673(kinD)
+            BMYO: BG05_4563
+            BTY: Btoyo_3974
+            BMYC: DJ92_3976(kinD)
+            BBY: CY96_05845
+            BWD: CT694_07165
+            BTRO: FJR70_28945
+            BMOB: MLA2C4_07080
+            BNT: GSN03_06765
+            BPAC: LMD38_19680
+            BPU: BPUM_1257
+            BPUM: BW16_07090
+            BPUS: UP12_06595
+            BIF: N288_08440
+            BMET: BMMGA3_05085
+            BSM: BSM4216_1358
+            BGY: BGLY_1459(kinD)
+            BXI: BK049_01770
+            BALT: CFN77_06960
+            BSAF: BSL056_06565
+            BIT: BIS30_17630
+            BDA: FSZ17_08775
+            BBAD: K7T73_05315
+            BCAB: EFK13_07625(kinD)
+            BRY: M0696_07470(kinD)
+            BJS: MY9_1495
+            GST: HW35_15750
+            BACW: QR42_06450
+            BACP: SB24_03005
+            BACB: OY17_09805
+            BACY: QF06_05840
+            BACL: BS34A_15170(kinD)
+            BALM: BsLM_1447
+            BACS: AUL54_03830
+            BACQ: DOE78_07105
+            BACA: FAY30_05045 FAY30_08170
+            BCIR: C2I06_02525 C2I06_05735
+            BEO: BEH_04850
+            PKS: IE339_05000
+            BKW: BkAM31D_12290(kinD_1)
+            BGI: BGM20_01170
+            BON: A361_08505
+            BKO: CKF48_01635
+            CGOT: J1899_08570
+            CSUA: IM538_06195
+            CFIR: NAF01_08015
+            CSOA: LIS82_10185
+            AFL: Aflv_1992(kinD)
+            AGN: AFK25_04430
+            TAID: KS242_16425
+            APAK: AP3564_11680
+            BSJ: UP17_06740
+            BMUR: ABE28_006920 ABE28_013240
+            PBUT: DTO10_19475
+            PASA: BAOM_3409
+            PFRI: L8956_07345
+            NMK: CHR53_05190 CHR53_08685
+            NTM: BTDUT50_06120
+            MDG: K8L98_09040
+            BVJ: I5776_13740
+            BOU: I5818_16915
+            PSUA: FLK61_27995 FLK61_38030
+            HYI: K2M58_00140
+            SSCU: CEP64_08580
+            SSTE: SAMEA4384403_1831(kinD)
+            MLEN: H3V22_13430
+            MVT: I6J10_02165
+            MCL: MCCL_0636
+            MCAK: MCCS_08640(kinD)
+            MACR: BHM04_06250
+            MBOE: HT586_04575
+            MARY: LAU42_03740
+            MBRU: MGG13_03940
+            PMS: KNP414_01063
+            PMQ: PM3016_1392
+            PMW: B2K_07125
+            PPSC: EHS13_08785
+            PRZ: GZH47_30780
+            ACUR: JZ785_13910
+            AMT: Amet_4323
+            OVA: OBV_43500
+            CHY: CHY_1124
+            IPO: Ilyop_0461
+            BCEL: BcellWH2_01918(kinD)
+            BIS: DXK01_001530
+            PAH: Poras_1698
+            PMUC: ING2E5A_1065(zraS)
+            PSAC: PSM36_2321
+            DYS: G7050_13170
+            PPN: Palpr_0291
+            PDI: BDI_2438
+            PARC: CI960_18445
+            TFO: BFO_3002
+            TOH: BCB71_09915
+            BVS: BARVI_06385
+            COPR: Cop2CBH44_19430(porY)
+            PRU: PRU_2935
+            PMZ: HMPREF0659_A6193
+            PRO: HMPREF0669_01770
+            PFUS: ADJ77_00345
+            PJE: CRM71_07075
+            POC: NCTC13071_00364(kinD)
+            ALD: GFH31_07975
+            AIT: AI2BBH_11100(porY)
+            DORI: FH5T_08960
+            DRC: G0Q07_02660
+            MCOS: GM418_12415
+            ASX: CDL62_09695
+            NKO: Niako_0512
+            FGG: FSB75_01210
+            ARK: D6B99_13785
+            AGI: FSB73_12470
+            FLN: FLA_1687
+            PGIN: FRZ67_12840
+            PHE: Phep_4252
+            PEP: AQ505_00680
+            PCM: AY601_4261
+            PSTY: BFS30_05510
+            PGS: CPT03_18370
+            PEK: FFJ24_022325
+            PROE: H9L23_22585
+            SHT: KO02_20850
+            SPSC: E2P86_00790
+            SPHE: GFH32_01840
+            STHA: NCTC11429_01938(zraS_2)
+            SCN: Solca_3985
+            MUP: A0256_06595
+            MUC: MuYL_0304
+            MGIN: FRZ54_02020
+            MMAB: HQ865_17040
+            MGIK: GO620_012900
+            FLM: MY04_0136
+            GRL: LPB144_11490
+            GFL: GRFL_1144
+            GRS: C7S20_07005
+            FPSZ: AMR72_12030
+            FJO: Fjoh_1592
+            FJG: BB050_01021(kinA)
+            FBR: FBFL15_0084(porY)
+            FCM: BIW12_08315
+            FFA: FFWV33_02200
+            FKI: FK004_02000
+            FPAL: HYN49_02510
+            FMG: HYN48_02475
+            FALB: HYN59_06300
+            FCR: HYN56_08325
+            FSE: DI487_08635
+            FSN: GS03_00358(sasA_3)
+            FNK: E1750_12710
+            FAK: FUA48_02045
+            FFL: HYN86_07440
+            FEN: J0383_07655
+            RBI: RB2501_08215
+            ZPR: ZPR_4450
+            CAT: CA2559_01685
+            MARM: YQ22_06435
+            MARB: CJ263_09870
+            MARE: EJ994_15380
+            KDI: Krodi_1340
+            DOK: MED134_10131
+            DDO: I597_0793(kinD)
+            DOD: DCS32_05290
+            LAN: Lacal_1248
+            LACI: CW733_14015
+            ASL: Aeqsu_1405
+            AEV: EI546_09085
+            NDO: DDD_1634
+            NOM: AAT17_08485
+            NSD: BST91_10320
+            NOB: CW736_03520
+            NOJ: EJ995_01575
+            POM: MED152_10040
+            POB: LPB03_08985
+            PRN: BW723_07515
+            POLA: BXQ17_13245
+            POA: CW731_13405
+            PHAL: H9I45_12965
+            MYR: MYRA21_0859
+            MPW: MPR_3389
+            MOD: AS202_03925
+            MYZ: BK054_03805
+            WIN: WPG_1645
+            WIJ: BWZ20_07485
+            SZE: AW14_02365
+            AHZ: APS56_12190
+            TDI: AUW17_10110
+            TEN: LPB136_08345
+            TJE: TJEJU_3484
+            TMAR: MARIT_0791(porY)
+            LUT: Lupro_10730
+            LUL: LPB138_13215
+            WFU: AXE80_13880
+            SALT: AO058_05545
+            SEON: BWZ22_05135
+            OLL: CW732_04870
+            OAQ: DZC78_11690
+            FEK: C1H87_14600
+            AUE: C5O00_06605
+            KOS: KORDIASMS9_00656(kinD)
+            KAN: IMCC3317_25340(kinD)
+            MARF: CJ739_1198
+            AQD: D1816_18235
+            EMAR: D1013_19605
+            PSYN: E9099_05360
+            AFLA: FHG64_10785
+            ANP: FK178_11245
+            OCI: FEZ18_04850
+            MGEL: G5B37_08105
+            MESQ: C7H62_0834
+            GAA: HX109_03850
+            CAGG: HYG79_09920
+            ALTI: ALE3EI_0668
+            SABU: MBM09_03270
+            FBE: FF125_01910
+            WVI: Weevi_0482
+            ORH: Ornrh_1022
+            ORI: Q785_05715
+            EBV: F0358_00025
+            EFAL: FH779_04205
+            ESTE: HNV03_02300
+            APIB: G8C43_09255
+            FTE: Fluta_0377
+            OHO: Oweho_1968
+            CHYD: H4K34_06900
+            BBAU: AEM51_01245
+            CTS: Ctha_1116
+            DIN: Selin_0448
+            FSI: Flexsi_0090
+            DTP: JZK55_11170
+REFERENCE   PMID:11069677
+  AUTHORS   Jiang M, Shao W, Perego M, Hoch JA
+  TITLE     Multiple histidine kinases regulate entry into stationary phase and sporulation in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 38:535-42 (2000)
+            DOI:10.1046/j.1365-2958.2000.02148.x
+  SEQUENCE  [bsu:BSU13660]
+///

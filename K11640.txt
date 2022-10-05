@@ -1,0 +1,90 @@
+ENTRY       K11640                      KO
+SYMBOL      natK
+NAME        two-component system, LytTR family, sensor histidine kinase NatK [EC:2.7.13.3]
+PATHWAY     map02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K11640  natK; two-component system, LytTR family, sensor histidine kinase NatK
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases
+                K11640  natK; two-component system, LytTR family, sensor histidine kinase NatK
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K11640  natK; two-component system, LytTR family, sensor histidine kinase NatK
+            Enzymes [BR:ko01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 K11640  natK; two-component system, LytTR family, sensor histidine kinase NatK
+            Protein kinases [BR:ko01001]
+             Histidine kinases
+              LytTR family [OT]
+               K11640  natK; two-component system, LytTR family, sensor histidine kinase NatK
+            Two-component system [BR:ko02022]
+             LytTR family
+              NatK-NatR (sodium extrusion)
+               K11640  natK; two-component system, LytTR family, sensor histidine kinase NatK
+DBLINKS     COG: COG3290
+            GO: 0000155
+GENES       BSU: BSU02730(natK)
+            BSR: I33_0314(natK)
+            BSL: A7A1_1925
+            BSH: BSU6051_02730(natK)
+            BSY: I653_01345
+            BSUT: BSUB_00322(natK)
+            BSUL: BSUA_00322(natK)
+            BSUS: Q433_01665
+            BSO: BSNT_06589
+            BSN: BSn5_12945
+            BSQ: B657_02730(natK)
+            BSP: U712_01410
+            BSS: BSUW23_01395
+            BST: GYO_0474(natK)
+            BHT: DIC78_08640
+            BMOJ: HC660_03080(natK)
+            BTEQ: G4P54_01570
+            BIQ: AN935_01405
+            BPU: BPUM_0250
+            BPUM: BW16_01600
+            BPUS: UP12_01580
+            BIF: N288_06385
+            BXI: BK049_06705
+            BALT: CFN77_01595
+            BSAF: BSL056_01545
+            BIT: BIS30_11905
+            BCAB: EFK13_01755
+            BJS: MY9_0278
+            BACW: QR42_01555
+            BACY: QF06_00320
+            BACL: BS34A_03280(natK)
+            BALM: BsLM_0284
+            BACQ: DOE78_24460
+            BHK: B4U37_03950
+            BCOH: BC6307_02590
+            BCIR: C2I06_16935
+            BMQ: BMQ_1209(natK)
+            BMD: BMD_1194(natK)
+            BMH: BMWSH_4030(yccG)
+            BMEG: BG04_3510
+            BFX: BC359_14965
+            BGI: BGM20_16415
+            LPAK: GDS87_09270
+            AQT: FN924_03190
+            PSYO: PB01_19235
+            MDG: K8L98_02410
+            BVQ: FHE72_11155
+            RMF: D5E69_06825
+            BOU: I5818_01850
+            MCUI: G8O30_01205
+            LWE: lwe0698
+REFERENCE   PMID:17322186 (Bacillus)
+  AUTHORS   Ogura M, Tsukahara K, Hayashi K, Tanaka T
+  TITLE     The Bacillus subtilis NatK-NatR two-component system regulates expression of the natAB operon encoding an ABC transporter for sodium ion extrusion.
+  JOURNAL   Microbiology 153:667-75 (2007)
+            DOI:10.1099/mic.0.2006/003673-0
+  SEQUENCE  [bsu:BSU02730]
+///

@@ -1,0 +1,362 @@
+ENTRY       K02205                      KO
+SYMBOL      rocE, rocC
+NAME        arginine/ornithine permease
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters
+                K02205  rocE, rocC; arginine/ornithine permease
+            Transporters [BR:ko02000]
+             Other transporters
+              Electrochemical potential-driven transporters
+               K02205  rocE, rocC; arginine/ornithine permease
+DBLINKS     COG: COG0833
+            TC: 2.A.3.1
+GENES       STY: STY2587
+            STT: t0507
+            SEX: STBHUCCB_5450
+            SENT: TY21A_02580
+            SEV: STMMW_23791
+            SEY: SL1344_2326
+            SEM: STMDT12_C23790
+            SEJ: STMUK_2387
+            SEB: STM474_2455
+            SEF: UMN798_2544
+            SETU: STU288_08170
+            SETC: CFSAN001921_05005
+            SENR: STMDT2_23261
+            SEND: DT104_24131
+            SENI: CY43_12615
+            SEEN: SE451236_17985
+            SPQ: SPAB_00614
+            SEC: SCH_2359(rocE)
+            SEH: SeHA_C2599
+            SHB: SU5_02952
+            SENH: CFSAN002069_20065
+            SEEH: SEEH1578_21060
+            SEE: SNSL254_A2545
+            SENN: SN31241_34640
+            SEA: SeAg_B2499
+            SENS: Q786_11635
+            SEEC: CFSAN002050_18715
+            SEEB: SEEB0189_007790
+            SENB: BN855_24430
+            SENE: IA1_11755
+            SENC: SEET0819_18880
+            SES: SARI_00542
+            SALZ: EOS98_07225
+            CARS: E1B03_18510
+            ETE: ETEE_1294
+            ETC: ETAC_14800
+            EDW: QY76_05095
+            HPAR: AL518_07050
+            PAE: PA4981
+            PAEV: N297_5153
+            PAEI: N296_5153
+            PAU: PA14_65850(rocE)
+            PAP: PSPA7_5714
+            PAG: PLES_53691
+            PAF: PAM18_5093
+            PNC: NCGM2_0536(rocE)
+            PAEB: NCGM1900_5730(rocE)
+            PDK: PADK2_26395
+            PSG: G655_26250
+            PRP: M062_26260
+            PAEP: PA1S_27015
+            PAER: PA1R_gp2904
+            PAEM: U769_27280
+            PAEL: T223_27475
+            PAES: SCV20265_5645
+            PAEU: BN889_05528
+            PAEG: AI22_06980
+            PAEC: M802_5151
+            PAEO: M801_5018
+            PRE: PCA10_40390
+            PCQ: PcP3B5_02180(rocE_1)
+            PMUI: G4G71_03175
+            PPU: PP_3727(rocE)
+            PPF: Pput_2036
+            PPG: PputGB1_2179
+            PPT: PPS_3195
+            PPB: PPUBIRD1_2035
+            PPI: YSA_09425
+            PPX: T1E_1726(rocE)
+            PPUH: B479_15855
+            PPUT: L483_19395
+            PPUN: PP4_20950
+            PPUD: DW66_3466
+            PMON: X969_15365
+            PMOT: X970_15010
+            PPJ: RK21_01443
+            PFL: PFL_2710
+            PPRC: PFLCHA0_c27710(rocE)
+            PPRO: PPC_2757
+            PMAN: OU5_1980
+            PPUU: PputUW4_02753
+            PDR: H681_24970
+            PKC: PKB_0119(rocE)
+            PCZ: PCL1606_34650
+            PALK: PSAKL28_23890
+            PSEM: TO66_13265
+            PSOS: POS17_2705
+            PSET: THL1_4002
+            PUM: HGP31_15895
+            POJ: PtoMrB4_51060
+            PLAL: FXN65_08170
+            PDW: BV82_5120
+            PSEP: C4K39_2735
+            PAZE: KSS91_15450
+            PORY: EJA05_15335
+            PTK: EXN22_14880
+            PWY: HU734_015285
+            PTAE: NCTC10697_02330(lysP)
+            PCAV: D3880_08950
+            FTU: FTT_0979c
+            FTQ: RO31_1127
+            FTF: FTF0979c
+            FTW: FTW_0884
+            FTR: NE061598_05620
+            FTT: FTV_0935
+            FTG: FTU_1019
+            FTL: FTL_1220
+            FTH: FTH_1198
+            FTA: FTA_1292
+            FTS: F92_06775
+            FTI: FTS_1196
+            FTO: X557_06355
+            FTC: DA46_1556
+            FTV: CH67_1591
+            FTZ: CH68_1322
+            FTM: FTM_0969
+            FTN: FTN_0860
+            FTX: AW25_1159
+            FTD: AS84_1680
+            FTY: CH70_1160
+            FCF: FNFX1_0870
+            FCN: FN3523_0595
+            FHI: FSC454_02970
+            FPH: Fphi_1758
+            FPT: BZ13_233
+            FPI: BF30_12
+            FPX: KU46_1539
+            FPZ: LA55_1029
+            FRT: F7308_1362
+            FNA: OOM_1540
+            FNL: M973_05455
+            FRF: LO80_01085
+            FRX: F7310_05325
+            FRC: KX01_1685
+            FAD: CDH04_05355
+            FMI: F0R74_03280
+            GAP: GAPWK_0411
+            CDN: BN940_01131
+            SWS: I6J16_08290
+            SECH: B18_10940
+            BSU: BSU37760(rocC) BSU40330(rocE)
+            BSR: I33_3925 I33_4203
+            BSL: A7A1_0136 A7A1_0195
+            BSH: BSU6051_37760(rocC) BSU6051_40330(rocE)
+            BSY: I653_18525 I653_19810
+            BSUT: BSUB_04012(rocC) BSUB_04280(rocE)
+            BSUL: BSUA_04012(rocC) BSUA_04280(rocE)
+            BSUS: Q433_20800 Q433_22215
+            BSO: BSNT_10435(rocC) BSNT_10740(rocE)
+            BSN: BSn5_09875 BSn5_11160
+            BSQ: B657_37760(rocC) B657_40330(rocE)
+            BSX: C663_3682(rocC) C663_3950(rocE)
+            BSP: U712_19035 U712_20420
+            BSS: BSUW23_18650(rocC) BSUW23_20120(rocE)
+            BST: GYO_4162 GYO_4442
+            BLI: BL01738(rocE)
+            BLD: BLi00423(rocE)
+            BLH: BaLi_c04350(rocE)
+            BAY: RBAM_034960 RBAM_037240
+            BAQ: BACAU_3525(rocC) BACAU_3733(rocE)
+            BYA: BANAU_3678(rocC) BANAU_3903(rocE)
+            BAMP: B938_17940 B938_19095
+            BQY: MUS_4156(rocC) MUS_4414(rocE)
+            BAML: BAM5036_3426(rocC) BAM5036_3643(rocE)
+            BAMA: RBAU_3634(rocC) RBAU_3849(rocE)
+            BAMN: BASU_3410(rocC) BASU_3632(rocE)
+            BAMB: BAPNAU_3692(rocC) BAPNAU_3910(rocE)
+            BAMT: AJ82_19740 AJ82_20985
+            BAMY: V529_37680(rocC) V529_39870(rocE)
+            BMP: NG74_03671(rocC_2) NG74_03899(rocE_2)
+            BAO: BAMF_3610(rocC) BAMF_3844(rocE)
+            BAZ: BAMTA208_19115(rocC) BAMTA208_20275(rocE)
+            BQL: LL3_03921(rocC) LL3_04168(rocE)
+            BXH: BAXH7_03913(rocC) BAXH7_04157(rocE)
+            BAMI: KSO_000455 KSO_001580
+            BAMC: U471_36410 U471_38830
+            BAMF: U722_18675 U722_19805
+            BSIA: CWD84_00595 CWD84_01645
+            BAE: BATR1942_02350 BATR1942_18220
+            BVM: B9C48_17890 B9C48_19000
+            BSON: S101395_01684 S101395_04608
+            BHT: DIC78_10770 DIC78_12090
+            BMOJ: HC660_36850(rocC) HC660_39460(rocE)
+            BTEQ: G4P54_20620
+            BIQ: AN935_19125 AN935_20500
+            BAN: BA_0643 BA_2998
+            BAR: GBAA_0643 GBAA_2998
+            BAT: BAS0610 BAS2786
+            BAH: BAMEG_1607 BAMEG_3944
+            BAI: BAA_0725 BAA_3051
+            BAX: H9401_0614 H9401_2860
+            BANT: A16_07040 A16_30240
+            BANR: A16R_07100 A16R_30710
+            BANS: BAPAT_0620 BAPAT_2875
+            BANH: HYU01_03475 HYU01_14820
+            BANV: DJ46_1759 DJ46_5101
+            BCE: BC0643 BC2980
+            BCA: BCE_0711 BCE_3034
+            BCZ: BCE33L0554(rocE) BCE33L2716(rocC)
+            BCR: BCAH187_A0772 BCAH187_A3032
+            BCB: BCB4264_A0679 BCB4264_A2998
+            BCU: BCAH820_0700 BCAH820_2996
+            BCG: BCG9842_B2247 BCG9842_B4659
+            BCQ: BCQ_0711(rocE) BCQ_2814(rocC)
+            BCX: BCA_0681 BCA_3068
+            BAL: BACI_c06560(rocE2) BACI_c29520(rocC)
+            BNC: BCN_0620 BCN_2838
+            BCF: bcf_03305 bcf_14635
+            BCER: BCK_04940 BCK_19920
+            BCEF: BcrFT9_02345
+            BCY: Bcer98_0544 Bcer98_2325
+            BTK: BT9727_0555(rocE) BT9727_2735(rocC)
+            BTL: BALH_0585(rocE) BALH_2683(rocC)
+            BTB: BMB171_C0565 BMB171_C2682
+            BTT: HD73_0719 HD73_2990
+            BTHR: YBT1520_03570 YBT1520_14700
+            BTHI: BTK_03675 BTK_14815
+            BTC: CT43_CH0564 CT43_CH2979
+            BTF: YBT020_03475 YBT020_14905
+            BTM: MC28_2185 MC28_5371
+            BTG: BTB_c06570(rocE) BTB_c31070(rocC2)
+            BTI: BTG_04435 BTG_17930
+            BTN: BTF1_00935 BTF1_12425
+            BTHT: H175_ch0569 H175_ch3030
+            BTHU: YBT1518_03385 YBT1518_16465
+            BTW: BF38_1890 BF38_4151
+            BTHY: AQ980_16185 AQ980_27380
+            BWE: BcerKBAB4_0556
+            BWW: bwei_1635(rocC) bwei_4955
+            BMYO: BG05_5278
+            BTY: Btoyo_0280 Btoyo_3322
+            BMYC: DJ92_3245
+            BBY: CY96_02375 CY96_13740
+            BWD: CT694_03640 CT694_15995
+            BTRO: FJR70_04185 FJR70_25475
+            BMOB: MLA2C4_03400 MLA2C4_15765
+            BNT: GSN03_03520 GSN03_15730
+            BPAC: LMD38_12135 LMD38_22850
+            BPU: BPUM_3059
+            BPUM: BW16_02075 BW16_16435
+            BPUS: UP12_02085 UP12_15940
+            BGY: BGLY_0433(rocE) BGLY_3125
+            BXI: BK049_06180 BK049_11460
+            BALT: CFN77_02120 CFN77_16360
+            BSAF: BSL056_01990 BSL056_17075
+            BIT: BIS30_08595 BIS30_10005
+            BFD: NCTC4823_03638(lysP_3)
+            BBAD: K7T73_02740 K7T73_16400
+            BCAB: EFK13_20695
+            BRY: M0696_20530
+            BJS: MY9_3868 MY9_4168
+            GST: HW35_17525
+            BACW: QR42_02040 QR42_15420
+            BACP: SB24_10170 SB24_11215
+            BACB: OY17_01145 OY17_02285
+            BACY: QF06_17320 QF06_18630
+            BACL: BS34A_40940(rocC) BS34A_43630(rocE)
+            BALM: BsLM_3807 BsLM_4076
+            BACS: AUL54_11190 AUL54_12215
+            BACQ: DOE78_10180
+            BACA: FAY30_01135 FAY30_03090 FAY30_11910
+            BMQ: BMQ_0664(rocC) BMQ_0827 BMQ_3898
+            BMD: BMD_0665(rocC) BMD_0827 BMD_1768 BMD_3890
+            BMH: BMWSH_1325 BMWSH_4419(rocE) BMWSH_4592
+            BMEG: BG04_2954 BG04_3121 BG04_815
+            BEO: BEH_04235 BEH_04270
+            PKS: IE339_02475
+            BGI: BGM20_13140 BGM20_14400
+            BON: A361_14505 A361_15175
+            CFIR: NAF01_14015
+            GKA: GK0186
+            GTE: GTCCBUS3UF5_1920
+            GTN: GTNG_0168
+            GYC: GYMC61_1042
+            GYA: GYMC52_0164
+            GCT: GC56T3_0163
+            ASED: IRT44_13350
+            LSP: Bsph_1502 Bsph_1854
+            LGY: T479_04835
+            LFU: HR49_17150 HR49_18725
+            LYS: LBYS11_04770 LBYS11_06500
+            LYB: C3943_05875 C3943_09370
+            LPAK: GDS87_05125 GDS87_08450
+            LAGR: FJQ98_05890 FJQ98_13565
+            LMAC: I6G82_13560
+            LYC: FH508_0005265 FH508_0010480
+            LCAP: ICJ70_17740 ICJ70_19485
+            VNE: CFK40_04995 CFK40_14510
+            BSJ: UP17_11660 UP17_14845
+            BMUR: ABE28_011320 ABE28_013715 ABE28_018265
+            PBUT: DTO10_14855
+            PFRI: L8956_12265 L8956_15455 L8956_15650
+            PSYO: PB01_04435
+            NMK: CHR53_01285 CHR53_02160 CHR53_03355
+            NDT: L1999_10655 L1999_11280
+            MSEM: GMB29_10220 GMB29_11210
+            ESI: Exig_1918
+            EAN: Eab7_1768
+            EXM: U719_10820
+            EXU: ESP131_12920
+            EACE: KKI46_10750
+            BBE: BBR47_22440(rocE) BBR47_55890
+            BLR: BRLA_c006210(rocE)
+            BFM: BP422_06435 BP422_23560
+            BAGR: BA6348_04420 BA6348_17880
+            BRW: GOP56_19010
+            BCHS: JNE38_11710 JNE38_29355
+            BCOP: JD108_13530
+            PSWU: SY83_02430
+            ANX: ACH33_02890
+            ASOC: CB4_00105(rocC)
+            ATHE: K3F53_16045
+            AAC: Aaci_0325
+            AAD: TC41_0441
+            AACO: K1I37_12930
+            KUR: ASO14_1740
+            SPSY: AZE41_20535
+            SPOO: J3U78_18325
+            RST: ATY39_00425 ATY39_11475
+            VIJ: JNUCC6_00715
+            LFB: C1X05_13685
+            PABS: JIR001_05860
+            EAV: EH197_05045
+            VCP: H9L18_06385
+            CLJ: CLJU_c28050
+            CCK: Ccar_10300
+            CEU: A7L45_16545
+            AMIC: Ami3637_04010 Ami3637_13580
+            ABUT: Ami103574_10625
+            ETM: CE91St48_39370(rocC)
+            HALS: D7D81_08625
+            IFN: GM661_06065
+            PUF: UFO1_2778 UFO1_4405
+            PFT: JBW_01652 JBW_01823 JBW_02656
+            STED: SPTER_14770(rocC)
+            ACIT: HPK19_11395
+REFERENCE   PMID:7540694
+  AUTHORS   Gardan R, Rapoport G, Debarbouille M
+  TITLE     Expression of the rocDEF operon involved in arginine catabolism in Bacillus subtilis.
+  JOURNAL   J Mol Biol 249:843-56 (1995)
+            DOI:10.1006/jmbi.1995.0342
+  SEQUENCE  [bsu:BSU40330]
+REFERENCE   PMID:9194709
+  AUTHORS   Gardan R, Rapoport G, Debarbouille M
+  TITLE     Role of the transcriptional activator RocR in the arginine-degradation pathway of Bacillus subtilis.
+  JOURNAL   Mol Microbiol 24:825-37 (1997)
+            DOI:10.1046/j.1365-2958.1997.3881754.x
+///

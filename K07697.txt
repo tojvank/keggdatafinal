@@ -1,0 +1,338 @@
+ENTRY       K07697                      KO
+SYMBOL      kinB
+NAME        two-component system, sporulation sensor kinase B [EC:2.7.13.3]
+PATHWAY     map02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K07697  kinB; two-component system, sporulation sensor kinase B
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases
+                K07697  kinB; two-component system, sporulation sensor kinase B
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K07697  kinB; two-component system, sporulation sensor kinase B
+            Enzymes [BR:ko01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 K07697  kinB; two-component system, sporulation sensor kinase B
+            Protein kinases [BR:ko01001]
+             Histidine kinases
+              Spo family [OT]
+               K07697  kinB; two-component system, sporulation sensor kinase B
+            Two-component system [BR:ko02022]
+             Spo family
+              KinABCDE-Spo0FA (sporulation control)
+               K07697  kinB; two-component system, sporulation sensor kinase B
+DBLINKS     COG: COG0642
+            GO: 0000155
+GENES       LIR: LAW_00907
+            SAMY: DB32_006464
+            BSU: BSU31450(kinB)
+            BSR: I33_3236(kinB)
+            BSL: A7A1_2257
+            BSH: BSU6051_31450(kinB)
+            BSY: I653_15135
+            BSUT: BSUB_03363(kinB)
+            BSUL: BSUA_03363(kinB)
+            BSUS: Q433_17210
+            BSO: BSNT_09607(kinB)
+            BSN: BSn5_06615
+            BSQ: B657_31450(kinB)
+            BSX: C663_3005(kinB)
+            BSP: U712_15660
+            BSS: BSUW23_15305(kinB)
+            BST: GYO_3433(kinB)
+            BAY: RBAM_028550
+            BAQ: BACAU_2882(kinB)
+            BYA: BANAU_3044(kinB)
+            BAMP: B938_14595
+            BQY: MUS_3436(kinB)
+            BAML: BAM5036_2769(kinB)
+            BAMA: RBAU_2984(kinB)
+            BAMN: BASU_2775(kinB)
+            BAMB: BAPNAU_3032(kinB)
+            BAMT: AJ82_16150
+            BAMY: V529_31120(kinB)
+            BMP: NG74_03003(kinA_3)
+            BAO: BAMF_2945(kinB)
+            BAZ: BAMTA208_15630(kinB)
+            BQL: LL3_03214(kinB)
+            BXH: BAXH7_03194(kinB)
+            BAMI: KSO_004890
+            BAMC: U471_29550
+            BAMF: U722_15390
+            BSIA: CWD84_05090
+            BAE: BATR1942_13570
+            BVM: B9C48_14580
+            BHT: DIC78_15465
+            BMOJ: HC660_30310(kinB)
+            BTEQ: G4P54_16050
+            BIQ: AN935_15780
+            BAN: BA_1356(kinB1) BA_2644(kinB2) BA_4223(kinB3)
+            BAR: GBAA_1356(kinB1) GBAA_2644(kinB2) GBAA_4223(kinB3)
+            BAT: BAS1256 BAS2463 BAS3916
+            BAH: BAMEG_1947(kinB2) BAMEG_3238(kinB1) BAMEG_4263(kinB3)
+            BAI: BAA_1425(kinB1) BAA_2711(kinB2) BAA_4245(kinB3)
+            BAX: H9401_1272 H9401_2519 H9401_4025
+            BANT: A16_14020 A16_26810 A16_42240
+            BANR: A16R_14210 A16R_27180 A16R_42780
+            BANS: BAPAT_1277 BAPAT_2540 BAPAT_4050
+            BANH: HYU01_06895 HYU01_13135 HYU01_20635
+            BANV: DJ46_1427 DJ46_183 DJ46_2916
+            BCE: BC1340 BC3528 BC4007
+            BCA: BCE_1455(kinB) BCE_2671(kinB) BCE_4058(kinB)
+            BCZ: BCE33L1231(kinB) BCE33L2387(kinB) BCE33L3764(kinB)
+            BCR: BCAH187_A1495(kinB1) BCAH187_A2712(kinB2) BCAH187_A4131(kinB3)
+            BCB: BCB4264_A1392(kinB1) BCB4264_A2669(kinB2) BCB4264_A3635 BCB4264_A4112(kinB3)
+            BCU: BCAH820_1429(kinB1) BCAH820_2661(kinB2) BCAH820_4025(kinB3)
+            BCG: BCG9842_B1127(kinB3) BCG9842_B1681 BCG9842_B2655(kinB2) BCG9842_B3951(kinB1)
+            BCQ: BCQ_1412(kinB-1) BCQ_2509(kinB) BCQ_3796(kinB)
+            BCX: BCA_1393(kinB1) BCA_2735(kinB2) BCA_4116(kinB3)
+            BAL: BACI_c13750(kinB1) BACI_c26180(kinB2) BACI_c39660
+            BNC: BCN_1314 BCN_2525 BCN_3912
+            BCF: bcf_06785 bcf_19920
+            BCER: BCK_01685 BCK_15180 BCK_21630
+            BCEF: BcrFT9_01137 BcrFT9_03118
+            BCY: Bcer98_2708
+            BTK: BT9727_1229(kinB) BT9727_2426(kinB) BT9727_3748(kinB)
+            BTL: BALH_1201(kinB) BALH_2379(kinB) BALH_3627(kinB)
+            BTB: BMB171_C1184(kinB1) BMB171_C2381(kinB2) BMB171_C3205 BMB171_C3672(kinB3)
+            BTT: HD73_1571 HD73_3364 HD73_3799 HD73_4291
+            BTHR: YBT1520_07805 YBT1520_16585 YBT1520_18745 YBT1520_21275
+            BTHI: BTK_08000 BTK_16600 BTK_18685 BTK_21135
+            BTC: CT43_CH1271(kinB1) CT43_CH2627(kinB2) CT43_CH3468 CT43_CH4013(kinB3)
+            BTF: YBT020_07350 YBT020_13265 YBT020_17270 YBT020_19710
+            BTM: MC28_0570 MC28_1847 MC28_2677 MC28_3297
+            BTG: BTB_c13840(kinE2) BTB_c27540(kinB1) BTB_c36000(degM) BTB_c41410(kinB2)
+            BTI: BTG_01800 BTG_06540 BTG_14035 BTG_29385
+            BTN: BTF1_04410 BTF1_10680 BTF1_15390 BTF1_18340
+            BTHT: H175_ch1287 H175_ch2673 H175_ch3525 H175_ch4077
+            BTHU: YBT1518_07715 YBT1518_14560 YBT1518_22210
+            BTW: BF38_2560 BF38_3823 BF38_5178
+            BTHY: AQ980_09880 AQ980_12325 AQ980_14410 AQ980_23115
+            BWE: BcerKBAB4_1255 BcerKBAB4_2496 BcerKBAB4_3129 BcerKBAB4_3835
+            BWW: bwei_0945(kinB) bwei_1524(kinB2) bwei_2336(kinB3) bwei_3666(kinB4)
+            BMYO: BG05_2017 BG05_2590 BG05_3330 BG05_4558
+            BTY: Btoyo_0742 Btoyo_1250 Btoyo_3978
+            BMYC: DJ92_1103 DJ92_3981 DJ92_5176
+            BBY: CY96_05875 CY96_11970 CY96_16635 CY96_19120
+            BWD: CT694_07190 CT694_14185 CT694_18755 CT694_21560
+            BTRO: FJR70_05885 FJR70_10505 FJR70_13765(kinB) FJR70_28965(kinB)
+            BMOB: MLA2C4_07105 MLA2C4_14115 MLA2C4_18290 MLA2C4_20950
+            BNT: GSN03_06785 GSN03_12190 GSN03_13050 GSN03_18970(kinB)
+            BPAC: LMD38_07070(kinB) LMD38_13750 LMD38_19655(kinB)
+            BPU: BPUM_2812
+            BPUM: BW16_15250
+            BPUS: UP12_14840
+            BIF: N288_04250 N288_06045 N288_12895 N288_13450 N288_15105
+            BWH: A9C19_02585 A9C19_03370 A9C19_08960 A9C19_12445 A9C19_17510
+            BXI: BK049_12895
+            BALT: CFN77_15170
+            BSAF: BSL056_15890
+            BIT: BIS30_05275
+            BDA: FSZ17_11435 FSZ17_13280 FSZ17_19635
+            BSHI: LGQ02_14550 LGQ02_18010 LGQ02_18015 LGQ02_19655
+            BCAB: EFK13_16130(kinB)
+            BRY: M0696_15835(kinB)
+            BJS: MY9_3156
+            BACI: B1NLA3E_01675 B1NLA3E_02810 B1NLA3E_07590
+            GST: HW35_12350 HW35_14645
+            BACW: QR42_14275
+            BACP: SB24_14460
+            BACB: OY17_17590
+            BACY: QF06_14050
+            BACL: BS34A_34420(kinB)
+            BALM: BsLM_3139
+            BACS: AUL54_15440
+            BACQ: DOE78_05365 DOE78_10675 DOE78_10910 DOE78_13925 DOE78_24410
+            BACA: FAY30_06625 FAY30_21490 FAY30_23805
+            BCO: Bcell_0497 Bcell_0893 Bcell_2996 Bcell_4023 Bcell_4255
+            BHK: B4U37_04150 B4U37_05510 B4U37_05660 B4U37_08240
+            BCOH: BC6307_02485 BC6307_03140
+            BCIR: C2I06_02295 C2I06_05160 C2I06_22665
+            BMQ: BMQ_3936(kinB) BMQ_4055(kin)
+            BMD: BMD_3920(kinB) BMD_4040(kin)
+            BMH: BMWSH_1171 BMWSH_1291(kinB)
+            BMEG: BG04_850
+            BFX: BC359_07795 BC359_08160
+            PKS: IE339_02155 IE339_06825
+            BCOA: BF29_1734
+            BCL: ABC1255(kinB)
+            BLE: BleG1_1145
+            BKW: BkAM31D_03250(kinE_1) BkAM31D_05300(kinE_3) BkAM31D_24975(kinA_7)
+            BGI: BGM20_09825
+            BPF: BpOF4_10295(kinB)
+            BON: A361_04950 A361_05025 A361_13210 A361_18785
+            BKO: CKF48_20930
+            CGOT: J1899_03855 J1899_12585 J1899_15665
+            CSUA: IM538_02090 IM538_09760 IM538_11395 IM538_12120 IM538_15065 IM538_23185
+            CFIR: NAF01_04625 NAF01_04700
+            GKA: GK1614(kinB) GK1832
+            GTE: GTCCBUS3UF5_18680 GTCCBUS3UF5_21370
+            GTK: GT3570_07765 GT3570_08750
+            GTM: GT3921_10340 GT3921_11370
+            GLI: GLN3_01405 GLN3_02435
+            BCAL: CWI35_01015 CWI35_02050
+            GTN: GTNG_1462(kinB) GTNG_1722
+            GWC: GWCH70_1523 GWCH70_1826
+            GYC: GYMC61_2455 GYMC61_2643
+            GYA: GYMC52_1581 GYMC52_1774
+            GCT: GC56T3_1705 GC56T3_1895
+            GMC: GY4MC1_1719 GY4MC1_2118
+            GGH: GHH_c16300(kinB) GHH_c18760
+            GJF: M493_08340 M493_09480
+            GEA: GARCT_01620(kinA_3) GARCT_01855(kinE_2)
+            GEL: IB49_01190 IB49_18430
+            GSE: GT50_18475
+            GSR: GS3922_07340 GS3922_08515
+            GEJ: A0V43_05390 A0V43_06490
+            GZA: IC807_04125 IC807_05345
+            GTH: Geoth_1798 Geoth_2204
+            PTL: AOT13_11750 AOT13_13805
+            PTB: DER53_12125 DER53_13555
+            PCAL: BV455_00095(kinA_1) BV455_02630(kinE_2) BV455_03676(kinA_4) BV455_03951(kinE_4)
+            AFL: Aflv_1474(kinB) Aflv_1930(kinB) Aflv_2035(kinB)
+            AGN: AFK25_04235 AFK25_04695 AFK25_07025
+            ANM: GFC28_1420 GFC28_640 GFC28_900
+            AAMY: GFC30_1322 GFC30_1913 GFC30_2134
+            ANL: GFC29_208 GFC29_726 GFC29_984
+            AND: GRQ40_05770 GRQ40_08155 GRQ40_09640
+            ACAI: ISX45_05510 ISX45_06890
+            LYG: C1N55_19900
+            VIM: GWK91_05885
+            FPN: ABE65_002070 ABE65_003685 ABE65_010905
+            FAR: ABE41_002010 ABE41_003290 ABE41_003750 ABE41_016650
+            SJE: AAV35_001580
+            BSJ: UP17_11830 UP17_20110
+            BMUR: ABE28_003770 ABE28_011485 ABE28_018855
+            PBUT: DTO10_15615 DTO10_16300 DTO10_25335
+            PASA: BAOM_1302(kinB) BAOM_1974(kinB) BAOM_1980 BAOM_2143(kinB)
+            PPSR: I6J18_00550 I6J18_10680
+            PFRI: L8956_04260 L8956_12490 L8956_20710
+            PSYH: D0S48_01350 D0S48_10205 D0S48_10210
+            PSYO: PB01_02225 PB01_02230 PB01_11235
+            PRD: F7984_16640
+            POF: GS400_19410
+            NMK: CHR53_06215 CHR53_07425 CHR53_10590 CHR53_18285
+            NTM: BTDUT50_05935 BTDUT50_08655
+            NDT: L1999_05405 L1999_10850 L1999_14660
+            MEKU: HUW50_05710
+            MSEM: GMB29_04115 GMB29_11550 GMB29_22720 GMB29_26550
+            MDG: K8L98_02815 K8L98_09515 K8L98_13535 K8L98_21025
+            MLIT: KDJ21_002500 KDJ21_010315 KDJ21_016575
+            AIA: AWH56_010940 AWH56_013280 AWH56_013285 AWH56_020905 AWH56_022505 AWH56_023310
+            BVQ: FHE72_02480 FHE72_04970 FHE72_05050 FHE72_05460 FHE72_06210 FHE72_07130 FHE72_10790
+            RMF: D5E69_02375 D5E69_06195 D5E69_07030 D5E69_07810
+            BVJ: I5776_17885 I5776_18175
+            BOU: I5818_04490 I5818_21385 I5818_22280 I5818_22360
+            BBEV: BBEV_1538(kinB)
+            BSE: Bsel_2035
+            MCUI: G8O30_02695 G8O30_06100
+            GAJ: MY490_02115 MY490_02125 MY490_15630
+            BBE: BBR47_43740(kinB) BBR47_51140 BBR47_56690
+            BFM: BP422_17505 BP422_21410 BP422_23910
+            BAGR: BA6348_04085 BA6348_06010
+            BCHS: JNE38_14650 JNE38_19055 JNE38_22885 JNE38_27675 JNE38_29740
+            BCOP: JD108_05945
+            PJD: Pjdr2_0989 Pjdr2_2180 Pjdr2_3200
+            GYM: GYMC10_1360 GYMC10_1414 GYMC10_1415
+            PPY: PPE_01038 PPE_03851
+            PPM: PPSC2_05385(kinB1) PPSC2_20240(kinB3)
+            PPO: PPM_1011(kinB1) PPM_4055(kinB3)
+            PPOL: X809_05310 X809_36365
+            PPQ: PPSQR21_010860 PPSQR21_040910
+            PPOY: RE92_06500 RE92_16955
+            PMS: KNP414_03473 KNP414_05122 KNP414_05699 KNP414_06365 KNP414_07257
+            PMQ: PM3016_1363 PM3016_4523 PM3016_5041 PM3016_5976 PM3016_6820
+            PMW: B2K_06960 B2K_23430 B2K_26130 B2K_30370 B2K_34435
+            PTA: HPL003_01125 HPL003_13390
+            PSAB: PSAB_04690 PSAB_23750
+            PDU: PDUR_05970 PDUR_26620 PDUR_27270
+            PBD: PBOR_05430 PBOR_05435 PBOR_35420
+            PGM: PGRAT_05505 PGRAT_05510 PGRAT_31750
+            POD: PODO_04630 PODO_04635 PODO_19440 PODO_30105
+            PAEN: P40081_05715 P40081_36740
+            PAEF: R50345_04480 R50345_04485 R50345_11785 R50345_15075 R50345_19680
+            PAEQ: R50912_05035 R50912_33355
+            PAEA: R70723_04540 R70723_04545 R70723_20910
+            PAEE: R70331_04550 R70331_04555
+            PAEH: H70357_05275 H70357_05280
+            PAEJ: H70737_04740 H70737_04745 H70737_11235 H70737_14465 H70737_19965
+            PBJ: VN24_05130 VN24_20470
+            PIH: UB51_01520 UB51_01535
+            PRI: PRIO_1167 PRIO_1168 PRIO_6639
+            PSON: JI735_07870 JI735_14010 JI735_14015
+            PPEO: ABE82_05415 ABE82_20280
+            PNP: IJ22_27750
+            POW: IJ21_10620
+            PBV: AR543_07530
+            PXL: BS614_09710
+            PYG: AWM70_01270 AWM70_11075 AWM70_19815
+            PSWU: SY83_00950 SY83_16855 SY83_19135
+            PDH: B9T62_38075
+            PIB: BBD41_07775 BBD41_07780 BBD41_07990
+            PCX: LPB68_07230 LPB68_07245
+            PKB: B4V02_05085 B4V02_19750
+            PAIH: ASL14_17630
+            PVO: PVOR_08870 PVOR_09150 PVOR_09155
+            PLW: D5F53_22590 D5F53_22595 D5F53_22805
+            PLEN: EIM92_09260
+            PPSC: EHS13_15455 EHS13_15495 EHS13_32735
+            PLUT: EI981_06110 EI981_12500
+            PALB: EJC50_10130 EJC50_11380 EJC50_15870 EJC50_19795 EJC50_23830
+            PCHI: PC41400_09220 PC41400_16335 PC41400_24030 PC41400_26615
+            PBK: Back11_01780 Back11_35630 Back11_35670
+            PPRT: ET464_08125 ET464_18345
+            PBAC: HUB98_16605 HUB98_22630
+            PRZ: GZH47_02880 GZH47_04205 GZH47_07265
+            PLYC: GXP70_09115 GXP70_13590 GXP70_14405 GXP70_15325 GXP70_23075
+            PSOP: KP014_02580 KP014_08200
+            PTRI: KDC22_04740 KDC22_04745 KDC22_32150
+            PALO: E6C60_1132 E6C60_1162 E6C60_1163
+            PCEL: HUB94_31410
+            PTJ: JRJ22_03955 JRJ22_03960 JRJ22_17750
+            PALR: HGI30_04185
+            TCO: Theco_1304
+            ASOC: CB4_03187(kinE_6)
+            COH: EAV92_02980
+            COHN: KCTCHS21_58200
+            CCHL: FPL14_12945
+            SACA: FFV09_16195
+            AFX: JZ786_23415
+            TUM: CBW65_09880 CBW65_11670 CBW65_11675 CBW65_23445
+            TAB: CIG75_16595
+            PLN: Plano_2218
+            PKU: AUO94_04600
+            PRT: AUC31_15695
+            PANA: BBH88_07940
+            PDG: BCM40_04165
+            PHC: BBI08_08335
+            PMAR: B0X71_04620
+            PPLA: BBI15_06910
+            PFAE: AJGP001_12945
+            PLX: CW734_12935
+            PMAT: BBI11_12345
+            PDEC: H1Q58_11635
+            JEO: JMA_14420
+            SPSY: AZE41_08795
+            PANC: E2636_03825 E2636_06225 E2636_14550
+            PLAY: DNR44_008630
+            VIJ: JNUCC6_02085
+            DAI: Desaci_4492
+            DMI: Desmer_4410
+            ACAE: HYG86_07260
+            HPK: Hprae_0465
+            KME: H0A61_01547(kinA)
+            ACIT: HPK19_10500 HPK19_20345 HPK19_20355
+            CDES: C0J27_02090
+REFERENCE   PMID:11069677
+  AUTHORS   Jiang M, Shao W, Perego M, Hoch JA
+  TITLE     Multiple histidine kinases regulate entry into stationary phase and sporulation in Bacillus subtilis.
+  JOURNAL   Mol Microbiol 38:535-42 (2000)
+            DOI:10.1046/j.1365-2958.2000.02148.x
+///

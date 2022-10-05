@@ -1,0 +1,310 @@
+ENTRY       K11614                      KO
+SYMBOL      yufL, malK
+NAME        two-component system, CitB family, sensor histidine kinase MalK [EC:2.7.13.3]
+PATHWAY     map02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:ko00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                K11614  yufL, malK; two-component system, CitB family, sensor histidine kinase MalK
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases
+                K11614  yufL, malK; two-component system, CitB family, sensor histidine kinase MalK
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system
+                K11614  yufL, malK; two-component system, CitB family, sensor histidine kinase MalK
+            Enzymes [BR:ko01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 K11614  yufL, malK; two-component system, CitB family, sensor histidine kinase MalK
+            Protein kinases [BR:ko01001]
+             Histidine kinases
+              CitB family [OT]
+               K11614  yufL, malK; two-component system, CitB family, sensor histidine kinase MalK
+            Two-component system [BR:ko02022]
+             CitB family
+              MalK-MalR (malate transport)
+               K11614  yufL, malK; two-component system, CitB family, sensor histidine kinase MalK
+DBLINKS     COG: COG3290
+            GO: 0000155
+GENES       LRI: NCTC12151_00762(dcuS)
+            PSZ: PSTAB_0389
+            PSR: PSTAA_0411
+            PSC: A458_19630
+            PSH: Psest_3923
+            PSTU: UIB01_19875
+            PSTT: CH92_01335
+            PCHL: LLJ08_18830(dcuS)
+            PKG: LW136_20460(dcuS)
+            HEL: HELO_3716
+            HAF: C8233_09240
+            HAA: A5892_06870
+            CMAI: BFX80_15280
+            CAMH: LCW13_01985
+            KUS: B9G99_11025
+            KMA: B9H00_03775
+            KUY: FY550_04305
+            GAP: GAPWK_0506
+            ORB: IPMB12_06370(dcuS)
+            SALN: SALB1_2403
+            SWS: I6J16_04160
+            DDS: Ddes_1535
+            DEF: CNY67_05300
+            BSU: BSU31520(yufL)
+            BSR: I33_3244(malK)
+            BSL: A7A1_2264
+            BSH: BSU6051_31520(yufL)
+            BSY: I653_15175
+            BSUT: BSUB_03371(malK)
+            BSUL: BSUA_03371(malK)
+            BSO: BSNT_09615(dcuS)
+            BSN: BSn5_06655
+            BSQ: B657_31520(yufL)
+            BSX: C663_3013(malK)
+            BSP: U712_15700
+            BSS: BSUW23_15345(yufL)
+            BST: GYO_3441(malK)
+            BLI: BL02538(malK)
+            BLD: BLi03334(malK)
+            BLH: BaLi_c34110(malK2)
+            BAY: RBAM_028620(dcuS)
+            BAQ: BACAU_2889(yufL)
+            BYA: BANAU_3051(yufL)
+            BAMP: B938_14630
+            BQY: MUS_3444(yufL)
+            BAML: BAM5036_2776(yufL)
+            BAMA: RBAU_2991(yufL)
+            BAMN: BASU_2782(yufL)
+            BAMB: BAPNAU_3039(yufL)
+            BAMT: AJ82_16190
+            BAMY: V529_31190(yufL)
+            BMP: NG74_03010(dcuS_2)
+            BAO: BAMF_2952(malK)
+            BAZ: BAMTA208_15665(malK)
+            BQL: LL3_03221(malK)
+            BXH: BAXH7_03201(yufL)
+            BAMI: KSO_004855
+            BAMC: U471_29620
+            BAMF: U722_15425
+            BSIA: CWD84_05055
+            BAE: BATR1942_13610
+            BVM: B9C48_14615
+            BSON: S101395_04053(yufL)
+            BHT: DIC78_15425
+            BMOJ: HC660_30390(maeL)
+            BTEQ: G4P54_16090(maeL)
+            BIQ: AN935_15820
+            BAN: BA_0576
+            BAR: GBAA_0576
+            BAT: BAS0545
+            BAH: BAMEG_4010
+            BAI: BAA_0659
+            BAX: H9401_0547
+            BANT: A16_06340
+            BANR: A16R_06430
+            BANS: BAPAT_0554
+            BANH: HYU01_03135
+            BANV: DJ46_5034
+            BCE: BC0577
+            BCA: BCE_0639
+            BCZ: BCE33L0489
+            BCB: BCB4264_A0614
+            BCU: BCAH820_0632
+            BCG: BCG9842_B4725
+            BCQ: BCQ_0642
+            BCX: BCA_0607
+            BAL: BACI_c05860
+            BCF: bcf_02945
+            BCER: BCK_05260
+            BCEF: BcrFT9_00546
+            BCY: Bcer98_0496
+            BTK: BT9727_0487
+            BTL: BALH_0516
+            BTB: BMB171_C0498
+            BTT: HD73_0648
+            BTHI: BTK_03275
+            BTC: CT43_CH0498
+            BTF: YBT020_03130
+            BTM: MC28_5299
+            BTG: BTB_c05910(malK)
+            BTI: BTG_18280
+            BTN: BTF1_00595
+            BTHT: H175_328p032 H175_ch0501
+            BTHU: YBT1518_03055
+            BTW: BF38_1825
+            BTHY: AQ980_27740
+            BWE: BcerKBAB4_0490
+            BWW: bwei_5028(dcuS)
+            BMYO: BG05_5349
+            BTY: Btoyo_3254
+            BMYC: DJ92_3180
+            BBY: CY96_02040
+            BWD: CT694_03310
+            BTRO: FJR70_25115(dcuS)
+            BMOB: MLA2C4_03065
+            BNT: GSN03_03175(dcuS)
+            BPU: BPUM_2820
+            BPUM: BW16_15290
+            BPUS: UP12_14880
+            BIF: N288_04925
+            BMET: BMMGA3_15895(malK)
+            BGY: BGLY_3721(malK)
+            BXI: BK049_12855
+            BALT: CFN77_15205(dcuS)
+            BSAF: BSL056_15930
+            BIT: BIS30_05315
+            BFD: NCTC4823_01129(malK_2)
+            BDA: FSZ17_20335(dcuS) FSZ17_22885
+            BBAD: K7T73_17195(dcuS)
+            BCAB: EFK13_16170(maeL)
+            BRY: M0696_15875(maeL)
+            BJS: MY9_3164
+            BACI: B1NLA3E_20310
+            BACW: QR42_14310
+            BACP: SB24_14425
+            BACB: OY17_17625
+            BACY: QF06_14090
+            BACL: BS34A_34500(yufL)
+            BALM: BsLM_3147
+            BACS: AUL54_15405
+            BACQ: DOE78_22520
+            BCIR: C2I06_21365
+            BMQ: BMQ_0339(malK)
+            BMD: BMD_0340(malK)
+            BMH: BMWSH_4891
+            BMEG: BG04_2629
+            BEO: BEH_22515
+            PKS: IE339_02510(dcuS)
+            BHA: BH0397
+            BCL: ABC0915
+            BLE: BleG1_3848 BleG1_3888
+            BGI: BGM20_09865
+            BPF: BpOF4_05515(dcuS) BpOF4_18125(dcuS)
+            CGOT: J1899_00895(dcuS) J1899_11730
+            OIH: OB3220
+            HMN: HM131_07995
+            HLI: HLI_20210
+            TAP: GZ22_10900
+            TAID: KS242_11835(dcuS)
+            VIG: BKP57_03435
+            VIL: CFK37_10410
+            VPN: A21D_01670(dcuS_2) A21D_02777(dcuS_3)
+            VPT: KBP50_05310
+            BSJ: UP17_06610 UP17_14645
+            PASA: BAOM_2256(yufL)
+            PFRI: L8956_07170(dcuS)
+            NMK: CHR53_11500
+            NDT: L1999_01630(dcuS) L1999_07000(dcuS)
+            MEKU: HUW50_03455(dcuS)
+            MSEM: GMB29_07500(dcuS) GMB29_10710(dcuS)
+            MLIT: KDJ21_002770(dcuS)
+            BVQ: FHE72_07740(dcuS)
+            BBEV: BBEV_2209(malK)
+            GAJ: MY490_16615(dcuS)
+            PSUA: FLK61_38545(dcuS)
+            SLMS: MM221_11550(dcuS)
+            SXY: BE24_00600
+            SXL: SXYLSMQ121_2135
+            SXO: SXYL_02289
+            SEQO: SE1039_25620
+            SPSD: JMB28_11595(dcuS)
+            SSCU: CEP64_13425
+            MVT: I6J10_10675(dcuS)
+            GSA: FOC50_00670
+            GHA: NCTC10459_01033(dcuS)
+            BLR: BRLA_c008360(dcuS_1)
+            BRW: GOP56_20185(dcuS)
+            PPY: PPE_03212 PPE_04769
+            PPM: PPSC2_17000(dcuS) PPSC2_24775(yufL)
+            PPO: PPM_3431(dcuS) PPM_4923(yufL)
+            PPOL: X809_33045 X809_41325
+            PPQ: PPSQR21_034290 PPSQR21_050160
+            PPOY: RE92_12510 RE92_20095
+            PTA: HPL003_25600
+            PBD: PBOR_10345 PBOR_26255
+            PGM: PGRAT_09675
+            PAEN: P40081_10050
+            PAEQ: R50912_09410
+            PSTE: PSTEL_08995
+            PAEE: R70331_07775
+            PAEH: H70357_09720
+            PAEJ: H70737_19545
+            PPEO: ABE82_17105 ABE82_25075
+            PNP: IJ22_32850
+            PDH: B9T62_03800 B9T62_08555
+            PKB: B4V02_00260 B4V02_08335
+            PAIH: ASL14_12685 ASL14_21245
+            PVO: PVOR_30833
+            PLEN: EIM92_12195(dcuS)
+            PTRI: KDC22_22840(dcuS)
+            PRT: AUC31_10505
+            PLL: I858_003950
+            PHC: BBI08_16265
+            PMAR: B0X71_13925
+            PPLA: BBI15_11450
+            PFAE: AJGP001_04070
+            PLX: CW734_17895
+            PMAT: BBI11_00610
+            PDEC: H1Q58_16060(dcuS)
+            PGQ: FK545_11540(dcuS)
+            JEO: JMA_36160
+            SURE: SporoP32a_04775
+            SPAE: E2C16_03605(dcuS)
+            PLAY: DNR44_016900(dcuS)
+            PABS: JIR001_03150
+            LAW: LACWKB8_0432
+            LHS: DLD54_02040
+            LPAI: GYM71_02130
+            LROS: LROSL1_1477
+            LKI: LKI_04645
+            LEC: LGMK_07775
+            LGS: LEGAS_0330(hpk2)
+            LGE: C269_01565
+            EFC: EFAU004_01134
+            EFAU: EFAU085_01212
+            EFU: HMPREF0351_11183(dcuS) HMPREF0351_11184
+            EFM: M7W_1685
+            EFT: M395_07415
+            ELAC: I4Q40_07955
+            MPS: MPTP_0167
+            MPX: MPD5_0156
+            VTE: BHY08_00215
+            VPI: BW732_03435
+            VHY: G7082_07315
+            VFV: K5K99_03865
+            CML: BN424_41(hpk2)
+            CDJ: BFC22_12275
+            MARR: BKP56_12455
+            CLJ: CLJU_c38480
+            CAH: CAETHG_1704(dcuS) CAETHG_2484(dcuS)
+            CCK: Ccar_14790
+            CLOS: DMR38_01735(dcuS) DMR38_19185(dcuS)
+            OVA: OBV_40480
+            DSY: DSY3141
+            DHD: Dhaf_4311
+            DDH: Desde_3675
+            DMT: DESME_03200
+            DAI: Desaci_3984
+            GEK: kuro4_12160
+            KME: H0A61_01563(dcuS)
+            PUF: UFO1_0233 UFO1_1381 UFO1_3054
+            PFT: JBW_01685 JBW_02575 JBW_02906
+            MANA: MAMMFC1_01436(dcuS)
+            PFAC: PFJ30894_01653(dcuS)
+            MBJ: KQ51_01816(dcuS)
+            PPIO: CE91St28_12380
+REFERENCE   PMID:12949160 (Bacillus)
+  AUTHORS   Doan T, Servant P, Tojo S, Yamaguchi H, Lerondel G, Yoshida K, Fujita Y, Aymerich S
+  TITLE     The Bacillus subtilis ywkA gene encodes a malic enzyme and its transcription is activated by the YufL/YufM two-component system in response to malate.
+  JOURNAL   Microbiology 149:2331-43 (2003)
+            DOI:10.1099/mic.0.26256-0
+REFERENCE   PMID:12949159 (Bacillus)
+  AUTHORS   Tanaka K, Kobayashi K, Ogasawara N
+  TITLE     The Bacillus subtilis YufLM two-component system regulates the expression of the malate transporters MaeN (YufR) and YflS, and is essential for utilization of malate in minimal medium.
+  JOURNAL   Microbiology 149:2317-29 (2003)
+            DOI:10.1099/mic.0.26257-0
+  SEQUENCE  [bsu:BSU31520]
+///
