@@ -14,6 +14,7 @@ import java.util.stream.Collectors;
 //  questo file contiene il parsing fatto
 public class testRead {
 
+    private static Map<String, String> pairedMap = new HashMap<>();
 
 
     public static ArrayList<String> IsEnzymeReader() throws IOException {
@@ -134,32 +135,7 @@ public class testRead {
         ArrayList<String> enzymeList = new ArrayList<>();
 
 
-
-
-
-
-        /*Files.walk(Paths.get("./K0"))
-                .filter(Files::isRegularFile)
-                .forEach(path -> {
-                    try {
-                        Stream<String> lineStream = Files.lines(path);
-                        lineStream.forEach(line -> {
-                            if (line.contains("GENES")) {
-                                return;
-                            }
-
-                            System.out.println(line);
-
-                        });
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-
-                });*/
-
         File folder = new File("./K0");
-
-
 
         int totfiles=0;
         int lastIndex = 0;
@@ -215,6 +191,17 @@ public class testRead {
         System.out.println("Sono Enzimi: " + enzymeList.size() + " su totale di " + totfiles); // 1819 su 1915
 
 
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println("----------------------------------------------");
+        List<String> finalListToSave = new ArrayList<>();
+        pairedMap.forEach((s, s2) -> finalListToSave.add(s+";"+s2));
+
+        File hsaNlFile = getHsaNlFile("hsa_adj");
+        Path path = Paths.get(hsaNlFile.toURI());
+        Files.write(path, finalListToSave, StandardOpenOption.APPEND);
+
         // IsEnzymeGlobal = IsEnzyme;
         return enzymeList;
     }
@@ -254,7 +241,7 @@ public class testRead {
                         repList.add(compoundList);
                     }
 
-                    if (inputLine.contains("PATHWAY")) {
+                    if (inputLine.contains("rn")) {
                         String reactionPathWayNumber = getNumberFromReactionPathWay(inputLine);
                         if (pathWayNumbers.contains(reactionPathWayNumber)) {
                             // we found a node
@@ -275,16 +262,10 @@ public class testRead {
 //        System.out.println(uniqueCompoundSet);
 
         System.out.println(repList);
+        //String outputStr = String.join(";", matchedPathWayList) + ";"+ repeatCount(repList);
+        //System.out.println(outputStr+"--------------------------------------");
 
-
-
-        String outputStr = String.join(";", matchedPathWayList) + ";"+ repeatCount(repList);
-
-        System.out.println(outputStr+"--------------------------------------");
-
-        File hsaNlFile = getHsaNlFile("hsa_adj");
-        Path path = Paths.get(hsaNlFile.toURI());
-        Files.write(path, List.of(outputStr), StandardOpenOption.APPEND);
+        createPairedList(new ArrayList<>(matchedPathWayList), repeatCount(repList));
 
     }
 
@@ -329,9 +310,32 @@ public class testRead {
 
     public static File getHsaNlFile(String fileName) throws IOException {
         File file = new File("./output/"+fileName+".txt");
+        File dir = new File("./output/");
+        if (!dir.exists()) {
+            dir.mkdir();
+        }
         if (!file.exists()) {
             file.createNewFile();
         }
         return file;
+    }
+
+
+    public static List<String> createPairedList(List<String> strList, int commonCompound) {
+        List<String> pairedList = new ArrayList<>();
+        for (int i = 0; i < strList.size(); i ++) {
+            for (int j = i+1; j<=strList.size()-1; j++) {
+                String key = strList.get(i) + ";" + strList.get(j);
+                if (pairedMap.containsKey(key)) { // updating key with sum with previous one
+                    String cc = pairedMap.get(key);
+                    pairedMap.put(key, String.valueOf(Integer.parseInt(cc) + commonCompound));
+                } else {
+                    pairedMap.put(key, String.valueOf(commonCompound));
+                }
+                pairedList.add(strList.get(i) + ";" + strList.get(j) +";"+ commonCompound);
+            }
+        }
+        System.out.println("paired list:"+pairedList);
+        return pairedList;
     }
 }
