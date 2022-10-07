@@ -11,11 +11,9 @@ import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-//  questo file contiene il parsing fatto
+//  questo file contiene il parsing
 public class testRead {
-
     private static Map<String, String> pairedMap = new HashMap<>();
-
 
     public static ArrayList<String> IsEnzymeReader() throws IOException {
         boolean movetoNextFile = false;
@@ -51,7 +49,6 @@ public class testRead {
             }
         }
         System.out.println("Sono Enzimi: " + IsEnzyme.size() + " su totale di " + totfiles); // 1819 su 1915
-
         System.out.println("Sono Enzimi con reactions: " + IsEnzymeWithReaction.size() );
         // IsEnzymeGlobal = IsEnzyme;
         return IsEnzymeWithReaction;
@@ -122,8 +119,7 @@ public class testRead {
     public static void main(String[] args) throws ParseException, IOException {
          ArrayList<String> IEnzyme = enzymeReader();
 
-        //KeggParser();
-        //System.out.println("Enzimi con reactions: " + enzymes + " con dimensione: " + enzymes.size());
+
 
         System.out.println("totale enzimi" + IEnzyme.size());
 
@@ -134,9 +130,7 @@ public class testRead {
         boolean movetoNextFile = false;
         ArrayList<String> enzymeList = new ArrayList<>();
 
-
         File folder = new File("./K0");
-
         int totfiles=0;
         int lastIndex = 0;
         for (File file : folder.listFiles()) {
@@ -174,7 +168,6 @@ public class testRead {
                             File hsaNlFile = getHsaNlFile("hsa_nl");
                             Path path = Paths.get(hsaNlFile.toURI());
                             Files.write(path, pathWays, StandardOpenOption.APPEND);
-
 
                             //chiamata rest api su rn
                             makeApiCall(reactionList, pathWayNumbers);
@@ -319,7 +312,6 @@ public class testRead {
         }
         return file;
     }
-
 
     public static List<String> createPairedList(List<String> strList, int commonCompound) {
         List<String> pairedList = new ArrayList<>();
